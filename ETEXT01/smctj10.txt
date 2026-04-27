@@ -1,0 +1,886 @@
+Tamil Bookshelf Etext of The Small Catechism of Martin Luther
+Japanese Translation by Hiroshi Yuki
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+*It must legally be the first thing seen when opening the book.*
+In fact, our legal advisors said we can't even change margins.
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Tamil Bookshelf to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Title:  The Small Catechism of Martin Luther
+
+Author:  Martin Luther
+
+April, 2001  [Etext #2592]
+
+
+Tamil Bookshelf Etext of The Small Catechism of Martin Luther
+*****This file should be named smctj10.txt or smctj10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, smctj11.txt
+VERSIONS based on separate sources get new LETTER, smctj10a.txt
+
+This etext was translated and prepared by Hiroshi Yuki <hyuki@hyuki.com>.
+http://www.hyuki.com/
+http://www.hyuki.com/trans/smallct.html
+
+Tamil Bookshelf Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Tamil Bookshelf Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Tamil Bookshelf (one page)
+
+
+
+We need your donations more than ever!
+
+
+All donations should be made to "Tamil Bookshelf/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Tamil Bookshelf
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Tamil Bookshelf etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Tamil Bookshelf.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Tamil Bookshelf mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/tamilbookshelf
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Tamil Bookshelf legal advisor**
+
+(Three Pages)
+
+
+
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a Tamil Bookshelf-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "Tamil Bookshelf-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Tamil Bookshelf,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Tamil Bookshelf Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Tamil Bookshelf
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+�}���`���E���^�[�̏��M�ⓚ��
+
+Luther's Little Instruction Book (The Small Catechism of Martin Luther)
+
+�}���`���E���^�[ ��
+���� �_ ��
+
+1. ��ꕔ�F�\���ɂ���
+
+���e���Ƒ��ɏ\�����Ȍ��Ɏ����ɂ�
+
+�k�󒍁F�����ł̃��^�[�̔ԍ��̂����́A�A�E�O�X�e�B�k�X����у��e������
+�̋敪�@�ɏ]���Ă��܂��i�w�M�v�`�xp.188�j�B ���̋敪�@�ł́A���̉���
+�Ƃ��āu������q�̋֎~�v������A���ɔԍ�������Ă����A�Ō�̓�u����
+���߁v�Ɓu��\�̉��߁v����ɂ܂Ƃ߂��āu��\�̉��߁v�ɂȂ�܂��B����
+���̂��̂ɂ͔ԍ��͂����Ă��܂���B�l
+
+
+1.1. ���̉���
+
+���̐_�X��_�Ƃ��Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͑��̉������B��̐_���؂�A�����A�M�����Ȃ���΂Ȃ�Ȃ���
+�������Ƃł��B
+
+
+1.2. ���̉���
+
+�_�̖��O��������ړI�Ɏg���Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�_�̌䖼��p��
+�Ď������A��������A��������������A�R��������\�����肵�Ă͂Ȃ�܂�
+��B�����ł͂Ȃ��A�_�����߁A�_�ɋF��A�_���^�����A�����Ȃ鍢��ȂƂ��ɂ�
+���Ă��_�Ɋ��ӂ��邽�߂ɁA�_�̌䖼��p���Ȃ����A�Ƃ����Ӗ��ł��B
+
+
+1.3. ��O�̉���
+
+�������𐹂Ȃ���̂Ƃ��Ď��Ȃ����B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A������_�̌䌾
+�t���y�����Ă͂����܂���B�����ł͂Ȃ��A�_�̌��t�𐹂Ȃ���̂ƍl���A���
+�Ŏ������玨���X���A������w�тȂ����A�Ƃ����Ӗ��ł��B
+
+
+1.4. ��l�̉���
+
+���Ȃ��̂�������Ƃ��ꂳ����h���Ȃ����B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A���e��ڏ�̐l
+��n���ɂ�����A�킸��킹���肵�Ă͂����܂���B�����ł͂Ȃ��āA���e���
+��̐l���h���A�d���A�]���A�����A��؂ȑ��݂Ƃ��Ĉ����Ȃ����A�Ƃ����Ӗ���
+���B
+
+
+1.5. ��܂̉���
+
+�E���Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͗אl��
+�̂ɊQ��^������A�������肵�Ă͂����܂���B�����ł͂Ȃ��āA�a�C�̂Ƃ�
+�ɗאl�������A�ŕa���Ă�����̂ł��B
+
+
+1.6. ��Z�̉���
+
+���������Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͌��t��
+�����Ă��s���ɂ����Ă��A���悭����A�܂��₩�łȂ���΂Ȃ�܂���B��
+���Ď����̔z��҂������h���ׂ��ł��B
+
+
+1.7. �掵�̉���
+
+���݂����Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͗אl��
+�����⏊�L����D������A���\�ɂ���ē�����A�n��ɍ��ꂽ���̂𔄂��
+���肵�Ă͂����܂���B�����ł͂Ȃ��āA�אl�����Y��o���𑝂���������A��
+������ł���悤�Ɏ菕�����Ȃ���΂Ȃ�܂���B
+
+
+1.8. �攪�̉���
+
+�אl�ɂ��āA�R�����Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͉R����
+������A���؂�����A���_��ʑ�������A�אl�̕]���𗎂Ƃ����肵�ċ\���Ă�
+�Ȃ�܂���B�����ł͂Ȃ��āA�ނ���אl�ɂ��ĕٌ삵�A�אl�Ɋւ��ėǂ���
+�Ƃ������A�אl���Ȃ����Ƃ̗ǂ��ʂ�����悤�ɂ��Ȃ���΂Ȃ�܂���B
+
+
+1.9. ���̉���
+
+�אl�̉Ƃ�~�������Ă͂Ȃ�܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͗אl��
+���܂��Ĉ�Y��Ƃ�D�����Ƃ�����A�����Ɍ���������悤�ȐU�镑�������ĒD
+����낤�Ƃ����肵�Ă͂Ȃ�܂���B�����ł͂Ȃ��āA�אl�����Y��ۂ��A����
+�ɑ�����������悤�Ɏ菕�������ׂ��ł��B
+
+
+1.10. ��\�̉���
+
+���Ȃ��́A�אl�̍ȁA�j���̓z��A�����̓z��A�ƒ{�A���̂ق��ǂ�Ȃ��̂ł�
+��A�אl�̂��̂�~�������Ă͂����܂���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͐_���؂�A�����Ȃ���΂Ȃ�܂���B�ł�����A�������͗אl��
+�����������A�ق��l��D������A�Ȃ�U�f�����肵�Ă͂����܂���B�����ł�
+�Ȃ��āA�ނ炪�אl�̂Ƃ���ɂƂǂ܂�Â��A���ꂼ��̋`�����ʂ����悤��
+���Ȃ���΂Ȃ�܂���B
+
+
+1.11. ����
+
+�₢�@�����̉��ߑS�̂ɂ��āA�_�l�͎������ɉ��Ƃ���������Ă��܂����B
+
+�����@�ȉ����_�l�̌���Ă����邱�Ƃł��B�u�킽���͎�A���Ȃ��̐_�ł���B
+�킽���͂˂��ސ_�ł���B�킽���𑞂ގ҂ɑ΂��ẮA�c��̍߂����̑��A����
+�ɂ��̑��ɂ܂ŕ��킹��B�������A�킽����������҂ɑ΂��Ă͐��ɋy�Ԃ܂�
+�b�݂��{���v
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�_�l�͂����̉��߂�j��҂����ׂĔ�����ƌx����^���Ă��܂��B����
+�䂦�A�������͐_�l�̌�{����������ׂ��ł���A�����̉��߂Ɉᔽ���Ȃ�
+�悤�ɂ��ׂ��ł��B�������A�_�l�͂����̉��߂����҂ɂ͌b�݂Ƃ��ׂĂ̗�
+������񑩂��Ă��������܂��B����䂦�A�������͐_�l�������A�_�l��M�����A
+�_�l�̉��߂����߂邱�Ƃ����ōs���ׂ��Ȃ̂ł��B
+
+
+
+
+2. ��񕔁F�g�k�M���ɂ���
+
+���e���Ƒ��Ɏg�k�M�����Ȍ��Ɏ����ɂ�
+
+
+2.1. ���̋L���F�n���ɂ���
+
+���͓V�n�̑����A�S�\�̕��Ȃ�_��M���B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@���́A�_�l�����̔푢���ƂƂ��Ɏ���������Ƃ������Ƃ�M���Ă��܂��B
+�_�l�͎��ɁA���̂ƍ��A�ڂƎ��Ƒ̂̂��ׂāA�S�ƑS���o�����^���ɂȂ�܂����B
+�����Ă�����ۂ��Ă��Ă��������܂��B�܂��_�l�́A�ߕ��ƌC�A�H�ו��ƈ���
+���A�ƂƓy�n�A�ȂƎq�A�c���Ɖƒ{�Ǝ��̏��L�����ׂĂ�^���Ă��������܂��B
+�_�l�́A�����₦�邱�ƂȂ��A���̑̂Ɩ���{�����߂ɕK�v�Ȃ��ׂĂ�^���Ă�
+�������܂��B�_�l�͂��ׂĂ̊댯���玄�����A���ׂĂ̎׈��Ȃ��̂�������
+���������܂��B�_�l�������̂��Ƃ��s���̂́A���Ȃ�_�l�́A�����Ő��Ȃ�`
+�ƌb�݂̂��߂ł���A���������̗͂œ����킯�ł��Ȃ��A���ɂ��̎��i�����邩
+��ł�����܂���B�����̂��ׂĂ̂��Ƃ̂䂦�ɁA���͐_�l�Ɋ��ӂ��A�_�l��
+�^�����A�_�l�Ɏd���A�_�l�ɏ]��Ȃ���΂Ȃ�܂���B�͂��A�����ł��B���̂�
+�Ƃ͐^���ł��B
+
+
+2.2. ���̋L���F�����Ȃ��ɂ���
+
+���͂��̓Ƃ�q�A����̎�A�C�G�X�E�L���X�g��M���B��͐���ɂ��Ă�
+�ǂ�A�����}���A��萶�܂�A�|���e�I�E�s���g�̌��ɋꂵ�݂��󂯁A�\���˂�
+�����A���ɂđ����A����i��݁j�ɉ���A�O���ڂɎ��l�̂�������݂�
+����V�ɏ��A���Ȃ�_�̉E�ɍ������܂���B��������藈����āA���������
+�Ǝ��ɂ�����̂Ƃ����΂����܂��B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@���̓C�G�X�E�L���X�g���Ƃ������̕��Ȃ�_�ɂ�萶�܂ꂽ�܂��Ƃ̐_��
+���邱�Ƃ�M���܂��B���͂܂��A�C�G�X�E�L���X�g�������}���A���琶�܂ꂽ��
+���Ƃ̐l�Ԃł��邱�Ƃ�M���܂��B�C�G�X�E�L���X�g�������̎�ł��B�C�G�X��
+���������Ȃ��܂����B���͓��ɖ����A���ꂽ�l�Ԃł����B���ׂĂ̍߁A���A��
+���̎x�z������A�C�G�X�́A���𔃂����A�����������܂����B����͋����
+�Ŕ���������̂ł͂���܂���B�C�G�X���܂̐��Ȃ�M�������A�C�G�X���܂̖�
+���̑� �\�\ �C�G�X���܂̎��ɂ���Ăł��B���̂悤�ɂ��āA���̓C�G�X���܂�
+���̂ƂȂ�A�C�G�X���܂̉����ŃC�G�X���܂̌��ŕ�炵�A�`�Ƃ���A�߂�邳
+��A�j���������āA�i���ɃC�G�X���܂Ɏd����̂ł��B�C�G�X���܂������畜��
+���A�i���Ɏ��߂�̂Ɠ����悤�ɁB�͂��A�����ł��B���̂��Ƃ͐^���ł��B
+
+
+2.3. ��O�̋L���F���߂ɂ���
+
+���͐����M���A���Ȃ�����̋���A���k�̂܂����A�߂̎͂��A���炾�̂�
+�݂�����A�Ƃ������̖���M���B�A�[�����B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@���́A���̎�ł���C�G�X�E�L���X�g�̂��Ƃ֎������g�̒m����͂Ō���
+�����Ƃ͂ł��܂���B����������l�������ɂ���Ď��������Ă�������A�����
+�����ɂ���Ď��̖ڂ��J�����Ă�������A�܂��Ƃ̐M�̂����ɂ����Ď��𐹂�
+����̂ɂ��A�ۂ��Ă�������̂ł��B����͂��傤�ǁA���삪�n��̑S�������
+���Ă�������A��ɏW�߂Ă�������A�ڂ��J�����Ă�������A�C�G�X�ƂƂ���
+�B��̂܂��Ƃ̐M�̂����ɂ����Đ��Ȃ���̂Ƃ��A�ۂ��Ă�������̂Ɠ�����
+���B���̋���ɂ����āA�_�l�͖����A���₷�ׂĂ̐M�҂����������߂����ׂ�
+��邵�Ă��������܂��B�����ďI���̓��ɐ_�l�́A���Ƃ��ׂĂ̎��񂾐l���
+��������グ�Ă��������܂��B�_�l�́A���ƁA�L���X�g��M���邷�ׂĂ̐l�ɉi
+���̖���^���Ă��������܂��B�͂��A�����ł��B���̂��Ƃ͐^���ł��B
+
+
+
+
+3. ��O���F��̋F��ɂ���
+
+���e���Ƒ��Ɏ�̋F����Ȍ��Ɏ����ɂ�
+
+
+3.1. �_�ւ̌Ăт���
+
+�V�ɂ܂��܂��A����̕���B
+
+�k�V�ɂ���������A�������̂�������B�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@���̋F����n�߂�ɂ�����A�_�l���������̖{���̂�������ł���A����
+�����_�l�̖{���̎q�ǂ������ł���悤�ɐM���Ȃ����Ɛ_�l�͎������������Ă�
+��������̂ł��B�������Ď������́A�_�l��M�����A���S�Ȋm�M�������ċF��
+�̂ł��B������q�ǂ��������A�����镃�֊肢���Ƃ������Ă����̂Ɠ����悤�ɁB
+
+
+
+3.2. ��Ԗڂ̊肢
+
+�˂��킭�́A�䖼�i�݂ȁj�������߂������܂��B
+
+�k���Ȃ��̖��O�����Ȃ���̂ƂȂ�܂��悤�ɁB�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�����܂ł��Ȃ��A�_�l�̂����O�͂��ꎩ�̐��Ȃ���̂ł��B�ł����̊肢
+��ʂ��āA�_�l���������̂����ɂ����Ă��䖼�𐹂Ȃ���̂Ƃ��Ă�������悤
+�ɁA�Ǝ������͋F��̂ł��B
+
+�₢�@�ǂ�����΁A���̂悤�Ȃ��Ƃ��N����܂����B
+
+�����@�_�l�̌䌾�t�ł��鐹�����͂�����Ƃ��̂܂܂̌`�ŋ������A��������
+�䌾�t��y��Ƃ��Đ_�̎q�ǂ��̂悤�ɐ�������������Ƃ��ɂ����Ȃ�܂��B�V
+�ɂ��������邨���l�A���̂悤�Ɏ������������Ă��������B�������A�_�̌䌾
+�t�ȊO�̉����ɂ���ċ�������A���������肷��҂́A�������̊Ԃɓ����_�l��
+�䖼���������̂ł��B�V�ɂ��������邨���l�A���̂悤�Ȃ��Ƃ��玄��������
+��肭�������B
+
+
+3.3. �j�Ԗڂ̊肢
+
+�䍑�i�݂��Ɂj�𗈂��点���܂��B
+
+�k�_�̍������܂��悤�ɁB�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������A���������F��Ȃ��Ă��A�_�̌䍑�͂���Ă��܂��B�������A��
+�����͂��̊肢��ʂ��āA�_�̍����������̂Ƃ���ɂ�����Ă���悤�ɂƋF��
+�̂ł��B
+
+�₢�@�ǂ�����΁A���̂悤�Ȃ��Ƃ��N����̂ł��傤���B
+
+�����@�V�̕��Ȃ�_�l�͎������ɐ���𑗂��ĉ������܂��̂ŁA�������͐_�̌b
+�݂ɂ���Đ_�̐��Ȃ�䌾�t��M���邱�Ƃ��ł��܂��B�����Ď������́A���݂�
+���̐��ɂ����Ă��A����ɉi���̖��ɂ����Ă��A�_�̌�S�ɏ]���������𑗂邱
+�Ƃ��ł���̂ł��B
+
+
+3.4. �O�Ԗڂ̊肢
+
+�݂�����̓V�ɂȂ邲�Ƃ��A�n�ɂ��Ȃ������܂��B
+
+�k���Ȃ��̈ӎu���V���Ő��A����悤�ɁA�n��ɂ����Ă����A���܂��悤�ɁB�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������A�_�̐������b�ݐ[����S�́A���������F��Ȃ��Ă����A���܂��B
+�������A�������͂��̊肢��ʂ��āA�_�l�̌�S���������ɂ����Ă����A�����
+���ɂƋF��̂ł��B
+
+�₢�@�ǂ̂悤�ɂ��Ă��ꂪ�N����܂����B
+
+�����@�_�l���A�_�̍��𓞗������܂��Ƃ��邷�ׂĂ̈������ӎu�A���ׂĂ̈���
+��������ł��ӂ��A�j�~����Ƃ��ł��B�����̈��������̂Ƃ́A������A����
+���A����Ɏ������̓��̗~����ł��ӎu�ł��B�܂��_�̌�S���������̏�ɐ��A
+����̂́A�_�l���M�Ɛ_�̌䌾�t�ɂ���Ď����������߁A�l���̏I���Ɏ���
+�܂Ŏ�������M�[���������Ă�������Ƃ��ł��B���ꂱ���A�������A�b�݂ɂ�
+�ӂꂽ�_�l�̌�S�Ȃ̂ł��B
+
+
+3.5. �l�Ԗڂ̊肢
+
+����̓��p�i�ɂ��悤�j�̗Ɓi���āj�����������������܂��B
+
+�k�������ɖ����̗Ƃ��������^���Ă��������B�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������A���������F��Ȃ��Ă��A�_�l�́A�����l�Ԃ����ɑ΂��Ă����X
+�̗Ƃ����^���ɂȂ�܂��B����ǂ��A���̊肢��ʂ��āA���X�̗Ƃ�_�l���^��
+�Ă������邱�Ƃ��ӎ����A���ӂ������ē��X�̗Ƃ��󂯎���悤�ɂƎ�������
+�F��̂ł��B
+
+�₢�@�u���p�̗Ɓv�Ƃ͂ǂ������Ӗ��ł����B
+
+�����@�������̂��炾��{���A�K�v�𖞂����Ă���邷�ׂĂ̂��̂̂��Ƃł��B
+�Ⴆ�΁A�H�ו��A���ݕ��A���镨�A�C�A�ƁA��A�y�n�A�ƒ{�A���K�A���L���A��
+�g�I�Ȕz��ҁA���g�I�Ȏq�������A���g�I�Ȍق��l�A���g�I�ŐM�[���{���ҁA
+�悢���{�A�悢�V�C�A���a�A���N�A�w��A���_�A�悢�F�l�A�M�[���אl�A����
+�Ă���ɗނ��鑼�̑S�Ă̂��̂̂��Ƃł��B
+
+
+3.6. �ܔԖڂ̊肢
+
+����ɍ߂����������̂��A���炪��邷���Ƃ��A����̍߂�����邵����
+���B
+
+�k�������ɑ΂��č߂����������l���������͂�邵�܂�����A���Ȃ�����������
+�߂���邵�Ă��������܂��悤�ɁB�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������͂��̊肢��ʂ��āA�V�ɂ��������鎄�����̕��Ȃ�_�l������
+���̍߂ɖڂ𗯂߂���Ȃ��炸�A�܂����������ߐ[������Ƃ����������F�苁��
+����̂ɂӂ��킵���Ȃ�����Ƃ������Ƃ𗝗R�ɂ��āA�������̊肢��ނ�����
+���Ȃ��悤�ɂƋF��̂ł��B�������_�l�͎������ɁA���̂��ׂĂ̂��̂��b�݂�
+����ė^�������Ǝv���Ă��܂��B�������x���������͍߂�Ƃ��A�Y�����󂯂��
+�����R�̐g�ł���Ȃ���A�_�l�͂������Ă�������̂ł��B������A����������
+�R�̂��ƂƂ��āA�������ɍ߂��������l�X�ɐS������ŗǂ����Ƃ��������Ɗ�
+���̂ł��B
+
+
+3.7. �Z�Ԗڂ̊肢
+
+��������݂ɂ��킹���A
+
+�k��������U�f�ɂ��킹�Ȃ��ł��������B�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�������A�_�l�͒N���U�f������͂��܂���B�ł��A�������͂��̊肢��
+�ʂ��āA�_�l�������������A�~���Ă�������悤�ɂƋF��̂ł��B�����āA��
+���E���̐��E�������̓��̗~���A���������\������A�ً���ْ[�E��]�E���̋�
+�낵���s�i�s�E�����֗U�����񂾂肷�邱�Ƃ̂Ȃ��悤�ɁB�܂��A���Ƃ������
+�����������U�����Ă��Ă��A�������͂����ɑł������A�Ō�ɂ͏�������悤
+�ɂƋF��̂ł��B
+
+
+3.8. ���Ԗڂ̊肢
+
+�����~���o�������܂��B
+
+�k�׈��Ȃ��̂���A�����������R�ɂ��Ă��������B�l
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�S�̂̌��тƂ��āA�������͂��̊肢��ʂ��āA�V�ɂ��������鎄����
+�̕��Ȃ�_�l���A�������̓��́E���E���Y�E���_���������S�Ă̈��������̂���
+������������Ă�������悤�ɂƋF��܂��B�����āA���ɍŌ�̎�������Ă�
+���Ƃ��A�j���̂����Ɏ����}���邱�Ƃ�_�l������邵�ɂȂ�A��̌b�݂̂���
+�ɁA�܂̒J����_�l�݂̂��Ƃ֘A��čs���Ă�������悤�ɂƁA�������͋F���
+�ł��B
+
+
+3.9. �A�[�����B
+
+�₢�@����͂ǂ������Ӗ��ł����B
+
+�����@�V�ɂ��������镃�Ȃ�_�l���A���̋F����󂯓���Ă�������A������
+��Ă�������̂��A���͊m�M���Ă��܂��B�܂��A���̂悤�ɋF��Ȃ����Ǝ�����
+�ɂ������ɂȂ����̂͐_�l�����g�ł���A�_�l���������̋F��ɂ�������Ɩ�
+���Ă����邱�Ƃ��A���͊m�M���Ă��܂��B�A�[�����B�A�[�����B����́u����
+�ł��A�����ł��B���̂悤�ɂȂ�܂��v�Ƃ����Ӗ��ł��B
+
+
+
+
+4. ��l���F����ɂ���
+
+���e���Ƒ��ɐ�����Ȍ��Ɏ����ɂ�
+
+�₢�@����Ƃ͉��ł����B
+
+�����@����͒P�Ȃ鐅�ł͂���܂���B�_�̖��߂Ɋ܂܂�A�_�̌䌾�t�ƌ��т�
+���Ă��鐅�Ȃ̂ł��B
+
+�₢�@����͂ǂ̂悤�Ȍ䌾�t�ł����B
+
+�����@�������̎�L���X�g���}�^�C�ɂ�镟�����̍ŏI�͂Ō��ꂽ�u���E����
+�s���A���ׂĂٖ̈M�̍��X�ɋ����A���A�q�A����̌䖼�ɂ���Đ�����s���Ȃ�
+���v�Ƃ����䌾�t�ł��B
+
+�₢�@����ɂ���ĉ����^������̂ł����B����ɂǂ�Ȃ悢���Ƃ�����̂�
+���傤���B
+
+�����@����ɂ���č߂��͂���A���ƈ������炠���Ȃ��o����A�M������̂���
+�Ăɉi���̋~�����^�����܂��B����͐_�̌䌾�t�Ɩ񑩂��錾���Ă���ʂ��
+���B
+
+�₢�@���̐_�̌䌾�t�Ɩ񑩂Ƃ͉��ł����B
+
+�����@�������̎�L���X�g���}���R�ɂ�镟�����̍ŏI�͂Ō��ꂽ�u�M���āA
+������󂯂�҂͒N�ł��~���܂��B�������A�M���Ȃ����̂͒N�ł��̂����
+���v�Ƃ������t�ł��B
+
+�₢�@�ǂ����Ă��̂悤�Ȃ��΂炵�����Ƃ����ɂł���̂ł����B
+
+�����@�������A���ɂ͂��̂悤�Ȃ��Ƃ��s���͂͂���܂���B���ƂƂ��ɂ���A
+���̂����ɓ����_�̌䌾�t�����̂悤�Ȃ��Ƃ��Ȃ��̂ł��B�Ȃ��Ȃ�A�_�̌䌾
+�t���Ȃ���΁A���͂����̐��ɂ������A����ł͂Ȃ�����ł��B�������_�̌䌾
+�t������Ƃ��A���͐���ƂȂ�A�b�݂ɖ��������̐��A����ɂ��V���̐􂢂�
+�Ȃ�̂ł��B����́A���p�E�����e�g�X�ւ̎莆�R�͂Ŏ��̂悤�ɏq�ׂĂ����
+��ł��B�u�_���������̏�ɋ~����C�G�X�L���X�g��ʂ��ĖL���ɒ����ŉ�����
+���A����ɂ��V���ƍX�V�̐􂢂�ʂ��āA�������͓����b�݂ɂ���ċ`�Ƃ���A
+�i���̖��Ƃ�����]�ɂ���đ����l�ƂȂ����̂ł��B����͐M���邱�Ƃ��ł���
+���t�ł��v
+
+�₢�@���ɂ�����ɂ͂ǂ�ȈӖ�������̂ł����B
+
+�����@�������̓��Ȃ�Â��A�_���́A���X�̔߂��݂Ɖ������߂ɂ���āA���ׂ�
+�̍߂Ǝׂȗ~�]�ƂƂ��ɓM�ꎀ�ɁA�����āA���̔��΂ɁA�V�����l�Ԃ����X����
+��A������Ăѕ�������A�Ƃ����Ӗ�������܂��B���̐V�����l�Ԃ͐_�̌�O�ŁA
+�����������҂Ƃ��ĉi���ɐ�����̂ł��B
+
+�₢�@�ǂ��ɂ��ꂪ�����Ă���܂����B
+
+�����@���p�E�������[�}�l�ւ̎莆�U�͂Ŏ��̂悤�Ɍ����Ă��܂��B�u��������
+�����ʂ��ăL���X�g�Ƃ�������Ɏ��ւƑ����܂����B�ł�����L���X�g����
+�̉h���ɂ���Ď����畜�������̂Ɠ����悤�ɁA���������V�������̂����ɕ���
+�̂ł��v
+
+
+
+
+
+5. ��ܕ��F�߂̍����ɂ���
+
+������󂯂Ă��Ȃ��l�ɍ߂̍�����������ɂ�
+
+�₢�@�����Ƃ͉��ł����B
+
+�����@�����͓�̕�������Ȃ��Ă��܂��B��ڂ́A�����̍߂�F�߂邱�Ƃ�
+���B��ڂ́A�_�����g����󂯎��悤�ɁA�����t(confessor)����ō�(abso
+lution) ���Ȃ킿�߂̎͂����󂯎�邱�Ƃł��B�����̍߂��V�̐_�l�ɂ���Ď�
+���ꂽ�Ƃ������Ƃ��A�^�킸�Ɍ����M���Ď󂯎��̂ł��B�k�󒍁F�ō߂Ƃ͍�
+�����S�Ɏ͂��ꂽ���Ƃ̏j�����w���i�w�M�v�`�xp.58�j�l
+
+�₢�@�ǂ̂悤�ȍ߂�������Ȃ���΂Ȃ�Ȃ��̂ł��傤���B
+
+�����@�_�l�ɘb���Ƃ��́A���Ƃ��������m��Ȃ��߂ł����Ă��A�������͂��ׂ�
+�̍߂��A�����Ă��邱�Ƃ�F�߂Ȃ��Ă͂Ȃ�܂���B����͂��傤�ǁu��������
+���v�ɑ΂��Ă���̂Ɠ����ł��B�ł��A�����t(confessor) �ɑ΂��Ęb���Ƃ��́A
+���������m���Ă���߁A�S�Ɋo���A�����Ă���߂�������������̂ł��B
+
+�₢�@����͂ǂ̂悤�ȍ߂ł����B
+
+�����@�����ŁA�\���ɏƂ炵�Ď����̐����̒��ł̗�����l���Ă݂܂��傤�B��
+�Ȃ��͕��ł����B��ł����B���q�ł����B���ł����B�v�ł����B�Ȃł����B���g
+�ł����B���Ȃ��͕s�]���A�s�M�A�s�M�S�������肵�܂��񂩁B���t��s���Ől
+�����������Ƃ͂���܂��񂩁B���񂾂�A�`����ӂ�����A�������ق����炩
+���ɂ�����A�N�����������肵�����Ƃ͂���܂��񂩁B
+
+�k�󒍁F�w�M�v�`�x�ł͂��̌�ɜ����̕��@��������Ă��܂����AProject Wi
+ttenburg�̃e�L�X�g�ł͏�����Ă��܂���B�l
+
+
+
+
+6. ��Z���F���`���ɂ���
+
+���e���Ƒ��ɐ��`�����Ȍ��Ɏ����ɂ�
+
+�₢�@���`���Ƃ͉��ł����B
+
+�����@���`���́A�������̎�A�C�G�X�L���X�g�̂܂��Ƃ̑̂ƌ����ł���A�p��
+�ƂԂǂ����ɂ���Ď������N���X�`�������H�ׂ����Ĉ��ނ悤�ɂƃL���X�g����
+�g�ɂ���Đ��肳�ꂽ���̂ł��B
+
+�₢�@�ǂ��ɂ��̂��Ƃ������Ă���܂����B
+
+�����@���Ȃ�g�k�}�^�C�A�}���R�A���J�A�����Đ��p�E���������Ă��܂��B
+
+�u�������̎�C�G�X�L���X�g�́A�����Ă�����A�p�������A���ӂ���������
+����􂢂Ē�q�����ɓn���Ă��������܂����B�u��������Ȃ����B�����H��
+�Ȃ����B����͎��̂��炾�ł���A���Ȃ������̂��߂ɗ^��������̂ł��B��
+��Y��Ȃ��悤�Ɏ���ĐH�ׂȂ����v�����悤�ɂ��ĐH��̔t�����A���ӂ���
+�����Ă����q�����ɓn���Ă��������܂����B�u�݂�ȁA���̔t������Ĉ��݂�
+�����B���̔t�͎��̌��ɂ��V�����_��k�V��l�ł��B���Ȃ������̍߂��͂���
+�߂ɗ��������̂ł��B��������ނ��тɁA����Y��Ȃ��悤�ɂ�����s���Ȃ�
+���v
+
+
+�₢�@�H�ׂ�����񂾂肷�邱�Ƃ��ǂ�Ȃ悢���Ƃ��Ȃ��̂ł��傤�B
+
+�����@�u���Ȃ������̂��߂ɗ^������v����сu���Ȃ������̍߂��͂����߂�
+�������v�Ƃ������t�������Ă��܂��B���Ȃ킿���`���̂����̌��t��ʂ��āA
+�߂̎͂��A���Ƌ~�����������ɗ^�����܂��B�Ȃ��Ȃ�΍߂��͂����Ƃ����
+�́A���Ƌ~���������悤�ɂ��邩��ł��B
+
+�₢�@�ǂ����ĕ����I�ȐH�ׂ�����񂾂肷�邱�Ƃ�����Ȃɂ��΂炵�����Ƃ�
+�Ȃ��̂ł��傤���B
+
+�����@�������A�H�ׂ�����񂾂肷�邱�Ƃ����̂悤�Ȃ��Ƃ��Ȃ��킯�ł͂�
+��܂���B�����ɏ�����Ă���u���Ȃ������̂��߂ɗ^������v����сu����
+�������̍߂��͂����߂ɗ������v�Ƃ������t���A�����̂悢���Ƃ��Ȃ��̂�
+���B�����̌��t�́A�����I�ȐH�ׂ�����񂾂肷�邱�ƂƂƂ��ɐ��`���̏d�v
+�ȕ������߂Ă���̂ł��B�����̌��t��M����l�́A�����ŏq�ׂĂ���ʂ�
+�̂��́A�����ɋL����Ă���ʂ�̂��̂𓾂�̂ł��B���Ȃ킿�A�߂̎͂���
+��̂ł��B
+
+�₢�@����ł͒N�����̂悤�Ȑ��`�ɂ������邱�Ƃ��ł���̂ł��傤���B
+
+�����@�������A�f�H�₻�̂ق��̕����I�ȏ����Ƃ����̂́A�̂ɂƂ��Ă��΂�
+�����P���ƂȂ�ł��傤�B�������A�u���Ȃ������̂��߂ɗ^������v����сu
+���Ȃ������̍߂��͂����߂ɗ������v�Ƃ������t��M����l�Ȃ�N�ł��A���`
+�ɂ�������\���Ȏ��i������A�������ł��Ă���̂ł��B�������Ȃ���A�����
+�̌��t���^������M���Ȃ������肷��l�͐��`�ɂ������鎑�i���Ȃ��̂ł���A
+�������ł��Ă��Ȃ��̂ł��B�Ȃ��Ȃ�u���Ȃ������̂��߂Ɂv�Ƃ������t�́A��
+�S�ɐM����S�����߂邩��ł��B
+
+
+
+
+7. ���Ɨ[�ׂ̋F��
+
+���e���Ƒ��ɒ��Ɨ[�ׂ̋F���������ɂ�
+
+
+7.1. ���̋F��
+
+���A�N�����炷���ɁA���Ȃ�\���˂̂��邵�ɂ���Ď������g���j�����A���̂�
+���Ɍ����܂��傤�B
+
+���A�q�A����Ȃ�_�l�̌�S���Ȃ���܂��悤�ɁB�A�[�����B
+
+���ꂩ��A�Ђ��܂Â��Ă��������܂܂ł��悢�ł�����A�g�k�M�����q�ׁA���
+�F����F��Ȃ����B���̏����ȋF����F���Ă��悢�ł��傤�B
+
+�V�ɂ���������A�킽���̂����l�B���Ȃ��̈������q�i�݂��j�C�G�X�E�L��
+�X�g��ʂ��āA���ӂ��܂��B��ӂ��A�����鈫�����̂��Ȃ����Ƃ��玄����
+���Ă�������A���肪�Ƃ��������܂��B����������܂��A�����鈫�ƍ߂����
+���������~�����������B�����āA���̍s���␶�������Ȃ�����΂���悤�ɂƋF
+��܂��B�����g���A���Ȃ킿���̑̂ƁA���̐S�ƁA���̎����Ă�����̂��ׂĂ��A
+���Ȃ��̌��i�݂āj�ɂ��䂾�˂������܂��B�������G�����ɗ͂�U�邤���Ƃ�
+�Ȃ��悤�ɁA���Ȃ�V�g�����̂Ƃ���ɂ����킵�������B�A�[�����B
+
+���̌�ŁA��т������Ďd�����͂��߂���A�\���₠�Ȃ����g�̍l�����玦����
+���̂��̂����肵�Ă��悢�ł��傤�B
+
+
+7.2. �[�ׂ̋F��
+
+��A�Q���ɓ���Ƃ��A�\���˂̂��邵�ɂ���Ď������g���j�����A���̂悤�Ɍ�
+���܂��傤�B
+
+���A�q�A����Ȃ�_�l�̌�S���Ȃ���܂��悤�ɁB�A�[�����B
+
+���ꂩ��A�Ђ��܂Â��Ă��������܂܂ł��A�g�k�M�����q�ׁA��̋F����F���
+�����B���̏����ȋF����F���Ă��悢�ł��傤�B
+
+�V�ɂ���������A�킽���̂����l�B���Ȃ��̈������q�i�݂��j�C�G�X�E�L��
+�X�g��ʂ��āA���ӂ��܂��B���Ȃ��̌b�݂ɂ���Ď�������Ă�������A���肪
+�Ƃ��������܂��B�����������������߂ƈ����ǂ�������邵�������B���ӂ��A�_
+�l�̂��b�݂ɂ���Ď�������肭�������B�����g���A���Ȃ킿���̑̂ƁA���̐S
+�ƁA���̎����Ă�����̂��ׂĂ��A���Ȃ��̌��i�݂āj�ɂ��䂾�˂������܂��B
+�������G�����ɗ͂�U�邤���Ƃ��Ȃ��悤�ɁA���Ȃ�V�g�����̂Ƃ���ɂ���
+�킵�������B�A�[�����B
+
+���̌シ���ɁA��тȂ��疰��܂��傤�B
+
+
+
+
+8. �H���̋F��
+
+���e���H���̌b�݂Ɗ��ӂ̋F���������ɂ�
+
+�q�ǂ��B�Ǝg�p�l�����͐H��ɏW�܂��ĐT�݂����g�݁A���̂悤�Ɍ�����
+���傤�B
+
+���A���܂��Ȃ��ɖڂ������܂��B���Ȃ��͊F�ɐH�ו������傤�ǂ悢���ɗ^��
+�Ă��������܂��B���Ȃ��͐ɂ��݂Ȃ��^���Ă�����������J���A���ׂĂ̐���
+����̂̋Q�����A�]�ނ��̂Ŗ������Ă��������܂��B
+
+�����F�u�]�ނ��́v�Ƃ����̂́A���ׂĂ̐���������������H�ׂāA�K���ŁA��
+�тɂ��ӂ��悤�Ȃ��̂��Ӗ����܂��B�Ȃ��Ȃ�A�v���Y�݂⋭�~�͂��̂悤��
+�]�݂�W�Q���邩��ł��B
+
+���̌�ŁA��̋F��Ǝ��̂��F����F��܂��傤�B
+
+��Ȃ�_�l�B�V�̂����l�B���������j�����A�����̎������j�����Ă��������B
+�����́A���Ȃ��̐ɂ��݂Ȃ��^���Ă��������肩�炢�����������̂ł��B��
+�����̎�A�C�G�X���܂�ʂ��ċF��܂��B�A�[�����B
+
+�k�󒍁F�w�M�v�`�x�ł͂��̌�Ɂu�H��̋F��v����сu�ƒ�P�v���������
+���܂����AProject Wittenburg�̃e�L�X�g�ł͏�����Ă��܂���B�l
+
+
+
+
+9. ��҂��Ƃ���
+
+���́w�}���`���E���^�[�̏��M�ⓚ���x�́AProject Wittenburg �́ALuther'
+s Little Instruction Book (The Small Catechism of Martin Luther), transl
+ated by Robert E. Smith, May 22, 1994, (Version 1.1 -- December 22, 1994
+), PW# 001-003-002Ea �̑S��ł��B
+
+�󒍂́k�󒍁F�@�l�Ŏ����܂����B
+
+�����̌��t�͉p����|�󂵂܂����B
+
+��̋F��̕��͂́A�����̃v���e�X�^���g�̋���ŏ������Ă�����̂��L�q��
+�����̂ł��B���^�[�̕��͂Ƃ̌ĉ���₤���߂Ɂk�@�l�̌`�Ŗ󕶂������܂����B
+
+
+�g�k�M���̕��͂́A�����̃v���e�X�^���g�̋���ŏ������Ă�����̂��L�q��
+�����̂ł��B
+
+��҂̓v���e�X�^���g�̈�M�k�ɉ߂��܂���B���Ȃǂ̎w�E�����}���܂��B
+
+
+9.1. �Q�l����
+
+     �w�M�v�`�x�}���`���E���^�[���A�Ό� ����A��g���X�i��g���Ɂj
+
+
+9.2. �C������
+
+     1999�N 11�� 6���A�u��̋F��ɂ��āv�݂̂����J���܂����B
+     1999�N 12��10���A�u�}���`���E���^�[�̏��M�ⓚ���v�S�̂����J���܂�
+���B
+     2000�N  4��25���A�u�}���`���E���^�[�̏��M�ⓚ���v�S�̂��p�u���b�N
+�h���C���ɒu���܂����B
+
+Translated by Hiroshi Yuki�i���� �_�jin 1999.
+This translation is in the public domain in 2000.
+
+
+
+
+
+End of Tamil Bookshelf Etext of The Small Catechism of Martin Luther
+by  hyuki@hyuki.com
+http://www.hyuki.com/
+http://www.hyuki.com/trans/smallct.html

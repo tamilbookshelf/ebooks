@@ -1,0 +1,1981 @@
+The Tamil Bookshelf EBook of NIELS HENRIK ABEL, by G. MITTAG-LEFFLER
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Tamil Bookshelf eBook.
+
+This header should be the first thing seen when viewing this Project
+tamilbookshelf file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Tamil Bookshelf at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Tamil Bookshelf, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: NIELS HENRIK ABEL
+
+Author: G. MITTAG-LEFFLER
+
+Release Date: April, 2005 [EBook #7818]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 19, 2003]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-Latin-1
+
+*** START OF THE Tamil Bookshelf EBOOK NIELS HENRIK ABEL ***
+
+
+
+
+Produced by Anne Soulard, Joshua Hutchinson, Marlo Dianne
+and the Online Distributed Proofreading Team.
+
+
+
+
+NIELS HENRIK ABEL
+
+PAR
+G. MITTAG-LEFFLER
+
+
+
+
+Extrait de la _Revue du Mois_ num�ros 19-20, 10 juillet, 10 ao�t 1907, t.
+IV, pp. 5-25, 207-229.
+
+
+
+
+NIELS HENRIK ABEL
+[Note: _Niels Henrik Abel. En Skildring af hans liv og videnskabelig
+virksomhed_, par C. A. Bjerknes. Nordisk Tidskrift, 1880. Traduit en un
+vol. in 8�, Paris, Gauthier-Villars, 1855. --_Festskrift ved hundredaars
+jubilaeet for Niels Henrik Abels foedsel_, Kristiania, 1902. Traduit par
+P. G. la Chesnais, sous le titre: _M�morial de Niels Henrik Abel, publi� �
+l'occasion du centenaire de la naissance_, un vol. gr. in-8� chez
+Gauthier-Villars. --_Abel, den store mat�matikers slaegt_, par H. Finne-
+Groenn, Kristiania, 1899.]
+
+
+  O� il a �t�,
+  On ne pense pas sans lui.
+    BJOERNSTJERNE BJOERNSON.
+
+
+La science du nombre, la math�matique, qui est � la fois la plus ancienne
+et la plus d�velopp�e de toutes les sciences, renferme en son histoire
+beaucoup de noms, qui sont des pierres miliaires sur le parcours de la
+pens�e humaine. Les noms d'Archim�de, de Galil�e, de Descartes, de
+Leibnitz et de Newton, d'Euler, de Laplace, de Gauss et de Cauchy, d'Abel,
+de Riemann et de Weierstrass, �voquent chacun l'image de toute une �poque.
+Ceux qui les port�rent, en dehors de la puissance incisive de la pens�e,
+se sont distingu�s par d'autres dispositions et particularit�s
+personnelles qui saisissent vivement l'imagination. D'aucun d'eux ceci
+n'est plus vrai que de Niels Henrik Abel, l'�tudiant norv�gien qui jamais
+ne prit nul autre titre que celui, fier et modeste � la fois, de
+_math�maticien_, et qui, � peu pr�s inconnu dans son propre pays, mourut
+dans la mis�re avant vingt-sept ans accomplis, mais �tait compt� comme un
+�gal par son grand contemporain, � le ma�tre des nombres �, _princeps
+mathematicorum_, Carl Friedrich Gauss, et a �t� reconnu par la science de
+la post�rit� comme l'un des plus grands penseurs qui aient jamais v�cu.
+
+La courte vie d'Abel lui a ravi la possibilit� de mettre lui-m�me en
+oeuvre bien des id�es, qui furent l'origine de d�veloppements ult�rieurs
+de la science math�matique, ou de tenir des promesses, dont
+l'accomplissement, dans bien des cas, n'est pas encore r�alis�. Et
+pourtant nul math�maticien, plus qu'Abel, n'a su composer des �difices de
+pens�e construits dans toutes leurs parties essentielles, et m�me
+compl�tement achev�s. Les travaux alg�briques d'Abel ont amen� l'_alg�bre
+proprement dite_ au point qu'elle occupe encore. Sauf la notion de _genre_
+introduite par Weierstrass et Riemann, qui, d'ailleurs, est en germe dans
+Abel, nulle notion nouvelle, au sens le plus profond du mot, n'a gu�re �t�
+ajout�e � son oeuvre.
+
+La th�orie des _fonctions elliptiques_ est d'un bout � l'autre la cr�ation
+d'Abel. Toutes les propositions principales de la th�orie se trouvent chez
+lui. En m�me temps son exposition offre l'id�al d'une d�duction
+math�matique. Elle repose sur le plus petit nombre de principes, et
+chacune de ses propositions est li�e organiquement � la pr�c�dente et � la
+suivante.
+
+Le c�l�bre m�moire d'Abel sur la s�rie du bin�me est une des sources les
+plus importantes de la th�orie moderne des fonctions, et sera toujours
+compt� parmi les ouvrages classiques de la science: tout se tient, on voit
+l'ensemble, et la question est �puis�e, c'est l'art d'exposition parfait.
+
+Le _th�or�me d'Abel_, le � monumentum aere perennius �, selon l'expression
+enthousiaste du glorieux octog�naire Legendre, est peut-�tre encore
+aujourd'hui, avec sa conclusion rigoureuse et sa grande g�n�ralit�, ce
+qu'il y a de plus �lev� et de plus profond dans la math�matique.
+
+Comme tant d'autres parmi les hommes les plus remarquables du nord
+scandinave, Abel �tait fils de pr�tre. Son p�re s'appelait Soeren Georg
+Abel, et sa m�re Anna Marie Simonsen. Sa famille ne peut pas toutefois,
+comme il arrive si souvent en pareil cas, �tre rattach�e par deux ou trois
+g�n�rations � la classe des paysans-propri�taires. Le grand-p�re paternel,
+Hans Mathias Abel, �tait aussi pr�tre, et descendait d'une famille
+consid�r�e de fonctionnaires dano-norv�giens, probablement originaire du
+Slesvig danois, dont le premier membre norv�gien, Mathias Abel, mourut
+comme employ� dans l'administration pr�fectorale � Trondhjem en 1664. La
+femme de celui-ci, Karen fille de Rasmus, descendait de vieilles familles
+nobles norv�giennes. La m�re d'Abel, Anna Marie Simonsen, appartenait �
+une famille norv�gienne de n�gociants ais�s.
+
+La famille d'Abel compte de nombreux membres qui se sont distingu�s par
+leurs talents et leur int�r�t pour les choses d'ordre intellectuel.
+L'aspect ext�rieur d'Abel est un h�ritage ancien dans la famille Abel, et
+ne vient pas du c�t� maternel, comme le prouve la ressemblance frappante
+entre Abel lui-m�me et le fr�re cadet de son p�re, le sous-pr�fet
+(_lensmand_) M. C. Abel. Celui-ci, malgr� son intelligence, qui a d�
+d�passer de beaucoup, si son apparence ne trompe pas, la mesure ordinaire,
+n'a gu�re acquis de c�l�brit�, sinon que, lorsqu'il passa de la sous-
+pr�fecture d'Onsoe � celle d'Aremark, il re�ut un sucrier d'argent et un
+pot � cr�me avec l'inscription: � En reconnaissance de quatorze ann�es de
+bons services comme sous-pr�fet d'Onsoe, de la part d'une partie de la
+population �, et qu'il �pousa une femme tr�s bien dou�e. Le grand- p�re
+paternel d'Abel �tait un homme �nergique et remarquable, dont l'oeuvre
+principale para�t avoir �t� une action efficace contre le vice de
+l'�poque, l'ivrognerie. Lui-m�me, afin de pouvoir poursuivre cette lutte
+avec un plus grand succ�s, devint un abstentionniste absolu, et a sans
+doute �t� un des premiers pr�curseurs de ce mouvement dans le Nord.
+
+Le p�re d'Abel, s'il ne poss�dait pas la force de caract�re du grand-p�re,
+a �t� manifestement un homme tr�s distingu� � beaucoup d'�gards, ayant du
+go�t pour l'action et pour les int�r�ts g�n�raux, et d'une capacit� peu
+commune. Il fut membre du _Storting_ extraordinaire qui se r�unit le 7
+octobre 1814, et il y prit place dans _l'odelsting_. [Note: _L'Odelsting_
+est form� de membres du _Storting_, �lus par leurs coll�gues. Les lois
+sont discut�es publiquement, en Norv�ge, d'abord dans l'_Odelsting_, puis
+dans les s�ances pl�ni�res du _Storting_.] Il parla en faveur de l'union
+avec la Su�de, mais soutint que les Norv�giens �taient encore un peuple
+libre et ind�pendant, et devaient agir comme tel sous tous les rapports:
+
+    La Su�de n'avait donc aucun droit d'attendre, continuait-il, que nous
+    adoptions ses principes fondamentaux pour une union �ventuelle; c'est
+    � nous qu'il appartenait de proposer � ce royaume les conditions dans
+    lesquelles les libres Norv�giens pourraient appeler les Su�dois leurs
+    fr�res. Lorsque par ces r�solutions nous aurons pris les pr�cautions
+    convenables pour notre honneur national, notre libert� et nos droits
+    civiques; lorsque nous aurons ainsi pris garde que toute oppression
+    possible de quelque mani�re que ce soit, devienne impossible pour
+    quelque r�gent que ce soit; alors soyons les premiers � tendre au
+    peuple su�dois une loyale main fraternelle; alors, comme une nation
+    libre, offrons � Charles XIII le sceptre qui jusqu'alors ne lui �tait
+    pas destin�. Oublions tout ce qui s'est pass�, et souvenons-nous qu'�
+    celui qui pardonne il sera pardonn�. Si la constitution, pour la
+    r�daction de laquelle nul n'a qualit�, plus que les citoyens du pays
+    qui doivent lui ob�ir, est rejet�e par un r�gent en ce cas
+    manifestement despotique, alors toute la puissance de la Norv�ge
+    demeure: avec elle nous pouvons vaincre, avec elle nous pouvons
+    mourir, et dans les deux cas nous pourrons par elle recouvrer notre
+    honneur.
+
+Dans le _Storting_ de 1818, il fut un des rares qui lutt�rent en faveur de
+l'enseignement de la langue maternelle et des sciences naturelles
+concurremment avec les langues classiques. Il trouvait � singulier que
+l'on voul�t ind�finiment exclure la mati�re d'enseignement qui int�resse
+le plus les jeunes gens, les sciences naturelles ou la description de la
+nature �.
+
+La m�re d'Abel �tait lou�e pour son exceptionnelle beaut�. Elle �tait n�e
+dans une famille qui menait vie joyeuse et large, et elle se laissa aller,
+d�s l'�ge de quinze ans, � l'abus de l'alcool. La cons�quence fut une
+grande faiblesse de caract�re et une vie de m�nage malheureuse. Le p�re
+intelligent lutta longtemps contre l'ivrognerie, mais finit, sous
+l'influence de la m�re, par en devenir lui-m�me une victime. Ainsi la
+maison du fils devint un foyer de ce vice que le p�re avait consacr� sa
+vie � combattre. Ce vice fut transmis aux fr�res d'Abel, qui semblent tous
+avoir succomb� � l'ivrognerie. Trois des fr�res moururent c�libataires,
+d�chus, et l'esprit plus ou moins �gar�. Le quatri�me fr�re, qui fut le
+camarade d'�tudes d'Abel � l'universit�, et pour lequel il manifesta
+toujours une amiti� attentive, devint pr�tre comme le p�re et le grand-
+p�re, et laissa une descendance nombreuse. Lui aussi para�t avoir �t�, d�s
+l'enfance, adonn� � la boisson. Outre les quatre fr�res, il y avait encore
+une soeur, Elisabeth, tendrement aim�e de ce fr�re illustre, dont
+l'affectueuse sollicitude r�ussit � la sauver de la malheureuse maison
+paternelle, et � l'introduire de bonne heure dans un milieu d'une toute
+autre tenue morale. On c�l�bre sa beaut�, son intelligence, et la noblesse
+de son caract�re. Quatre ans apr�s la mort d'Abel elle �pousa le directeur
+de mines d'argent Boebert; sa fille, Thekla Lange, veuve d'un homme
+politique, qui fut ministre, vit encore aujourd'hui. John Aas, successeur
+du p�re d'Abel dans sa paroisse, fit graver sur la croix de sa tombe:
+
+  Arr�te-toi ici, voyageur, que cette tombe te rappelle
+  Que parfois le sourire du bonheur finit en larmes.
+  Bien que la vie se f�t lev�e douce comme le soleil,
+  Soupirs et pleurs en furent le dernier destin.
+
+Sur ce fond lamentable se dessinent l'enfance et la premi�re jeunesse
+d'Abel. Il �tait le second des six enfants et naquit le 5 ao�t 1802. Il
+re�ut le premier enseignement de son p�re, chez lui, mais fut mis en
+novembre 1815, � l'�ge de treize ans, � l'�cole cath�drale de Kristiania.
+L'�cole �tait assez m�diocre, et les professeurs en g�n�ral rel�ch�s et
+abrutis par l'alcool. Le professeur de math�matiques alla un jour si loin
+en punissant un �l�ve que celui-ci en mourut. Le professeur fut aussit�t
+suspendu, et � sa place fut nomm� professeur de math�matiques un jeune
+homme, Berndt Michael Holmboe, n� en 1795, qui n'avait que sept ans de
+plus qu'Abel. Sans avoir �t� lui-m�me un math�maticien d'un s�rieux
+m�rite, Holmboe s'est acquis � tout jamais une place glorieuse dans les
+fastes math�matiques, comme celui qui le premier � d�couvert le g�nie
+d'Abel, et a �t� son premier protecteur. Holmboe eut l'honneur
+imp�rissable de savoir attirer l'attention d'Abel sur les auteurs vraiment
+classiques, en sorte que, sous son influence, Euler fut le premier ma�tre
+d'Abel, comme d�j� il avait �t� celui de Gauss. Abel serait certes parvenu
+aussi loin, quel qu'e�t �t� son point de d�part, mais sa vie ayant �t� si
+courte, il �tait de la plus grande importance qu'il entr�t de bonne heure
+en rapport avec les probl�mes de la science, et non des livres
+d'enseignement. Les secs proc�s-verbaux d'examen de l'�cole cath�drale
+donnent la preuve touchante de l'id�e qu'Holmboe se faisait de son grand
+�l�ve. Ainsi en 1820 il a �crit sur Abel: � Au g�nie le plus remarquable
+il joint un go�t et une ardeur insatiables pour les math�matiques, et
+certainement il deviendra, s'il vit, un grand math�maticien. � Au lieu des
+trois derniers mots, il y avait primitivement � le plus grand
+math�maticien du monde �, lesquels mots ont �t� gratt�s. Les autres
+professeurs n'ont pas �t� aussi enthousiastes, bien que les capacit�s
+d'Abel se fissent sentir dans toutes les branches. Le go�t, du moins, n'y
+�tait pas au m�me degr�. Le professeur de latin Riddervold, qui devint
+plus tard un homme politique notoire, trouva un jour sur son pup�tre cette
+note: � Riddervold croit que j'ai �crit ma composition latine, il se
+trompe pas mal. Abel. �
+
+Lorsqu'en juillet 1821 Abel passa l'examen d'�tudiant, il �tait comme
+math�maticien au courant de l'�ducation scientifique de son temps. Mais il
+�tait absolument sans ressources. Le p�re �tait mort depuis 1820, et la
+m�re n'avait rien � donner. La r�putation d'Abel � l'�cole l'avait
+heureusement pr�c�d� � l'universit�, et d�s septembre 1821 il obtint une
+place gratuite � la fondation universitaire de Regentsen, mais, est-il dit
+dans une note du coll�ge acad�mique, comme ce secours ne pouvait pas �tre
+suffisant pour un jeune homme qui manquait de tout, quelques professeurs
+de l'universit� s'�taient concert�s pour lui procurer � leurs frais une
+subvention plus compl�te, et ainsi � conserver � la science ses rares
+dispositions pour la science, attention dont son assiduit� au travail et
+ses bonnes moeurs le rendaient d'autant plus digne �.
+
+Bien que des paroles de regret aient �t� prononc�es en Norv�ge sur le peu
+d'encouragements qu'Abel aurait re�us de son pays, il me semble que cela
+est tr�s exag�r�. La Norv�ge se trouvait � un moment difficile,
+particuli�rement sous le rapport �conomique, mais nous verrons combien,
+malgr� cela, Abel a cependant constamment trouv�, pendant sa courte vie,
+des aides qui surent le d�livrer des soucis les plus graves. Ce sera
+toujours l'honneur de ces aides que, sans comprendre l'oeuvre d'Abel --
+car il n'y a gu�re qu'Holmboe qui l'ait comprise, et m�me lui, tr�s
+incompl�tement -- ils comprirent du moins son g�nie, et firent de leur
+mieux pour le conserver � la science et � la patrie.
+
+La subvention qu'Abel re�ut au Regentsen devait �tre toutefois des plus
+modestes. Un camarade, Rasch, qui devint professeur, raconte qu'Abel �tait
+tellement d�pourvu des choses les plus n�cessaires, qu'il poss�dait, en
+commun avec son fr�re et camarade de lit, une unique paire de draps, en
+sorte que les deux fr�res devaient coucher sans draps lorsqu'elle �tait au
+blanchissage. Niels Henrik, d�s f�vrier 1822, avait demand� � qu'il me
+soit permis d'avoir mon fr�re avec moi dans ma chambre � la fondation
+universitaire �. Cette pi�ce �tait occup�e d�j�, outre Abel, par Jens
+Smidt, qui d�clara ne s'opposer en rien � ce que le fr�re d'Abel partage�t
+leur � chambre commune �. Ce fr�re �tait celui qui devint pr�tre. Il lui
+causa beaucoup de soucis tant qu'ils v�curent ensemble, et aussi plus
+tard. Abel put toutefois, dans la pauvre chambre du Regentsen qu'il
+partageait avec deux autres jeunes gens, continuer ses �tudes
+personnelles. Il ne pouvait gu�re �tre question d'aucun enseignement �
+recevoir de l'universit�. En math�matiques elle n'avait rien � lui
+apprendre. En d'autres mati�res il aurait �t� un auditeur distrait,
+absorb� comme il �tait par ses r�veries math�matiques. On parla longtemps
+du scandale qu'il causa un jour en se pr�cipitant hors de la salle de
+conf�rences de Sverdrup en criant: � Je la tiens � (la solution).
+
+En juin 1822 Abel passa l'� examen philosophicum �. En 1823 il se pr�sente
+pour la premi�re fois comme �crivain, et le � Magasin des sciences
+naturelles � a la gloire d'avoir publi� le premier travail du � Studiosus
+N. H. Abel �. Il est pr�c�d� d'une note de Hansteen, qui s'excuse de
+publier des math�matiques dans un recueil de sciences naturelles. L'ann�e
+1823 renferme trois m�moires diff�rents. Le jugement de Bjerknes � leur
+sujet: � Ils ne le signalent pas encore comme le math�maticien tr�s
+remarquable, encore moins comme le grand math�maticien �, me para�t une
+d�pr�ciation excessive de leur m�rite. Tout au moins les deux derniers
+m�moires contiennent des aper�us et des dessous extr�mement remarquables,
+bien que leur origine exacte n'ait apparu clairement qu'en ces derniers
+temps. Plusieurs manuscrits r�dig�s en norv�gien sont consid�r�s comme
+datant de la m�me �poque, ils ont �t� apr�s la mort d'Abel publi�s par
+Holmboe. Abel s'y tient, de m�me que dans les m�moires du � Magasin des
+sciences naturelles �, au point de vue d'Euler et de Lagrange, et il est
+clair qu'il n'a pas encore pris une connaissance approfondie de Cauchy.
+
+Encore sur les bancs de l'�cole, Abel s'�tait attaqu� d�j� au probl�me de
+la solution, au moyen de radicaux, de l'�quation g�n�rale du cinqui�me
+degr�. La renaissance italienne avait achev� la solution des �quations
+g�n�rales du troisi�me et du quatri�me degr�, et la solution de l'�quation
+du cinqui�me degr� devait tenter l'ambition de tout jeune math�maticien.
+Gauss, il est vrai, �tait d�j� parvenu � la conviction que cette solution
+est impossible au moyen de radicaux, mais il semble avoir �t� loin d'en
+pouvoir donner une d�monstration. Abel, qui ne connaissait pas l'id�e de
+Gauss, crut avoir trouv� la solution g�n�rale cherch�e, et un m�moire � ce
+sujet fut envoy� par Hansteen � Degen, � Copenhague, avec la pri�re que
+Degen pr�sent�t ce travail de l'�l�ve de l'�cole cath�drale de Kristiania
+� la Soci�t� danoise des sciences. Degen accepte la commission � avec
+plaisir �, en consid�ration de ce que le m�moire montre � une capacit�
+exceptionnelle et des connaissances exceptionnelles �, bien qu'il ne se
+sente pas assur� que le probl�me soit r�ellement r�solu. Cette premi�re
+connaissance avec Degen amena en l'�t� de 1823 une visite d'Abel �
+Copenhague, pour laquelle 100 speciedaler (environ 560 francs) lui furent
+remis par le professeur de math�matiques Rasmussen, nouveau trait de
+l'attention magnanime qui lui fut t�moign�e par les professeurs. A combien
+de professeurs d'universit� dans le Nord est-il arriv� de prendre
+l'initiative d'envoyer leur meilleur �l�ve � un coll�gue de la m�me
+branche dans une autre universit� scandinave? A Copenhague, Abel ne trouva
+pas que les math�matiques fussent pr�cis�ment � florissantes �, et il ne
+r�ussit pas � � d�couvrir un seul �tudiant qui soit un peu solide �. Degen
+lui-m�me �tait pourtant digne du plus grand respect: � C'est un diable
+d'homme, il m'a montr� plusieurs de ses petits m�moires, et ils t�moignent
+d'une grande finesse. �
+
+Les dames de Copenhague -- Abel est jeune et s'int�resse toujours aux
+dames, de m�me sans doute qu'elles s'int�ressent � lui -- n'obtinrent
+qu'un �loge limit�: � Les dames de la ville sont horriblement laides, et
+gentilles tout de m�me. �
+
+Ce fut alors, � Copenhague, qu'Abel fit connaissance avec Christine Kemp,
+plus tard sa fianc�e. Ils se rencontr�rent � un bal. Abel, qui
+probablement la trouva � gentille �, l'invita � danser, mais au moment de
+commencer, il se trouva qu'aucun des deux ne savait. Ils se mirent �
+causer, et de cette conversation devait r�sulter par la suite l'intimit�
+cordiale, qui est un des points lumineux de la courte vie d'Abel.
+
+Degen avait une importante biblioth�que math�matique, et Abel la mit
+assid�ment � profit. Abel, diff�rant en cela de beaucoup d'autres
+math�maticiens, �tait un lecteur assidu des travaux des autres. Ceci
+s'applique particuli�rement aux premi�res ann�es, avant qu'il ne commen��t
+v�ritablement � produire. Il eut de bonne heure un sentiment assez juste
+de sa propre importance pour vouloir, arm� d'abord du meilleur savoir de
+l'�poque, se pr�senter lui-m�me comme auteur. Ainsi s'explique la haute
+�ducation universelle, la large vue sur tout le terrain parcouru, que nous
+trouvons chez lui d�s les premiers d�buts. Les registres des pr�ts,
+d'abord de l'�cole cath�drale, et ensuite de la biblioth�que de
+l'universit� de Kristiania, montrent l'�tendue de ses lectures
+math�matiques, et aussi avec quelle s�ret� de jugement il s'adressait
+toujours aux vieux auteurs classiques.
+
+Les premiers m�moires d'Abel sont �crits en norv�gien, mais il commen�a
+peu apr�s son retour du voyage de Copenhague � �crire en fran�ais, m�me
+lorsqu'il ne r�digeait que pour lui-m�me. Les notes d'�tudes montrent qu'�
+l'�cole il �tait un �l�ve m�diocre en fran�ais. Il comprit que, en
+possession de tout l'essentiel des connaissances math�matiques de son
+temps, il �tait appel� � devenir le grand math�maticien devin� par
+Holmboe, mais qu'il avait besoin pour cela d'une autre langue que la
+langue maternelle, et il apprit le fran�ais vite et bien. Qu'il chois�t le
+fran�ais et non le latin, dont la situation comme langue de la science,
+bien que les principaux chefs-d'oeuvre de Gauss fussent encore �crits en
+latin, d�j� touchait � sa fin, est une preuve de plus de la s�ret� de son
+jugement. C'est aussi en fran�ais qu'il r�digea le m�moire disparu
+� Int�gration de diff�rentielles �, qui doit renfermer les premiers traits
+de ses plus grandes d�couvertes analytiques. Ce m�moire excita
+l'admiration des professeurs de Kristiania, et fut envoy� par le coll�ge
+acad�mique au minist�re de l'Instruction publique, avec cette indication,
+qu'un s�jour � l'�tranger pourrait �tre utile pour l'avenir d'Abel, et le
+d�sir qu'une bourse convenable lui f�t accord�e. Le minist�re de
+l'Instruction publique, sans exprimer d'opinion propre, demanda l'avis du
+minist�re des Finances. Le minist�re des Finances, o� devait r�gner cette
+conception, si r�pandue chez les hommes d'argent, que le r�le d'un
+financier est de donner de bons conseils plut�t que de l'argent, ne se
+contente pas de donner un avis financier, mais r�pond qu'il trouve Abel
+beaucoup trop jeune pour �tre d�j� envoy� � l'�tranger, et qu'il serait
+meilleur pour lui de recevoir une bourse d'une ann�e afin de pouvoir se
+d�velopper � l'universit� nationale dans les langues et autres sciences
+accessoires. Le minist�re �tait en �tat de fournir les moyens. Le
+minist�re de l'Instruction publique demande alors au coll�ge acad�mique
+son opinion sur la proposition du minist�re des Finances. Le coll�ge
+acad�mique se rend, et explique qu'Abel est certainement d�j� assez avanc�
+en humanit�s, et que toutefois peut-�tre il pourrait �tre utile pour lui
+de rester encore quelques ann�es � l'universit�, et de consacrer ces
+ann�es � � une �tude plus approfondie des langues savantes �.
+Naturellement, le temps des langues savantes comme langues de la science
+�tait pass�, Abel le savait, mais comment un pareil fait aurait-il pu �tre
+connu du coll�ge acad�mique? Les coll�ges acad�miques en sont rest�s au
+m�me point beaucoup plus tard. M. Stoermer a eu le m�rite de mettre au
+jour cet �change de notes, empreintes de ridicule et lamentables: il
+suffit de songer que ceci avait lieu en l'an de gr�ce 1824, l'ann�e m�me
+ou Abel, �g� de vingt-deux ans, est devenu d'un coup le plus grand penseur
+que le Nord e�t produit jusqu'alors, le plus grand fils de sa patrie, et
+l'un des premiers math�maticiens de tous les temps et de tous les pays:
+ceci apparaissait probablement d�j� dans le m�moire sur les
+diff�rentielles, mais de fa�on certaine dans son m�moire, compos� la m�me
+ann�e: � M�moire sur les �quations alg�briques o� on d�montre
+l'impossibilit� de la r�solution de l'�quation g�n�rale du cinqui�me
+degr�. �
+
+Il est hors de doute qu'Abel avait trouv� bien vite la faute qui se
+trouvait dans son travail d'�colier, cette solution de l'�quation du
+cinqui�me degr�, qui avait tant int�ress� Degen; mais au lieu d'abandonner
+le probl�me comme d�sesp�r�, il s'attaqua, avec l'intr�pidit�
+imperturbable de la jeunesse, � la t�che que les forces d'un Gauss
+n'avaient pu ma�triser, � celle de trancher si le probl�me �tait
+d�cid�ment soluble, s'il est d�cid�ment possible de r�soudre l'�quation du
+cinqui�me degr� au moyen de radicaux. La r�ponse fut n�gative, et la
+d�monstration d'Abel pourrait �tre consid�r�e comme le fondement m�me de
+l'alg�bre apr�s lui. Le m�moire parut en tirages � part d'une demi-
+feuille, et, pour �conomiser sur la d�pense d'impression, couverte par
+Abel lui-m�me, avec la r�daction la plus concise et sous la forme la plus
+pauvre. Il fut publi� par la m�me maison qui plus tard donna les deux
+magnifiques �ditions des oeuvres compl�tes d'Abel.
+
+Les ann�es 1824 et 1825 furent consacr�es � un travail sans r�pit. Les
+manuscrits qui datent de cette �poque, et qui furent publi�s plus tard,
+sont tous de la plus haute importance, et contiennent la preuve suffisante
+que les grandes lignes d'� peu pr�s toutes les plus grandes d�couvertes
+d'Abel �taient alors d�j� �tablies. Il raisonnait sans doute � ce moment
+comme sur les bancs de l'�cole, lorsqu'il s'agissait de la composition
+latine de Riddervold, et, parmi les � sciences accessoires �, il n'y avait
+gu�re que le fran�ais auquel il accord�t quelque attention. Vers l'automne
+de 1825, le d�sir de voyager le reprit fortement, et il demanda lui-m�me
+alors une bourse de voyage de deux ans. Il dit dans sa p�tition:
+
+    D�s mes premi�res ann�es d'�cole j'ai �tudi� les math�matiques avec
+    grand plaisir, et j'ai continu� cette �tude pendant les deux premi�res
+    ann�es que j'ai pass�es � l'Universit�. Mes progr�s non sans succ�s
+    ont amen� le conseil acad�mique � me recommander pour la subvention
+    qu'il a plu gracieusement � Votre Majest� de m'accorder sur le Tr�sor,
+    pour que je puisse continuer mes �tudes � l'Universit� norv�gienne, et
+    en m�me temps cultiver davantage les langues savantes. Depuis lors
+    j'ai, du mieux que j'ai pu, conjointement aux sciences math�matiques,
+    �tudi� les langues anciennes et modernes, parmi ces derni�res
+    particuli�rement le fran�ais. Apr�s m'�tre ainsi efforc� gr�ce aux
+    ressources actuelles dans le pays, de me rapprocher du but assign�, il
+    me serait extr�mement utile, par un s�jour � l'�tranger pr�s de
+    plusieurs universit�s, surtout � Paris, o� il se trouve aujourd'hui
+    tant de math�maticiens �minents, d'apprendre � conna�tre les
+    productions les plus r�centes de la science, et de profiter des
+    indications des hommes qui l'ont port�e de notre temps � une si grande
+    hauteur. J'ose donc, en raison de ce qui pr�c�de, et des attestations
+    ci-jointes de mes sup�rieurs, prier tr�s humblement Votre Majest�
+    qu'il me soit accord� gracieusement une bourse de voyage de 600
+    species (3.360 francs) d'argent par an, pour continuer pendant deux
+    ans, � Paris et � G�ttingen, � cultiver les sciences math�matiques.
+
+Hansteen ajoute sa recommandation � la p�tition d'Abel:
+
+    ... Pendant le temps qu'il a ainsi, et surtout gr�ce � la subvention
+    de Votre Majest�, pass� � l'Universit�, il a, dans plusieurs m�moires
+    publi�s dans _le Magasin pour les Sciences physiques et naturelles_,
+    qui est �dit� ici, et plus encore par un travail plus important, non
+    encore imprim�, relatif � un perfectionnement de m�thode dans le
+    calcul int�gral, donn� des preuves d'une ardeur et d'une puissance de
+    travail rares, en m�me temps que de capacit�s exceptionnelles. Son
+    caract�re et sa moralit� m�ritent un �loge �gal, ce dont j'ai eu
+    occasion de me convaincre par mes relations personnelles avec lui.
+    Comme quelques indications des hommes les plus �minents dans une
+    science ont souvent plus d'influence que la lecture prolong�e des
+    livres, je crois qu'un s�jour de deux ans parmi les math�maticiens les
+    plus �minents de notre temps serait pour M. le candidat [Note:
+    Titre qui d�signe l'�tudiant ayant pass� _l'examen philosophicum_.]
+    Abel extr�mement profitable, et que la patrie, dans ces conditions,
+    aura l'espoir le plus fond� de gagner en lui un savant dont elle aura
+    honneur et profit.
+
+Par une r�solution royale du 27 ao�t 1825, la demande d'Abel fut accord�e.
+Il y a peu d'actes gouvernementaux, dans l'histoire des pays scandinaves,
+dont les cons�quences aient �t� plus grandes pour la science.
+
+Bjerknes d�crit de la mani�re suivante l'aspect ext�rieur d'Abel,
+lorsqu'il quitta son pays:
+
+    Abel avait des traits r�guliers, on peut m�me dire vraiment beaux; son
+    regard et ses yeux �taient d'une beaut� peu commune; mais un teint
+    p�le, sans fra�cheur et sans �clat, ternissait l'agr�ment de sa
+    figure. On �tait frapp� de la conformation particuli�re de la t�te
+    avec son ovale saillant; le cr�ne fortement d�velopp� semblait
+    t�moigner d'une intelligence extraordinaire. Sur son front haut et
+    large, cach� en partie par sa chevelure tombante, r�gnait une
+    expression m�ditative. Un sentiment de bienveillance �tait empreint
+    sur son visage.
+
+Il existe un seul portrait original d'Abel certain. C'est un dessin �
+l'encre de Chine et au crayon, fait � Paris en 1826 par l'ami d'Abel, le
+peintre norv�gien Goerbitz [Note: L'original est la propri�t� de Mme
+Thekla Lange, ni�ce d'Abel. Il a �t� photographi� en 1882 � Stockholm, et
+une reproduction de cette photographie figure en t�te de la revue
+math�matique scandinave, _Acta mathematica_, qui ainsi, quatre-vingts ans
+apr�s la mort d'Abel, fit son entr�e dans le monde sous son �gide.
+L'original a �t� gravement ab�m� par des taches d'humidit�, qui s'�tendent
+de plus en plus.]. Personne, en voyant le dessin de Goerbitz, ne peut
+m�conna�tre qu'il repr�sente un jeune homme tr�s exceptionnellement dou�.
+De stature, Abel ressemblait, para�t-il, � son p�re, et il est par suite
+int�ressant, pour le sculpteur qui sera charg� d'ex�cuter sa statue, qu'il
+existe une silhouette du p�re en pied.
+
+Les amis de jeunesse d'Abel le d�peignent, � partir de cette p�riode de sa
+vie, d'humeur sombre, mais en m�me temps vif et gai avec ses camarades. Il
+�tait aim� de tous, avait partout des amis et jamais aucun ennemi. En
+soci�t�, tr�s vif, et joueur presque comme un enfant, tant�t piquant et
+pittoresque en ses expressions, tant�t sensible et tendre, il �veillait la
+sympathie de tous, m�me apr�s la connaissance la plus fugitive. Il semble
+� un degr� rare avoir �t� simplement homme parmi les hommes, et libre de
+tout conventionnalisme. Il conserva toujours, par exemple, le tutoiement
+de l'enfance, m�me � l'�gard d'�trangers. Il est d'ailleurs �vident que
+pendant sa jeunesse -- et il ne fut jamais autre chose que jeune -- ses
+pens�es g�niales et puissantes ne pouvaient suivre le courant d'une
+existence parfaitement r�gl�e. La nuit devenait jour, et le jour �tait
+nuit, et les pens�es �taient jet�es dans les cahiers de notes quand et
+comme elles venaient. Puis il y avait des p�riodes de d�pression et de
+fatigue. Il pouvait rester des jours entiers seul, silencieux, maussade,
+et compl�tement inactif. Si on lui demandait ce qu'il avait, il r�pondait:
+� Je suis sombre. � Puis venaient d'autres jours pleins d'entrain. A
+Berlin, au- dessus de la colonie norv�gienne � laquelle appartenait Abel,
+n'habitait rien de moins que le philosophe Hegel. Ayant demand� quels
+�taient ces gens dont le tapage d�rangeait son travail, on lui dit que
+c'�taient des � d�nische Studenten �. Il para�t qu'il r�pondit: Ce ne sont
+pas des Danois, mais des ours russes. � Nicht D�nen, es sind russische
+B�ren. �
+
+Le physiologue Chr. Boeck, dont je fis la connaissance en sa vieillesse,
+m'a rapport� qu'� l'�poque o� il habitait avec Abel dans la m�me chambre �
+Berlin, il ne se passait gu�re de nuit sans qu'Abel allum�t la lumi�re en
+pleine nuit, saut�t hors du lit, et se m�t � �crire ou � calculer. Une
+fois il �tait rest� plus longtemps que d'habitude � la table, et il
+raconta le lendemain � Boeck que c'�tait une question math�matique dont il
+avait cherch� la solution pendant des mois sans avancer, qui tout � coup
+s'�tait �claircie pour lui lorsqu'il s'�tait r�veill� dans la nuit.
+C'�tait cette question qu'il avait not�e. Mais pour Boeck, de m�me que
+pour ses autres amis, les pens�es d'Abel, ce qu'il y avait de plus profond
+dans sa vie, sa v�ritable grandeur, �taient un livre ferm�, et Boeck
+n'avait aucune id�e de la d�couverte que cette nuit a donn�e � la science.
+
+Avant de partir, Abel, avec une attention touchante, prit des mesures en
+faveur de son fr�re, son camarade de lit du Regentsen, pour qui il d�posa
+une somme d'argent, prise sur son strict n�cessaire, et de sa soeur, qu'il
+r�ussit � retirer de chez sa m�re, et � placer dans le meilleur entourage
+� Kristiania. Il est curieux de voir l'adresse d'homme du monde et
+l'�nergie qu'il savait d�ployer lorsqu'il s'agissait de ceux qui lui
+�taient chers. Le voyage commen�a dans les premiers jours de septembre, en
+compagnie de quelques autres jeunes gens, qui avaient aussi obtenu des
+bourses de voyage, et qui plus tard, sans toutefois atteindre, il s'en
+fallut de beaucoup, la grandeur d'Abel, se sont acquis une place glorieuse
+dans l'histoire savante de la Norv�ge. Apr�s une courte visite chez
+Christine Kemp, qui �tait rest�e comme gouvernante dans une famille
+norv�gienne � Soon, sur le fjord de Kristiania, et qui �tait devenue la
+fianc�e d'Abel depuis deux ans, le voyage continua par Hambourg sur Berlin
+avec les amis. L'intention d'Abel avait �t� d'aller � Goettingen chez
+Gauss, le grand solitaire, lequel, alors �g� de quarante-huit ans, �tait
+depuis sa vingt- quatri�me ann�e et la publication des _Disquisitiones
+arithmeticae_, le � princeps mathematicorum �, mais la crainte d'Abel de
+se trouver sans compagnie modifia ses plans, et il accompagna les autres �
+Berlin. Abel n'alla pas davantage plus tard � Goettingen. Gauss y vivait
+dans sa grandeur, seul, admir�, mais � peu pr�s incompris. La distance
+entre lui et ses coll�gues math�maticiens allemands de l'�poque �tait
+aussi grande que la distance entre le jour et les t�n�bres, entre le
+savoir et le pr�jug�. Paris �tait le centre math�matique du temps, et les
+intelligences math�matiques les plus hautes y �taient r�unies. Gauss
+d'ailleurs n'�prouvait aucun d�sir de s'entourer d'�l�ves ou de s'occuper
+activement � dissiper la nuit nationale. Il lui suffisait de publier de
+temps en temps, apr�s des ann�es de pr�paration, un de ces chefs-d'oeuvre
+incomparables par la forme et le contenu, qui � jamais, tant que sur la
+terre une race d'hommes vivra, o� se formeront des intelligences capables
+d'appr�cier les cr�ations de la pens�e pure, seront compt�s parmi les plus
+pr�cieux tr�sors de la civilisation. Il �tait bien aussi pour ses
+contemporains allemands le grand Gauss, mais il l'�tait pour ses
+applications des math�matiques aux probl�mes astronomiques et physiques.
+Comment il concevait lui-m�me le rapport entre l'application et la
+th�orie, cela ressort de sa r�ponse indign�e � un verbiage admiratif sur
+l'importance astronomique de ses travaux, o� il d�clara que c'�tait la
+partie arithm�tique du travail qui l'int�ressait, et non � ces boules de
+boue que l'on appelle des plan�tes � (_diese Dreckklumpen, die man
+Planeten nennt_). Ses travaux de math�matique pure �taient dans l'opinion
+allemande commune _Gr�uel_ [Note: Une horreur.], car la forme, sans �gard
+pour le go�t et les erreurs de l'�poque, n'avait d'autre objet que de
+refl�ter avec une clart� translucide la profondeur de la pens�e achev�e.
+Abel ne se m�prit pas sur la grandeur de Gauss, mais, jeune et
+inexp�riment� comme il l'�tait, il se laissa effrayer � l'id�e de lui
+rendre visite par les r�cits sur son orgueil et son inabordabilit�,
+particularit�s que la sottise et le pr�jug� attribuaient alors, comme
+aujourd'hui et comme toujours, � l'homme vraiment sup�rieur. Si Abel avait
+v�cu plus longtemps, il faudrait regretter am�rement qu'il ait �t�
+d�tourn� de son projet d'aller voir Gauss. Il ne fit jamais connaissance
+avec aucun homme de ce rang, car la pr�sentation rapide � quelques-uns des
+coryph�es de la math�matique � Paris ne peut entrer ici en ligne de
+compte. L'imagination se pla�t � se repr�senter les r�sultats possibles
+d'un �change personnel de vues entre un Abel et un Gauss. Cependant, comme
+il devait mourir si jeune, une visite � Goettingen aurait probablement
+diminu� sa place dans l'histoire des math�matiques. Il aurait trouv� Gauss
+depuis des ann�es en possession de quelques-unes de ses propres
+d�couvertes, non les moindres, surtout en possession de la th�orie des
+fonctions elliptiques, et la post�rit� n'aurait pu, apr�s cela, savoir ce
+qui appartenait primitivement � Abel, et ce qu'il aurait appris de Gauss.
+
+A Berlin il avait une lettre d'introduction aupr�s de Auguste L�opold
+Crelle, homme important, de m�rite, et qui occupait une haute situation
+sociale, � Geheime-Oberbaurath �, constructeur de plusieurs des routes les
+plus importantes de la Prusse ainsi que de ses premiers chemins de fer,
+autodidacte comme math�maticien, mais p�n�tr� avec la plus sinc�re
+conviction de l'importance des math�matiques dans la vie et du d�sir le
+plus vif de les r�pandre plus largement dans le public. Abel, dans une
+lettre � Hansteen, rend compte de sa visite � Crelle:
+
+    Ce fut long, avant que je pusse lui faire bien comprendre le but de ma
+    visite, et le r�sultat semblait devoir �tre lamentable, lorsque je
+    pris courage � sa question sur ce que j'avais d�j� �tudi� en
+    math�matiques. Quand je lui eus cit� quelques travaux des
+    math�maticiens les plus �minents, il devint tout � fait empress�, et
+    parut vraiment enchant�. Il engagea une longue conversation sur
+    diverses questions difficiles qui n'�taient pas encore r�solues, et
+    nous en v�nmes � parler des �quations de degr� sup�rieur; lorsque je
+    lui dis que j'avais d�montr� l'impossibilit� de r�soudre l'�quation
+    g�n�rale du 5e degr�, il ne voulut pas le croire, et dit qu'il y
+    ferait des objections. Je lui remis donc un exemplaire; mais il dit
+    qu'il ne pouvait comprendre la raison de plusieurs de mes conclusions.
+    Plusieurs autres m'ont dit la m�me chose, aussi j'ai entrepris une
+    refonte de ce travail.
+
+Weierstrass m'a rapport� que Crelle lui avait racont� cette premi�re
+visite un peu autrement, bien que les traits essentiels soient les m�mes.
+Crelle, � l'�poque de la visite d'Abel, �tait examinateur au _Gewerbe-
+Institut_ de Berlin, m�tier qui ne lui plaisait gu�re. Un beau jour, entre
+dans sa salle un jeune homme blond, d'aspect tr�s embarrass�, tr�s
+juv�nile et tr�s intelligent. Crelle pensa qu'il d�sirait passer l'examen
+pour entrer au _Gewerbe-Institut_, et lui expliqua qu'il fallait pour cela
+une foule de formalit�s. Alors enfin le jeune homme ouvrit la bouche, et
+dit: � Nicht examen, nur Mathematik. � Crelle sentit qu'il devait avoir
+affaire � un �tranger, essaya de parler fran�ais, et il se trouva qu'Abel
+le parlait bien, quoique aussi avec quelque difficult�. Crelle l'ayant
+questionn� sur ses �tudes, il dit qu'entre autres, il avait lu le travail
+de Crelle lui-m�me, paru r�cemment, en 1823, sur les _Analytische
+Facult�ten_, lequel, malgr� de nombreuses erreurs, l'avait vivement
+int�ress�. A la mention des nombreuses erreurs, Crelle ouvrit de grandes
+oreilles, et la conversation suivit, qui devait conduire plus tard � des
+relations si �troites entre Crelle et Abel. De m�me que pr�c�demment
+Holmboe, et plus encore, Hansteen, Crelle aussi �tait loin d'�tre en �tat
+de comprendre les travaux d'Abel. Il en a lui-m�me fourni une preuve
+p�remptoire. Le travail d'Abel sur la s�rie du bin�me fut publi� dans le
+premier volume du propre journal de Crelle, traduit en allemand par Crelle
+lui-m�me sur le manuscrit fran�ais d'Abel. Ceci n'a pas emp�ch� Crelle,
+apr�s la mort d'Abel, de publier dans les quatri�me et cinqui�me volumes
+de son Journal, un m�moire sur le m�me sujet, o� il s'en tient absolument
+aux vieilles conceptions ant�-ab�liennes, et se montre parfaitement
+inconscient de ce fait, que la question a �t� d�finitivement r�solue par
+Abel. Mais si Crelle, pas plus que les amis norv�giens d'Abel, ne comprit
+ses travaux, il comprit du moins le g�nie d'Abel, et, l'ayant compris, il
+devint l'ami utile et le protecteur d'Abel. D�s la premi�re visite d'Abel,
+Crelle avait parl� de son projet de publier une grande revue math�matique
+allemande. Les relations avec Abel et la perspective de sa collaboration
+h�t�rent la r�alisation du projet. Le premier fascicule du _Journal f�r
+die reine und angewandte Mathematik_, la grande oeuvre de Crelle, qui
+depuis a d�j� atteint son 124e volume, parut en f�vrier 1826. Le premier
+volume contient d�j� sept m�moires divers d'Abel. Ils avaient �t� r�dig�s
+en fran�ais, mais traduits par Crelle en allemand. L'occasion s'�tait
+ainsi offerte � Abel de faire conna�tre ses d�couvertes, par un organe
+international, aux math�maticiens contemporains. Mais que le Journal de
+Crelle soit devenu un organe international, qui a eu pendant longtemps une
+situation pr�pond�rante parmi les publications math�matiques, le m�rite en
+appartient essentiellement � Abel, dont les travaux, d�s le premier
+moment, ont plac� la revue au plus haut rang possible. Pendant l'hiver
+1825-1826 commen�a pour Abel un temps de production sans r�pit et de
+grande joie cr�atrice. Sa plume ne faisait que passer d'un travail � un
+autre. Au fond, la plus grande partie �tait achev�e, au d�part de
+Kristiania, mais la mise en oeuvre pour l'impression eut lieu � Berlin.
+Cependant la m�lancolie et la nostalgie l'assi�gent souvent. Il �crit � sa
+maternelle amie Mme Hansteen le 8 d�cembre 1825:
+
+    Je vis d'ailleurs d'une mani�re extr�mement calme et je suis assez
+    occup�; mais j'ai par moments une nostalgie terrible, d'autant plus
+    grande que les nouvelles de chez nous sont d'une raret� navrante.
+
+Et le 16 janvier 1826:
+
+    C'est si singulier de se trouver au milieu d'�trangers. Dieu sait
+    comment je le supporterai lorsque je me s�parerai de mes compatriotes.
+    Ce sera au commencement du printemps.
+
+Ses distractions �taient le th��tre, qu'il aimait fort, et la vie de
+soci�t� chez Crelle. Il raconte � Mme Hansteen:
+
+    A No�l, j'ai �t� au bal chez le conseiller priv� Crelle, mais je n'ai
+    pas os� danser, bien que j'eusse soign� ma toilette comme je ne
+    l'avais jamais fait. Pensez, j'�tais tout neuf de la t�te aux pieds,
+    avec double gilet, col empes� et lunettes. Vous voyez que je commence
+    � suivre les conseils de votre soeur Charite, j'esp�re que ce sera
+    complet quand j'arriverai � Paris.
+
+Le coeur tendre d'Abel ne semble pas, malgr� les fian�ailles avec Kristine
+Kemp, avoir �t� insensible au charme de Charite, � la charmante, la toute
+bonne Charite �, dit-il dans une autre lettre.
+
+Peu de temps apr�s le d�part d'Abel de Kristiania, eut lieu dans son pays
+un drame universitaire qui eut une grande importance pour son court
+avenir. Le professeur de math�matiques, Rasmussen, avait pris sa retraite,
+et il s'agissait de lui d�signer un successeur. D�s le 6 d�cembre 1825, la
+Facult� propose pour ce poste l'ami et le ma�tre d'Abel, Holmboe. En m�me
+temps la Facult� attire toutefois � l'attention sur l'�tudiant N. Abel,
+comme un homme qui, tant par son talent pour les math�matiques que par ses
+grandes connaissances dans cette science, pourrait entrer en ligne de
+compte pour la nomination audit poste, mais que l'on ne pourrait sans
+dommage pour l'avenir de ses �tudes faire revenir maintenant de son voyage
+� l'�tranger, qu'il vient d'entreprendre, et qui ne para�t pas pouvoir
+s'adapter aussi ais�ment � la capacit� des jeunes �tudiants, qu'un ma�tre
+plus exerc� �.
+
+La mani�re de raisonner de la Facult� est aussi habituelle qu'elle est
+radicalement fausse. Le point de d�part est que la m�diocrit� pourra plus
+facilement que le g�nie s'adapter aux capacit�s des jeunes �tudiants. Il
+n'existe aucun math�maticien qui surpasse Abel pour la clart� et
+l'�l�gance du style, pour l'habilet� � pr�senter d'une mani�re simple m�me
+les pens�es les plus profondes et les plus difficiles, et il n'est pas
+n�cessaire d'�tre grand connaisseur de son oeuvre pour �tre intimement
+persuad� qu'il aurait su enseigner comme personne. Il �tait mal compris
+des anciens, dont les conceptions math�matiques �taient fix�es; d�raciner
+des pr�jug�s et �lucider des conceptions �tablies, mais obscures, est une
+tout autre t�che que d'exposer la v�rit� depuis le commencement. Pourquoi
+les � capacit�s des jeunes �tudiants � seraient-elles inf�rieures � celles
+des anciens? C'est le contraire qui se produit le plus souvent. Tout
+math�maticien v�ritable sait combien il est plus difficile de corriger des
+�tudiants �g�s, qui ont d�j� suivi une �cole m�diocre ou mauvaise, que des
+jeunes, dont l'intelligence n'a pas encore �t� troubl�e par des doctrines
+obscures. Il est int�ressant, � titre de rapprochement, de citer une
+remarque de Weierstrass, le plus grand disciple d'Abel, le plus grand
+math�maticien de la seconde moiti� du si�cle. Il �crivait � Sonia
+Kowalewski le 27 ao�t 1883: � Aussi ai-je renonc� depuis longtemps � faire
+p�n�trer mes recherches scientifiques parmi mes coll�gues �g�s; c'est � la
+jeunesse que je me suis adress�, et pr�s d'elle j'ai trouv� fr�quemment
+compr�hension et adh�sion enthousiaste. �
+
+Et Elling Holst �crit:
+
+    Cette proposition de la Facult� fut le chemin de la croix dans la vie
+    d'Abel. Il fut vou� depuis lors � vivre sur ses propres ressources,
+    pauvrement, endett�, homme que l'on oublie, � qui l'�tat ne songea que
+    tard, pour lui donner une situation inf�rieure, et dont la nation
+    n'apprit que peu � peu � comprendre la valeur, lorsque nous l'e�mes
+    perdu.
+
+Il serait toutefois tr�s injuste de juger la Facult� trop s�v�rement pour
+sa fatale proposition. Elle raisonnait comme la plupart des gens, et
+d'autres Facult�s auraient certainement agi de la m�me mani�re. Abel
+n'avait pas plus de vingt-trois ans, il avait l'avenir pour lui, et la
+Facult� ne pouvait pr�voir qu'il n'avait plus que trois ans � vivre.
+Holmboe �tait un homme d'honneur, et de grand m�rite, et il avait �t� le
+ma�tre d'Abel. Holmboe fut nomm� le 4 f�vrier 1826. D�s le 16 janvier,
+Abel avait re�u la nouvelle que la nomination de Holmboe �tait assur�e. Il
+�tait en train de lui �crire une lettre o� il lui faisait les plus
+remarquables communications math�matiques:
+
+    Pour montrer par un exemple g�n�ral (_sit venia verbo_) combien on
+    raisonne mal et combien il faut �tre prudent, je choisirai l'exemple
+    suivant: -- J'en �tais l� lorsque Maschmann est entr�, et comme depuis
+    longtemps je n'ai pas re�u de lettre de chez nous, je me suis arr�t�
+    pour m'informer s'il n'en avait pas une pour moi (c'est lui en effet
+    qui nous les apporte toujours), mais il n'y avait rien. Par contre, il
+    avait lui-m�me re�u une lettre, et, entre autres nouvelles, il a
+    racont� que toi, mon ami, tu es nomm� lecteur � la place de Rasmusen.
+    Re�ois mes f�licitations les plus sinc�res, et sois assur� qu'aucun de
+    tes amis ne s'en r�jouit autant que moi. J'ai souvent souhait� un
+    changement dans ta situation, tu peux me croire, car �tre professeur
+    dans une �cole doit �tre quelque chose d'affreux pour quelqu'un comme
+    toi, qui t'int�resses tant � la science. A pr�sent, il va falloir que
+    tu t'occupes de trouver une fianc�e, n'est-ce pas. On me dit que ton
+    fr�re le doyen en � trouv� une. Je ne puis nier que cela m'a vivement
+    frapp�. Salue-le bien de ma part, et f�licite-le tr�s chaudement. --
+    Et maintenant je reviens � mon exemple...
+
+Pour bien comprendre ce qu'il y a de grand dans la mani�re dont Abel
+re�oit la nouvelle, il faut se rappeler qu'il �tait tourment� d'inqui�tude
+sur son propre avenir et de nostalgie. Il voulait �tre math�maticien, et
+rien d'autre, et il voulait rentrer au pays, mais ne voyait pas comment le
+pays pourrait lui procurer, � lui et � sa Christine, le plus modeste
+gagne-pain.
+
+L'ami et compagnon de voyage le plus intime d'Abel, le min�ralogiste
+Keilhau, plus tard bien connu, �tait venu � Berlin � la No�l. En f�vrier
+il retourna � Freiburg, qui �tait son v�ritable centre, et Abel r�solut de
+l'y accompagner pour revenir plus tard � Berlin. Abel profita du calme et
+de la tranquillit� de Freiburg pour y composer un nouveau travail, mais du
+retour � Berlin il ne fut plus question pour cette fois. Le 29 mars nous
+le trouvons � Dresde, et il raconte alors dans une lettre � Hansteen:
+
+    Vous �crivez dans votre lettre � Boeck que vous vous demandez ce que
+    je veux faire � Leipzig et aux bords du Rhin, mais j'aimerais savoir
+    ce que vous direz, si je vous raconte maintenant que je vais aller �
+    Vienne et en Suisse. J'avais d'abord pens� aller directement de Berlin
+    � Paris, ce que j'esp�rais faire en compagnie de Crelle, mais il a eu
+    des emp�chements, et j'aurais donc voyag� seul. Or je suis ainsi fait
+    que je ne supporte pas du tout, ou du moins tr�s difficilement, d'�tre
+    seul. Je deviens alors tout triste, et je ne suis pas alors dans la
+    meilleure disposition pour faire quelque chose. Je me suis donc dit
+    que le mieux �tait de partir avec Boeck, etc., pour Vienne, et je peux
+    aussi justifier cela, ce me semble, puisqu'� Vienne il y a Littrow,
+    Burg, et d'autres. Ce sont vraiment des math�maticiens distingu�s, et
+    � cela s'ajoute que je ne voyagerai gu�re qu'une fois dans ma vie.
+    Peut-on me reprocher de d�sirer aussi voir quelque chose de la vie et
+    des mani�res du Sud. Je peux aussi travailler assez bien pendant ce
+    voyage. Une fois � Vienne, pour aller � Paris, la ligne droite
+    traverse presque la Suisse. Pourquoi n'en verrais-je pas aussi quelque
+    chose? Pardieu! Je ne suis pourtant pas tout � fait d�nu� du sens des
+    beaut�s de la nature. Le voyage entier me fera arriver � Paris deux
+    mois plus tard, et cela n'a pas d'importance. Je rattraperai bien
+    cela. Ne croyez-vous pas qu'un tel voyage me fera du bien? De Vienne �
+    Paris je voyagerai probablement en compagnie de Keilhau. Alors nous
+    nous mettrons furieusement au travail. Je pense que �a ira bien.
+
+
+Il faut sans doute voir dans le rapide �loge de Littrow et de Burg plut�t
+une tendance � se placer au point de vue math�matique particulier de
+Hansteen, et un d�sir de disposer celui-ci favorablement pour son voyage,
+qu'une opinion personnelle d'Abel sur ces math�maticiens peu importants.
+K�nigsberger m'a racont� au sujet de Burg une anecdote caract�ristique.
+Burg, qui �tait n� en 1797, ne mourut qu'en 1882. Lorsque K�nigsberger fut
+nomm� en 1877 professeur de math�matiques � l'Universit� de Vienne, il fit
+entre autres une visite � Burg, qui dans l'opinion commune avait une haute
+situation comme math�maticien. Au cours de la conversation, Burg raconta:
+� Un jour, je re�us la visite d'un jeune homme, Abel, qui voulait avoir ma
+collaboration pour une revue math�matique dont on lui offrait la
+direction. L'homme me paraissait certes intelligent, mais je ne pouvais
+confier _mes_ travaux � un semblable d�butant. _Savez-vous ce qu'il est
+devenu? Et son journal?_ �
+
+Que la science math�matique, depuis un demi-si�cle, e�t �t� fond�e sur
+Abel et ses d�couvertes, et que le _Journal f�r die reine und angewandte
+Mathematik_ e�t �t� pendant toute cette p�riode le principal ou l'un des
+principaux organes pour la production math�matique, tandis que les propres
+travaux de Burg �taient � jamais laiss�s dans l'oubli, cela avait
+compl�tement �chapp� au grand homme. On trouve en tous pays et en tous
+temps, et non pas seulement dans les petits pays et aux �poques ternes,
+des grandeurs locales de cette sorte, dont l'influence sur les milieux
+scientifiques dans leur pays sont en rapport inverse avec leur importance
+scientifique v�ritable.
+
+Le 16 avril Abel �tait � Vienne, et il �crivait � Holmboe:
+
+    Tu trouves sans doute que c'est mal de gaspiller tant de temps en
+    voyage, mais je ne crois pas que cela puisse s'appeler gaspiller. Dans
+    un pareil voyage on apprend bien des choses curieuses qui peuvent
+    m'�tre plus utiles que si j'�tudiais les math�matiques sans reprendre
+    haleine. Et puis tu sais qu'il me faut toujours des p�riodes de
+    paresse, pour pouvoir prendre de nouveau mon �lan avec des forces
+    nouvelles. Quand j'arriverai � Paris, ce qui arrivera vers juillet ou
+    ao�t, je me mettrai au travail avec fureur. J'�tudierai et j'�crirai.
+    J'ach�verai...
+
+A Vienne comme � Berlin, il fr�quenta les th��tres assid�ment:
+
+    Un th��tre hors ligne est vraiment un plaisir tout � fait exquis.
+    C'est une chose qui nous manque absolument, et que sans doute nous
+    n'aurons jamais. Il est bon d'y aller aussi pour la langue. On y
+    entend la plus pure et la meilleure. Je peux dire que ce que je sais
+    d'allemand je l'ai appris aux th��tres de Berlin, car en dehors de
+    cela, je n'ai eu que tr�s peu d'occasions d'en entendre. Maintenant �a
+    va tr�s bien et je peux me d�brouiller partout sans difficult�.
+
+Il n'est pas facile de lire dans l'avenir, m�me pour un Abel. Moins de dix
+ans apr�s que ces lignes �taient �crites, �taient n�s les deux auteurs
+dramatiques norv�giens, qui plus que personne apr�s Abel devaient donner �
+la Norv�ge sa situation dans la civilisation g�n�rale. Le jour m�me de son
+centenaire devait �tre f�t� au th��tre national de la Norv�ge, devant une
+assembl�e de math�maticiens de tous les pays, par une repr�sentation
+hautement artistique de la cr�ation la plus admirable d'Ibsen, tandis que
+Bjoernson glorifiait sa m�moire dans un po�me, le plus d�licat et le plus
+profond qui jusqu'ici ait �t� consacr� � un adepte de la science des
+nombres.
+
+Son voyage le conduisit ensuite dans le Tyrol, le nord de l'Italie, la
+Suisse, et � Paris, o� il entra le 10 juillet. Il �crit � Hansteen:
+
+    Me voici enfin arriv� au foyer de tous mes voeux math�matiques, �
+    Paris. J'y suis d�j� depuis le 10 juillet. Vous trouvez que c'est un
+    peu tard et que je n'aurais pas d� faire le long d�tour par Venise.
+    Cher Monsieur le professeur, cela me fait beaucoup de peine d'avoir
+    fait quelque chose qui n'a pas votre approbation; maintenant que c'est
+    fait, il faut que je me r�fugie dans votre bont�, j'esp�re que vous
+    avez assez de confiance en moi pour croire qu'en somme j'emploierai
+    bien mon voyage. Certes, je le ferai. Pour mon excuse, je n'ai rien
+    d'autre � dire, sinon que mon d�sir �tait grand de regarder un peu
+    autour de moi: voyage-t-on uniquement pour �tudier ce qui est
+    �troitement scientifique? Apr�s cette excursion, je travaille avec
+    d'autant plus d'ardeur. A Botzen, j'ai quitt� Moeller, Boeck et
+    Keilhau, et je suis parti pour Paris le plus vite possible.
+    D'Innsbr�ck j'ai �t� au lac de Constance et j'ai vu un peu de la
+    Suisse, me le reprocherez-vous? Cela m'a co�t� deux jours et quelques
+    skillings de plus que la ligne droite. J'ai �t� par Zurich, Zug, le
+    lac des Quatre-Cantons et Lucerne � B�le. J'ai �t� aussi sur le Rigi,
+    entre le lac de Zug et le lac des Quatre-Cantons, d'o� l'on a la vue
+    la plus �tendue de la Suisse. Je ne regrette vraiment pas ce petit
+    d�tour. De B�le j'ai �t� en trois jours et quatre nuits d'un trait
+    jusqu'� Paris.
+
+Il se mit aussit�t � �crire un grand m�moire qu'il voulait pr�senter �
+l'Institut avant de faire ses visites aux math�maticiens. Il dit �
+Hansteen:
+
+    J'ai tr�s bien r�ussi dans ce m�moire, qui contient beaucoup de choses
+    nouvelles, et qui m�rite, je crois, d'�tre remarqu�. _C'est la
+    premi�re �bauche d'une th�orie d'une infinit� de transcendantes_
+    [Note: En fran�ais dans la lettre d'Abel.]. J'ai l'espoir que
+    l'Acad�mie le fera imprimer dans les _M�moires des savants �trangers_.
+
+Le m�moire fut en effet imprim� dans les _M�moires des savants �trangers_,
+mais douze ans seulement apr�s la mort d'Abel, et apr�s des p�rip�ties de
+toutes sortes. Il contient sa plus grande d�couverte, le th�or�me d'Abel,
+et il est la source m�me de la th�orie des fonctions ab�liennes, qui plus
+tard devait donner l'immortalit� � Riemann et � Weierstrass. Le m�moire
+resta, oubli�, parmi les papiers de Cauchy. Celui-ci, compl�tement absorb�
+par ses propres pens�es g�niales, et par une production dont l'�tendue est
+� peu pr�s unique dans l'histoire des math�matiques, n'avait gu�re le
+temps ni le d�sir de s'occuper des travaux des autres. Paris n'offrit pas
+� Abel, en somme, ce qu'il esp�rait. Il �crit � Hansteen:
+
+    Moeller rentrera bient�t au pays, il est fatigu� de voyager, et je ne
+    peux pas dire autrement: je commence � sentir fortement la nostalgie.
+    D'autant plus que Paris ne sera certainement pas le s�jour le plus
+    agr�able: il y est si difficile d'y faire s�rieusement connaissance
+    avec les gens. Ce n'est pas comme en Allemagne.
+
+Et � Holmboe:
+
+    D'ailleurs je n'aime pas autant le Fran�ais que l'Allemand: le
+    Fran�ais est extr�mement r�serv� � l'�gard des �trangers. Il est tr�s
+    difficile d'arriver � des relations intimes avec lui. Et je n'ose
+    esp�rer y parvenir. Chacun travaille � part sans s'occuper des autres.
+    Tous veulent instruire et personne ne veut apprendre. L'�go�sme le
+    plus absolu r�gne partout. La seule chose que le Fran�ais recherche
+    chez des �trangers, est le c�t� pratique; personne ne sait penser en
+    dehors de lui. Il est le seul qui sache produire quelque chose de
+    th�orique. Telles sont ses id�es, et d�s lors tu peux, comprendre
+    qu'il est difficile d'attirer l'attention, surtout pour un d�butant.
+
+A l'�poque du voyage d'Abel, et encore longtemps apr�s, Berlin n'�tait
+qu'une petite ville, et dans les villes universitaires allemandes
+l'universit� forme une petite ville dans la petite ville, avec sa vie
+propre. Une fois que l'on est introduit dans cette vie, on est membre
+d'une grande famille, une famille avec bien des dissensions, des
+inconv�nients de toutes sortes, mais du moins une famille. Paris au
+contraire �tait la grande ville mondiale, dont le centre intellectuel
+�tait l'Institut; mais l'Institut, alors comme aujourd'hui, ne constituait
+qu'un lien tr�s l�che entre les plus grandes intelligences reconnues de la
+France, qui vont, tous les jours de la semaine, sauf un, chacune son
+chemin, pour se r�unir ce seul jour, choisir des d�l�gu�s, et confirmer ce
+qu'ont r�solu les d�l�gu�s pr�c�dents. La haute consid�ration sociale que
+la France accorde � ses grands hommes dans le monde de l'intelligence, et
+l'importance attribu�e � un jugement de l'un de ces savants, les oblige
+aussi, poursuivis comme ils sont par des solliciteurs d'appr�ciations
+favorables venus de toutes les parties du monde, � observer une attitude
+tr�s r�serv�e, qui ne peut, � moins de circonstances tr�s particuli�res,
+�tre modifi�e qu'apr�s une longue connaissance. Si toutefois Abel avait eu
+l'id�e de suivre les le�ons de Cauchy, et d'aller lui parler, � la sortie
+du cours, les choses se seraient certainement pass�es tout autrement. Les
+travaux de Cauchy ont �t� plus que d'autres le fil conducteur des travaux
+tant alg�briques qu'analytiques d'Abel, et il est surprenant que deux tels
+hommes aient pu entrer en relations sans se p�n�trer. Liouville, qui
+devait plus tard (en 1836) fonder la revue math�matique fran�aise,
+_Journal des math�matiques pures et appliqu�es_, longtemps la seule
+v�ritable rivale du _Journal de Crelle_, et qui, par ses recherches
+personnelles, a notamment acquis sa c�l�brit� pour avoir, sur un point
+d�termin�, continu� l'oeuvre d'Abel, me d�clara, lorsque je fis sa
+connaissance en 1873, que c'�tait un des plus grands malheurs de sa vie,
+d'avoir fait la connaissance d'Abel sans apprendre � le conna�tre. Il en
+fut de m�me avec les autres math�maticiens fran�ais, et Abel n'eut aucun
+autre b�n�fice de son s�jour � Paris que les travaux qu'il y composa lui-
+m�me, et sa lecture assidue de toutes les publications de Cauchy. Il dit �
+Holmboe:
+
+    Je m�ne d'ailleurs une existence tr�s sage. Je travaille, je mange, je
+    bois, je dors, et je vais parfois � la com�die; c'est de tout ce qu'on
+    appelle plaisir le seul que je m'accorde, mais c'en est un grand. Je
+    ne connais pas de plus grand plaisir que de voir une pi�ce de Moli�re
+    o� joue Mlle Mars. Alors je suis tout � fait ravi; elle a quarante
+    ans, mais elle joue tout de m�me des r�les tr�s jeunes... Je vais
+    aussi de temps en temps au Palais-Royal que les Parisiens appellent un
+    � lieu de perdition �. On y voit en assez grand nombre des � femmes de
+    bonne volont� �. Elles ne sont nullement indiscr�tes. Tout ce que l'on
+    entend est: � Voulez-vous monter avec moi, mon petit ami? petit
+    m�chant! � [Note: En fran�ais dans le texte.] Naturellement, en ma
+    qualit� de fianc�, etc., je ne les �coute pas, et je quitte le Palais-
+    Royal � sans la moindre tentation �. Il y en a beaucoup de fort
+    jolies. L'autre jour, j'ai �t� � un d�ner diplomatique chez S. E. le
+    comte L�wenhjelm, o� je me suis un petit peu gris�, ainsi que Keilhau,
+    mais tr�s l�g�rement. Il est mari� avec une jeune Fran�aise. Il a
+    racont� que tous les ans, le 24 d�cembre, il fait rouler sous la table
+    tous les compatriotes.
+
+La pens�e de la situation de sa famille jetait comme toujours une ombre
+sur la vie d'Abel. Il �crit � sa soeur Elisabeth:
+
+    Tu te trouves bien, n'est-ce pas, au milieu des gens excellents chez
+    qui tu es; mais o� en sont ma m�re, mes fr�res. Je ne sais rien sur
+    eux. Il y a d�j� longtemps que je n'ai �crit � ma m�re. La lettre est
+    parvenue, je le sais, mais je n'ai rien re�u d'elle. O� est ... [Note:
+    Le fr�re qui devint pr�tre par la suite], vit-il, et comment? Je suis
+    tr�s inquiet de lui. Lorsque je suis parti, les choses ne
+    s'annon�aient pas bien pour lui. Dieu sait combien souvent j'ai �t�
+    triste � cause de lui. Il n'a sans doute pas beaucoup d'affection pour
+    moi; et cela me fait beaucoup de peine; car je n'ai jamais fait
+    volontairement rien qui puisse lui d�plaire. �coute, Elisabeth, �cris-
+    moi tout au long sur lui, sur ma m�re et mes fr�res.
+
+Il continue:
+
+    Ici � Paris ma vie est assez agr�able. Je travaille assidument, je
+    visite de temps en temps les choses remarquables de la ville, et je
+    prends part aux divertissements qui me plaisent, mais quand m�me je
+    d�sire beaucoup rentrer au pays, et voudrais partir aujourd'hui si
+    c'�tait possible; mais il faut que je reste encore assez longtemps. Au
+    printemps je rentrerai. Il est vrai que je devrais rester � l'�tranger
+    jusqu'en ao�t prochain, mais je constate que je ne peux pas avoir
+    d'avantage sensible � rester plus longtemps exil�.
+
+Cependant sa caisse �tait presque vide, et Abel ne pouvait, faute
+d'argent, rester plus longtemps � Paris. Il quitta Paris pour retrouver
+Crelle � Berlin le 29 d�cembre 1826, et n'avait plus, en arrivant �
+Berlin, que 14 thalers. Il �crit de Berlin � Boeck, qui �tait alors �
+Munich, pour le prier de r�gler une petite dette, et raconte:
+
+    Il (Keilhau) voudrait retourner � l'�tranger, et nous qui sommes ici
+    voudrions �tre rentr�s au pays, c'est bizarre. Je crois tout de m�me
+    que l'�tranger vaut mieux. Quand nous serons rentr�s, nous penserons
+    s�rement comme Keilhau. Il te pr�sage bien des ennuis quand tu seras
+    revenu. Ma situation sera la meilleure, dit-il, en apparence peut-
+    �tre, mais (entre nous soit dit) [Note: _Unter uns gesagt_ (en
+    allemand, dans le texte).], je pr�vois bien des ennuis d'ordre priv�.
+    J'ai vraiment peur de l'avenir. J'aurais presque envie de rester pour
+    toujours ici en Allemagne, ce que je peux faire sans difficult�.
+    Crelle m'a terriblement pouss� dans mes retranchements pour me faire
+    rester ici. Il est un peu f�ch� contre moi, parce que je refuse. Il ne
+    comprend pas ce que je veux faire en Norv�ge, qui lui para�t �tre une
+    autre Sib�rie.
+
+Dans une lettre ult�rieure, � Boeck �galement, il dit:
+
+    En mai je partirai donc d'ici par n�cessit� (sa bourse �tait tout �
+    fait vide) et sans d�plaisir. Hansteen croit que je serai nomm� �
+    l'Universit� quand je reviendrai. Mais il a �t� aussi question de me
+    torturer pendant une ann�e dans une �cole. Si on veut faire cela, je
+    ne marcherai pas plus qu'un �ne.
+
+Il re�ut alors quelque argent de Holmboe, 293 marks. Il �crit le 4 mars
+1827:
+
+    Cela m'a rendu un grand service, car j'�tais plus pauvre qu'un rat
+    d'�glise. Maintenant je vais vivre ici l�-dessus aussi longtemps que
+    je pourrai, puis je filerai vers le nord. Je resterai un moment �
+    Copenhague, o� ma fianc�e viendra me rejoindre, puis au pays, o�
+    j'arriverai si d�nu� que je serai bien oblig� de tendre la main � la
+    porte de l'�glise. Je ne me laisse pourtant pas abattre; je suis si
+    bien habitu� � la mis�re et au d�nuement. �a ira toujours.
+
+On trouve dans la m�me lettre:
+
+    ... Mais cela, il faut que je le garde jusqu'� mon retour pour te le
+    faire conna�tre. Au total j'ai fait une masse effrayante de
+    d�couvertes. Si seulement je les avais mises en ordre et r�dig�es, car
+    la plupart ne sont encore que dans ma t�te. Il n'y a pas � penser �
+    quoi que ce soit avant que je sois install� convenablement chez nous.
+    Alors il me faudra travailler dur comme un cheval de fiacre; mais avec
+    plaisir, bien entendu.
+
+Et plus loin:
+
+    Il me tarde de rentrer au pays, car je ne peux gu�re avoir d'avantage
+    � rester ici. Quand on est chez soi, on se fait de l'�tranger de
+    diables d'id�es, autres qu'il ne faudrait. Ils ne sont pas si forts.
+    Les gens en g�n�ral sont mous, mais assez droits et honn�tes. Nulle
+    part il n'est plus facile d'arriver qu'en Allemagne et en France, chez
+    nous c'est dix fois plus difficile.
+
+Pensant � son retour prochain, il �crit aussi � sa maternelle amie Mme
+Hansteen (le d�but de la lettre est d�truit):
+
+    ... sens qu'il m'arrivera souvent d'aller chez vous. Ce sera
+    v�ritablement une de mes meilleures joies. Mon Dieu, que de fois n'ai-
+    je pas eu envie d'aller vous voir, mais je n'ai pas os�. Bien des
+    fois, j'ai �t� jusqu'� la porte, et je suis reparti, par crainte de
+    vous importuner; car �'aurait �t� le pis qui p�t m'arriver, si vous
+    aviez �t� trop lasse de moi. Tr�s bien, puisque je puis m'assurer
+    qu'il n'en est pas ainsi... Je suis extr�mement heureux que tout aille
+    bien pour ma ch�re soeur. J'ai tant d'affection pour elle. C'est �
+    vous, ch�re Madame Hansteen, que sont dus son bonheur, et la joie
+    qu'il m'a caus�. Il faut que vous la saluiez le plus tendrement de ma
+    part lorsque vous la verrez. Je pense toujours � elle... Mais adieu,
+    ma tr�s ch�re maternelle tutrice, et gardez une toute petite place
+    dans votre coeur pour votre Abel.
+
+Il me semble que ces lignes et d'autres semblables, qui manifestent la
+tendresse et la sensibilit� d'Abel, expliquent suffisamment pourquoi il
+voulait rentrer au pays, et n'�coutait qu'� contre-coeur les invites de
+Crelle � se faire un avenir en Allemagne. Elling Holst a expliqu� sa
+r�solution de rentrer en Norv�ge comme une manifestation de son sentiment
+du devoir. La Norv�ge avait fait les frais de son voyage, il �tait donc
+tenu envers elle de faire profiter sa patrie des fruits de son travail et
+de son g�nie. Cette explication me para�t factice, et elle ne repose sur
+aucune expression d'Abel lui-m�me. Rien n'indique d'ailleurs qu'il �tait
+un homme de devoir tel qu'un semblable raisonnement le ferait supposer.
+Dans la fi�re et c�l�bre profession de foi qu'il avait formul�e un an
+auparavant dans une lettre � Hansteen, il disait:
+
+    La math�matique pure dans son sens le plus strict doit �tre � l'avenir
+    mon �tude exclusive. Je veux m'appliquer de toutes mes forces �
+    apporter un peu plus de clart� dans la prodigieuse obscurit� que l'on
+    trouve incontestablement aujourd'hui dans l'analyse. Elle manque � tel
+    point de plan d'ensemble, qu'il est vraiment tout � fait merveilleux
+    qu'elle puisse �tre �tudi�e par tant de gens, et le pis est qu'elle
+    n'est pas du tout trait�e avec rigueur. Il n'y a que tr�s peu de
+    propositions, dans l'analyse sup�rieure, qui soient d�montr�es avec
+    une rigueur d�cisive.
+
+Il n'y a rien l�, ni ailleurs, qui montre le d�sir de r�aliser quelque
+chose particuli�rement pour la Norv�ge, ou la conscience d'obligations
+sp�ciales � cet �gard. Ce ne fut pas, me semble-t-il, le sentiment du
+devoir qui le ramena au pays, mais une timidit�, une intime sensibilit�
+qui l'emp�chait de vivre, sinon avec effort, parmi les � �trangers �. Nous
+verrons d'ailleurs avec quelle ardeur, plus tard, il saisit une chance qui
+s'offrit de nouveau � l'�tranger. L'essentiel �tait pour lui de pouvoir
+achever son grand travail, et d'avoir l'occasion de mettre en oeuvre les
+id�es dont son esprit �tait rempli, et qu'il savait devoir compl�tement
+bouleverser la science. Il voulait voir si cela pouvait se faire dans son
+pays, ce qui e�t le mieux convenu � son humeur, mais si cela ne
+r�ussissait pas, il accepterait n'importe o� une position qui lui en
+fournirait le moyen.
+
+Le 20 mai 1827, Abel revint � Kristiania. Elling Holst, dans la biographie
+pleine de sentiment et de finesse qu'il a �crite pour le centenaire d'Abel
+et qui accompagne dignement la solide �tude scientifique de Sylow, dit:
+� Dans son travail, il avait atteint, suivant des directions diff�rentes,
+plus haut que personne. Et en m�me temps, apr�s avoir �t� le messager
+plein de promesse de son pays, il se voyait transform� en un homme pour
+qui il n'y a plus de place. � Holmboe s'�tait laiss� persuader de prendre
+le seul poste universitaire de math�matiques existant. Hansteen, pour son
+grand voyage sib�rien, avait impos� au Tr�sor une d�pense, inou�e pour
+l'�poque, de 18.000 couronnes. Y ajouter encore une somme pour venir en
+aide � Abel �tait au-dessus des moyens du budget. Mais Abel n'avait plus
+aucune ressource pour vivre. Il prit l'affaire en mains propres, et
+s'adressa encore une fois, se fondant sur la pr�c�dente exp�rience
+favorable, au Coll�ge acad�mique. Il commence le 2 juin par une lettre o�
+il annonce son retour, et se recommande de nouveau � l'attention
+bienveillante du Coll�ge. D�s le 5, le Coll�ge informe le chancelier de
+l'Universit� du retour d'Abel, regrette que le Coll�ge n'ait pas les
+moyens d'offrir � Abel quelque subvention, et sollicite l'appui du
+chancelier pour en procurer une. Le chancelier s'adresse � son tour, le 8
+juin, au minist�re de l'Instruction publique, et sollicite son aide � afin
+que les fruits, tant de son extraordinaire talent pour les math�matiques
+sup�rieures, que des d�penses d�j� faites � cet �gard, ne soient pas
+perdus �. Le minist�re de l'Instruction publique s'adresse au minist�re
+des Finances. Le minist�re des Finances, qui pr�c�demment avait eu tant de
+souci de l'instruction d'Abel dans les � langues savantes �, et qui avait
+alors su trouver de si belles phrases, n'eut pas d'oreilles, cette fois,
+pour conserver � son talent extraordinaire pour les math�matiques
+sup�rieures �, et r�pondit le 20 juin par un refus cat�gorique et en style
+bureaucratique: � .. fait savoir qu'il ne sera pas possible de rien donner
+sur le Tr�sor dans le but indiqu� �. Le minist�re de l'Instruction
+publique fut alors oblig� d'expliquer au _Collegium academicum_ que l'on
+n'avait pu procurer aucune ressource. Abel �crit alors le 23 juillet au
+_Collegium academicum_ cette lettre �mouvante:
+
+    D�j� depuis longtemps j'avais l'id�e, en me consacrant tout � fait �
+    l'�tude des math�matiques, de me rendre digne un jour d'�tre nomm�
+    professeur � l'Universit�. J'ose peut-�tre me flatter, maintenant que
+    j'ai termin� mon voyage � l'�tranger, d'avoir acquis des connaissances
+    qui peuvent �tre consid�r�es comme suffisantes � cet effet, et que,
+    par cons�quent, lorsque les circonstances le permettront, j'obtiendrai
+    une situation � l'Universit�. Mais jusque-l�, en supposant qu'une
+    telle situation pourra m'�choir, je suis absolument sans ressources
+    pour me procurer m�me les choses les plus n�cessaires, et il en a �t�
+    ainsi depuis mon retour. Pour pouvoir vivre, je vais me voir oblig�
+    d'abandonner compl�tement mes �tudes, ce qui me serait excessivement
+    douloureux, maintenant pr�cis�ment que j'esp�rais pouvoir r�diger
+    plusieurs travaux math�matiques commenc�s, grands et petits. Cela me
+    ferait d'autant plus de tort que je serais alors oblig� d'interrompre
+    une carri�re d'auteur d�j� commenc�e � l'�tranger, ayant �t� notamment
+    collaborateur dans le _Journal der reinen und angewandten Mathematik_
+    de Crelle, paraissant � Berlin, dont je prends la libert� de joindre
+    les cahiers parus jusqu'� pr�sent. J'ose donc demander au haut Conseil
+    une subvention, aux conditions que le Conseil trouvera convenables.
+
+Le Coll�ge adresse aussit�t, le 31 juillet, au minist�re de l'Instruction
+publique, une pri�re chaleureuse pour qu'une somme de 200 sp. (1.120
+francs) par an soit compt�e � Abel jusqu'� ce qu'il puisse �tre nomm�
+suppl�ant de Hansteen pendant son voyage. Le minist�re de l'Instruction
+publique r�pond apr�s quelques jours de r�flexion, le 18 ao�t, -- on �tait
+en plein �t� -- que le minist�re conseillait au Coll�ge de remettre � Abel
+une somme de 200 sp., � rembourser lorsqu'il aurait la suppl�ance de
+Hansteen. Le 4 septembre enfin, fut ordonnanc�e sur la caisse des
+subventions universitaires, et non comme pr�t ou comme avance, une somme
+de 200 sp. par an, � compter du 1er juillet, et le caissier re�ut l'ordre
+de payer tout de suite 116 sp. Mais Abel ne re�ut m�me pas cette somme,
+qui �tait d�j� insuffisante pour couvrir ses dettes pressantes. Son p�re,
+lorsque l'Universit� avait �t� fond�e, avait constitu� une donation d'un
+tonneau de seigle par an, donation garantie par sa petite ferme de Lunde �
+Gjerrestad, o� la m�re d'Abel menait une triste existence. Sa m�re ne
+pouvait pas payer, et Abel prit � sa charge la dette de 26 sp. � d�duire
+des traitements qu'il recevrait de l'Universit�. Il est atroce de penser
+que pendant ce long �t�, n'ayant rien pu gagner non plus par des le�ons
+particuli�res, Abel fut litt�ralement dans la mis�re. On ne peut certes
+pas bl�mer les autorit�s acad�miques. Elles firent ce qu'elles pouvaient,
+et quiconque est habitu� aux lenteurs administratives qui, dans la plupart
+des pays, font tra�ner les affaires de ce genre, doit plut�t admirer la
+rapidit� avec laquelle les lettres officielles se sont succ�d�.
+
+Quinze jours � peine apr�s que la subvention universitaire e�t mis fin �
+la pire p�riode de mis�re, la premi�re partie des _Recherches sur les
+fonctions elliptiques_ fut publi�e (20 septembre 1827); la th�orie
+vraiment initiatrice d'Abel parut dans le second fascicule du deuxi�me
+volume du Journal de Crelle. A cette publication se rattachent des
+circonstances curieuses d'un grand int�r�t historique. Carl-Gustaf-Jacob
+Jacobi, fils d'un riche marchand juif �tabli � Potsdam, et n� en d�cembre
+1804, plus jeune qu'Abel de deux ans, par cons�quent, s'�tait montr� de
+bonne heure brillamment dou� pour les math�matiques. En 1827, alors
+qu'Abel, � Kristiania, ne pouvait qu'� grand'peine obtenir le pain
+quotidien, Jacobi, � vingt-trois ans, �tait d�j� professeur � l'Universit�
+de K�nigsberg. Crelle avait, d�j� auparavant, su se procurer sa
+collaboration � son journal, et il est �vident qu'ils avaient entre eux
+une correspondance assidue. Crelle a-t-il d'avance annonc� � Jacobi
+quelque chose de la publication d'Abel? Rien n'e�t �t� plus naturel, car
+il n'est pas possible que Crelle n'ait pas �t� vivement �mu des
+propositions extraordinairement simples, aux formules incisives et
+inattendues, que contenait le travail d'Abel. Quoi qu'il en soit, Jacobi
+envoya quelques propositions touchant la m�me th�orie, non au journal de
+Crelle, mais � une revue astronomique, _Schumachers Astronomische
+Nachrichten_, et elles furent publi�es le m�me mois que le travail d'Abel
+dans le journal de Crelle. Si la communication de Jacobi avait �t� publi�e
+dans le journal de Crelle avec le travail d'Abel, personne n'aurait pu
+penser a nommer Jacobi � c�t� d'Abel comme inventeur des fonctions
+elliptiques. Car les propositions de Jacobi sont des formules alg�briques
+trouv�es par t�tonnement, pour lesquelles il ne pouvait donner aucune
+d�monstration, et qui d�coulaient imm�diatement de l'une des propositions
+g�n�rales d'Abel. Le travail d'Abel est au contraire une th�orie compl�te,
+expos�e depuis ses fondements, et rigoureusement conduite, con�ue avec la
+plus large envergure. Dans la d�monstration il se trouve, il est vrai, un
+point faible, mais j'ai montr� ailleurs, que cette imperfection, sans
+aucune difficult�, et sans s'�carter du cours m�me des id�es d'Abel, peut
+�tre ais�ment r�par�e. Cependant de cette publication simultan�e de deux
+auteurs diff�rents dans deux revues diff�rentes est r�sult�e la croyance
+si longtemps r�pandue qu'Abel et Jacobi �taient tous deux, ind�pendamment
+l'un de l'autre, les fondateurs de la th�orie. Borchardt, �l�ve de Jacobi
+et successeur de Crelle comme directeur du _Journal f�r die reine und
+angewandte mathematik_, a d�clare, et cela encore en 1875, que nul
+g�om�tre, comparant les publications d'Abel et de Jacobi, ne peut douter
+que tous deux en m�me temps, et ind�pendamment l'un de l'autre, �taient en
+possession de la th�orie des fonctions elliptiques dans son entier.
+Combien cette croyance �tait alors encore g�n�ralement r�pandue, ce qui
+suit, entre autres choses, le prouve. Pendant l'hiver 1875-76, que je
+passai � G�ttingen avec acc�s � la biblioth�que math�matique extr�mement
+compl�te qui s'y trouve, je m'occupai particuli�rement de l'histoire de la
+th�orie des fonctions elliptiques. Je fus bient�t convaincu que l'opinion,
+surtout dominante en Allemagne, affirm�e de fa�on si tranchante par
+Borchardt, �tait incorrecte, et � ce sujet j'�crivis � Bjerknes �
+Kristiania, le priant de me donner quelques renseignements que devaient
+pouvoir donner les manuscrits d'Abel, accessibles seulement � Kristiania.
+Bjerknes me r�pondit le 18 janvier 1876: � Tout d'abord je fus un peu
+ennuy� de votre lettre, car il me semblait que vous �tiez injuste envers
+Jacobi. Peu � peu mes recherches m'ont conduit au r�sultat, pour moi tout
+� fait inattendu, que vous verrez dans mon expos�. � Ce furent ces
+recherches qui conduisirent plus tard � la biographie d'Abel, de Bjerknes,
+qui sera toujours l'un des ouvrages fondamentaux sur Abel. Toutefois
+Bjerknes, dans son expos� des rapports entre Abel et Jacobi, a �t� plus
+loin que je ne voudrais, et il me semble qu'il a �t�, � son tour, en
+quelque mesure, injuste pour Jacobi [Note: J'avais � cette �poque le
+projet d'�crire la biographie d'Abel pour le _Nordisk Tidskrift_, revue
+publi�e par l'association Letterstedt � Stockholm, mais comme Bjerknes
+commen�a dans le journal norv�gien _Morgenbladet_ la publication
+d'articles sur la vie et l'oeuvre d'Abel, j'abandonnai ce projet, et c�dai
+� Bjerknes, qui avait pour cela des donn�es personnelles plus nombreuses,
+sans compter les donn�es nationales, le soin d'�crire la biographie d'Abel
+pour le _Nordisk Tidskrift_.].
+
+Il r�sulte de la correspondance de Gauss et de Schumacher, que celui-ci,
+au cours d'une visite que Gauss lui fit � Altona au printemps de 1827,
+parla de la publication prochaine de Jacobi, et promit � Gauss de lui
+envoyer l'article de Jacobi avant l'impression. Schumacher savait en effet
+que Gauss s'�tait occup� d�j� depuis 1796 de la th�orie des fonctions
+elliptiques, et qu'il �tait en possession depuis 1800 d'une th�orie
+compl�te dans toutes les parties essentielles. Il envoya suivant sa
+promesse l'article de Jacobi � Gauss, en le priant d'y ajouter une note,
+mais l'article lui fut renvoy� avec la simple affirmation rapide que Gauss
+estimait plus convenable de � rester compl�tement hors du jeu � (_ganz aus
+dem Spiele zu bleiben_). Il en alla tout autrement lorsque Gauss eut
+connaissance des _Recherches_ d'Abel. Crelle avait �crit � Gauss et lui
+avait demand� de publier aussi ses propres recherches sur les fonctions
+elliptiques. Gauss d�clina l'offre. Il avait pour le moment autre chose �
+faire.
+
+    En outre, Abel m'a devanc� pour un bon tiers de mon travail. Il a
+    suivi exactement la m�me voie o� je suis entr� en 1798. Aussi ne suis-
+    je pas surpris qu'il soit parvenu, pour la plus grande part, au m�me
+    r�sultat. Comme de plus il montre dans sa composition une acuit�, une
+    profondeur et une �l�gance extr�mes, je me vois d�li� de l'obligation
+    de r�diger mes propres recherches.
+
+Paroles stup�fiantes pour tous les petits professeurs avec leurs
+r�clamations incessantes pour la priorit�, leur course mesquine vers un
+id�al embrum�. Et notez qu'il s'agit ici d'une d�couverte qui est l'une
+des plus grandes de la pens�e humaine, de la fondation d'une th�orie, dont
+la port�e s'�tend jusqu'� un avenir imp�n�trable, et que personne, plus
+nettement que Gauss, lui-m�me, ne pouvait appr�cier l'importance de la
+th�orie nouvelle. Il n'y a pas un mot sur Jacobi dans la lettre � Crelle;
+mais ailleurs, dans une lettre � Schumacher, Gauss a fait en passant une
+comparaison entre Jacobi et Abel. Il approuve que Schumacher, par son
+attitude, �carte les questions dont M. Jacobi l'� importune �, et dit que
+si Jacobi s'adresse directement � lui, Gauss, il lui r�pondra, � bien que
+ces questions soient exprim�es peu clairement, et soient, � mon avis,
+apr�s l'apparition du travail d'Abel (qui, entre nous, m'a devanc� pour un
+bon tiers de mes propres recherches, et concorde avec celles-ci en partie
+jusque dans le choix des lettres), tr�s oiseuses �.
+
+Le travail d'Abel, _Recherches sur les fonctions elliptiques_, fut publi�
+en deux parties, la premi�re dans le second, la deuxi�me dans le troisi�me
+volume du Journal de Crelle. La premi�re partie parut, comme nous avons
+vu, en septembre 1827. La suite fut envoy�e par Abel � Crelle le 12
+f�vrier 1828. Abel avait eu connaissance dans l'intervalle de l'article de
+Jacobi dans les _Astronomische Nachrichten_, et montrait en quelques
+pages, dans une � addition au m�moire pr�c�dent �, que le r�sultat de
+Jacobi �tait contenu dans les siens. J'avais cru longtemps avoir des
+raisons de douter qu'il exist�t encore une autre partie, jusqu'ici
+inconnue, des _Recherches_, et j'en avais vainement recherch� le manuscrit
+pendant plusieurs ann�es. Enfin, il y a quelques ann�es, un hasard
+favorable mit ce manuscrit entre mes mains, et j'eus le bonheur de pouvoir
+donner en t�te du premier des trois volumes des _Acta mathematica_,
+publi�s � l'occasion du centenaire d'Abel et enti�rement consacr�s � sa
+m�moire, les _Recherches sur les fonctions elliptiques, par N.-H. Abel.
+Second m�moire_. Ce second m�moire est dat� de Kristiania, 27 ao�t 1828,
+et, comme le premier, �tait destin� au journal de Crelle. Crelle ne publia
+cependant que le premier de ses cinq paragraphes. Il est difficile d'en
+donner le motif avec certitude, mais on ne doit pas s'�carter beaucoup de
+la v�rit� en pr�sumant que ce m�moire tout simplement n'a pas �t� compris.
+S'il avait �t� publi� dans son entier, Abel serait certainement apparu
+pour ses contemporains, d�s la premi�re heure, comme le seul fondateur de
+la th�orie des fonctions elliptiques.
+
+Les premi�res publications d'Abel et de Jacobi en septembre 1827 furent
+suivies de toute une s�rie d'autres, par les deux auteurs et aboutirent,
+du c�t� de Jacobi, � l'ouvrage classique _Fundamenta nova theoriae
+functionum ellipticarum_, qui parut en 1829, un mois environ apr�s la mort
+d'Abel. Bjerknes a certainement raison lorsqu'il montre la d�pendance
+constante des recherches et des r�sultats de Jacobi � l'�gard des
+r�sultats d'Abel, tandis que l'inverse ne s'est pas produit une seule
+fois. Il a raison �galement lorsqu'il affirme que cette relation n'a �t�
+indiqu�e par Jacobi que partiellement, et chaque fois tr�s incompl�tement.
+Mais je crois qu'il a tort lorsqu'il veut voir l�, de la part de Jacobi,
+une intention consciente de d�figurer la v�rit� historique, et de s'�lever
+au d�triment d'Abel. Jacobi �tait un grand math�maticien qui avait un don
+brillant pour les formules, une ma�trise de la langue formulaire des
+math�matiques comme bien peu l'ont eue, soit avant, soit apr�s lui, mais
+il �tait de beaucoup inf�rieur � Abel pour le g�nie et la puissance de la
+pens�e. Il rev�tait son expos� d'une forme qui lui �tait particuli�re, et
+s'�cartait notablement de celle d'Abel. Il repensait les pens�es d'Abel
+habill�es par lui d'un costume nouveau, et il ne les reconnaissait plus,
+et croyait qu'elles �taient de lui. Telle est la r�gle ordinaire pour le
+commun des hommes, cette r�gle s'applique presque sans changement �
+messieurs les savants, et ne perd sa valeur que pour les tr�s grands. Et
+Jacobi n'�tait pas un tr�s grand. Weierstrass �crit � Sophie Kowalevski �
+propos d'une r�flexion sur Kronecker:
+
+    Il y a encore chez lui un d�faut, que l'on trouve chez beaucoup
+    d'hommes tr�s intelligents, notamment parmi ceux de race s�mitique,
+    ils ne poss�dent pas une imagination suffisante (je devrais plut�t
+    dire intuition), et il est certain qu'un math�maticien qui n'est pas
+    quelque peu po�te, ne sera jamais un math�maticien complet. Les
+    comparaisons sont instructives: le regard qui embrasse tout, dirig�
+    vers les sommets, vers l'id�al, d�signe Abel comme sup�rieur �
+    Jacobi... d'une mani�re �clatante.
+
+L'opinion de Weierstrass est � beaucoup d'�gards du plus haut int�r�t. A
+c�t� de l'�cole de la rigueur math�matique, dont les repr�sentants
+modernes les plus �minents sont Gauss et Cauchy, Abel et Weierstrass lui-
+m�me, une autre �cole s'est peu � peu d�velopp�e, qui pr�tend apercevoir
+gr�ce � certaines des vues _g�om�triques_ des chemins de traverse vers les
+v�rit�s math�matiques. On repr�sente volontiers, dans cette �cole, la
+m�thode de Weierstrass comme une sorte de logique arithm�tique, presque
+scholastique, et l'on professe que les v�ritables d�couvertes ne se font
+jamais par voie purement d�ductive, o� chaque proposition se lie
+inflexiblement � la pr�c�dente. Ceci est absolument juste, mais l'exemple
+d'Abel montre que c'est une erreur de regarder les vues g�om�triques comme
+la source unique de d�couvertes nouvelles. Abel ne se livre jamais � des
+consid�rations g�om�triques, et n'a jamais montr� le moindre int�r�t pour
+les propositions ou les m�thodes g�om�triques. Pourtant il avait un don
+d'intuition comme peu d'hommes l'ont eu avant ou apr�s lui. Et c'est ce
+don qui l'a conduit � ses grandes d�couvertes. Mais en m�me temps, il
+�tait tout � fait oppos� � cette pr�tention qu'affichent les protagonistes
+des vues g�om�triques en analyse: faire accepter comme d�montr�es
+rigoureusement des th�or�mes qu'ils d�duisent de vagues consid�rations
+spatiales. Abel �tait trop grand comme penseur pour une telle pr�tention.
+Il avait vu trop profond�ment la connexion intime des choses pour ne pas
+savoir que m�me son intuition avait besoin du contr�le d'une d�duction
+rigoureuse.
+
+L'expression de Weierstrass, que le v�ritable math�maticien est po�te,
+peut para�tre au grand public singuli�rement �trange. Il en est pourtant
+ainsi. L'expression n'implique pas seulement qu'il faut au math�maticien,
+de m�me qu'au po�te, de l'imagination et de l'intuition. Ceci est vrai
+pour toutes les sciences, nulle part toutefois au m�me degr� que dans les
+math�matiques. Mais l'expression a aussi une signification d'une port�e
+plus grande. Les meilleurs travaux d'Abel sont de v�ritables po�mes
+lyriques d'une beaut� sublime, o� la perfection de la forme laisse
+transpara�tre la profondeur de la pens�e, en m�me temps qu'elle remplit
+l'imagination de tableaux de r�ve tir�s d'un monde d'id�es �cart�, plus
+�lev� au-dessus de la banalit� de la vie et plus directement �man� de
+l'�me m�me que tout ce qu'a pu produire aucun po�te au sens ordinaire du
+mot. Il ne faut pas oublier, en effet, � quel point la langue
+math�matique, faite pour les besoins de pens�e les plus hauts de
+l'humanit�, est sup�rieure � notre langue ordinaire. Il ne faut pas
+oublier non plus que la pens�e int�rieure y est plus compl�tement et plus
+clairement exprim�e que dans aucun autre domaine humain.
+
+Nous avons vu comment la mis�re la plus pressante fut secourue par la
+subvention de 200 sp. qu'Abel obtint le 4 septembre 1827. Sa situation
+�conomique devait par la suite s'am�liorer encore, bien que lentement et
+insuffisamment. Le voyage de Hansteen en Sib�rie devait commencer en 1828,
+et il s'agissait, les �l�ments d'astronomie �tant compris dans l'examen de
+philosophie, de trouver quelqu'un qui p�t, en l'absence de Hansteen, faire
+son cours d'astronomie. Abel fut propos�, et nomm� le 10 mars 1828, avec
+un traitement annuel de 400 sp.[Note: 2.160 francs environ.], soit 200 sp.
+de moins qu'il n'�tait attribu� d'habitude pour des fonctions de ce genre.
+
+Abel continuait � manquer d'argent, et cette situation provisoire ne
+promettait d'ailleurs rien pour l'avenir. Sa r�solution de se consacrer
+enti�rement � la science, et sa r�pugnance � l'�gard de toute occupation
+qui pouvait le distraire de ses travaux scientifiques �taient peut-�tre
+plus fortes que jamais. Aussi est-il naturel qu'il ait vu avec plaisir
+Crelle s'occuper de lui trouver � Berlin un emploi � sa mesure, et que
+Crelle ait eu � cet effet son enti�re approbation. Crelle avait sans doute
+inform� Abel, en juin 1828, qu'il avait alors les plus grandes chances, et
+Abel, qui d�sirait toujours rester dans son pays, �crit aussit�t, le 21
+juin 1828, au Coll�ge acad�mique:
+
+    Comme en ce moment s'ouvre devant moi la perspective d'une nomination
+    � l'�tranger, savoir, � l'Universit� de Berlin, je prends la libert� �
+    ce propos de m'adresser au haut Conseil, afin de savoir par lui si je
+    puis obtenir une situation stable ici. C'est certainement mon d�sir le
+    plus intime de passer ma vie dans mon pays, si cela est possible d'une
+    mani�re qui puisse me suffire; sinon, je ne crois pas devoir refuser
+    un moyen d'assurer mon avenir, qui m'appara�t ici tr�s pr�caire. Si
+    une situation stable ne pouvait pas m'�tre assur�e maintenant,
+    j'oserais esp�rer que ma situation � l'Universit� ne pourrait pas �tre
+    un emp�chement � ce que je cherche � obtenir une place � Berlin. Si
+    plus tard une carri�re s'ouvre ici pour moi, il n'y aura certes de ma
+    part aucune opposition � ce que je revienne, si j'ose encore nourrir
+    cet espoir. Comme j'ai �t� invit� de la mani�re la plus pressante �
+    donner ma r�ponse au premier jour, j'oserai peut-�tre prier le haut
+    Conseil de traiter cette affaire le plus vite possible. Ceci est pour
+    moi de la plus haute importance. Respectueusement. N. Abel.
+
+Le Coll�ge acad�mique s'adresse le jour m�me au chancelier, avec un
+conseil chaleureux de procurer � Abel une situation convenable en Norv�ge.
+Le chancelier, d�s le 24 juin, s'adresse au ministre de l'Instruction
+publique en termes tout aussi chaleureux. Mais le 30 juin intervient la
+lettre suivante d'Abel au minist�re de l'Instruction publique:
+
+    Je d�sire que soit mise de c�t� jusqu'� nouvel ordre l'affaire
+    mentionn�e dans ma lettre au Conseil acad�mique du 21 juin 1828, qui a
+    �t� adress�e au minist�re royal. Respectueusement. N. H. Abel, docent
+    d�l�gu�.
+
+Des difficult�s �taient survenues � Berlin, et Crelle, dans une nouvelle
+lettre, avait impos� � Abel une rigoureuse discr�tion. Cependant la
+question d'une nomination d'Abel � Berlin, et sa d�marche officielle,
+furent connues, et devinrent l'objet de commentaires dans la presse, ce
+qui ne pouvait que compromettre Abel � Berlin. On ne peut s'emp�cher
+d'observer que tout cet �pisode de l'histoire d'Abel, avec cette
+discussion publique d'affaires strictement confidentielles, a une grande
+ressemblance avec des proc�d�s analogues chez nos fr�res norv�giens, � une
+�poque plus r�cente, proc�d�s qui ont toujours excit� en Su�de une vive
+surprise. Abel �crit lui-m�me � Mme Hansteen le 21 juillet 1828:
+
+    En sorte que j'en suis au m�me point qu'auparavant, c'est m�me plut�t
+    pis, car j'ai �t� ridiculis� ici, et je peux l'�tre � l'�tranger
+    (voyez un �difiant morceau dans un journal publi� par l'�diteur
+    Schiwe, _Derni�res histoires de Kristiania et de Stockholm_, n� 1, p.
+    6). Je ne veux pas r�pondre, afin de ne pas prolonger une vilaine
+    affaire. �a pourra passer maintenant pour un mensonge de journal, _et
+    enfin le temps tue tout_ [Note: En fran�ais dans le texte.]. Quoi
+    qu'il en soit, il est peu probable que je cherche quelque chose encore
+    � Kristiania. Je pr�f�re travailler dur avec ce que j'ai tant que �a
+    durera. Mais j'ai appris � me taire; c'est une bonne chose. Crelle m'a
+    lav� la t�te au sujet de mon bavardage, car bien que je ne lui aie pas
+    dit ce que j'avais dit, je peux bien voir qu'il est _au fait_. Il
+    m'invite en attendant � �tre tout � fait muet... C'est surtout pour ma
+    fianc�e que cela me fait de la peine. Elle est trop bonne.
+
+Il �crit aussi � Holmboe, le 29 juin:
+
+    C'est sans doute � ton retour de Copenhague que cette lettre t'est
+    adress�e, mais tu n'as pas besoin de raconter ce que je t'�cris. Il
+    s'agit du voyage � Berlin. Il est fichu, et moi, par suite, presque
+    autant. Crelle m'a �crit, il y a dimanche huit jours, que quelqu'un
+    _tomb� du ciel_ [Note: _Vom Himmel gefallen_ (en allemand dans le
+    texte).] est arrive, qui voulait faire valoir ses droits et qu'il
+    fallait caser. Dieu sait qui c'est, mais n'importe, l'animal a pris ma
+    place. Il �crit d'ailleurs que, bien que ce soit douteux, il ne faut
+    pas que je perde tout espoir, et que ce sera possible plus tard. En
+    octobre j'aurai une r�ponse ferme. Mais tu ne le diras pas. Rien que
+    ceci, que je n'ai jamais d� aller, et que je n'irai pas � Berlin, ce
+    qui est conforme � la v�rit�. Cela n'a gu�re plu � Crelle que j'en aie
+    parl�.
+
+Ces lettres sont �crites de l'usine de Froland, o� Abel �tait l'h�te du
+propri�taire Smith, et o� sa fianc�e Christine Kemp �tait institutrice des
+enfants. Il �crit de l� encore en ao�t 1828 � Mme Hansteen:
+
+    Je suis pauvre comme un rat d'�glise, n'ayant maintenant pas plus
+    de 1 sp. 60, qu'il faut que je donne comme pourboire.
+
+En septembre 1828 il est de retour � Kristiania, d'o� il �crit � Mme
+Hansteen, qui �tait alors � Copenhague:
+
+    Comme c'est �trange, je ne peux pas me mettre dans la t�te que vous
+    �tes partie, et je suis souvent sur le point d'aller chez vous. Me
+    voici donc presque absolument seul. Je vous assure que je ne fr�quente
+    litt�ralement pas une seule personne. Cependant cela ne me manquera
+    pas tout d'abord, car j'ai horriblement � travailler pour le
+    _Journal_. J'aurai dor�navant 1 ducat par feuille d'impression, Crelle
+    me l'a offert de lui-m�me. Mais il n'en sortira naturellement pas
+    grand'chose, et ma situation g�n�e m'a fait accepter. Je viens de
+    recevoir hier une lettre de Crelle o� il dit qu'il y a toujours espoir
+    que je puisse venir � Berlin, et que bient�t on pourra �tre fix� si
+    cela aboutit ou non.
+
+Il lui �crit encore en novembre 1828:
+
+    Je n'ai peut-�tre pas �t� tout � fait envers elle (�videmment sa
+    fianc�e) comme j'aurais d�, mais maintenant nous sommes d'accord et
+    nous nous entendons bien ensemble. Je me suis beaucoup corrig�, et
+    j'esp�re qu'un jour nous vivrons heureux ensemble. Mais quand cet
+    heureux moment viendra-t-il, je ne sais. Pourvu qu'il ne soit pas trop
+    �loign�. Cela me fait de la peine pour ma Crelly, qui sera oblig�e de
+    travailler si dur... J'en suis toujours � 400 sp. et je suis dans les
+    dettes jusqu'au cou, mais je m'en suis tout de m�me un peu d�gag�. En
+    attendant, ma pr�c�dente h�tesse � la Reine � n'a pas re�u un
+    skilling, et je lui dois 82 sp. A la banque, j'ai r�ussi � diminuer
+    jusqu'� 160, et chez le marchand de drap de 45 � 20. En outre, je dois
+    au cordonnier, au tailleur et au restaurateur, mais d'ailleurs je
+    n'emprunte pas. Mais il ne faut pas vous apitoyer sur moi pour cela.
+    Je m'en tirerai bien.
+
+Finalement Abel, las de ces soucis, se d�cide � s'adresser au
+gouvernement. Il �crit le 6 d�cembre 1828:
+
+    Au Roi. Par d�cret gracieux du 6 f�vrier de cette ann�e, j'ai �t�
+    nomm�, pendant l'absence du professeur Hansteen, pour un voyage
+    scientifique en Sib�rie, docent � l'Universit� charg� des fonctions
+    du-dit professeur avec un traitement de 400 sp. Bien que ces
+    appointements fussent inf�rieurs � ce qui avait �t� attribu� aux
+    autres docents nomm�s � l'Universit�, j'ai d� cependant, vu ma
+    situation financi�re, consid�rer comme une bonne fortune d'obtenir
+    n'importe quelle position compatible avec mes �tudes, qui me procur�t
+    les ressources strictement n�cessaires, et d'ailleurs j'ai trouv� au
+    moins peu convenable, tant que je n'avais pas donn� des preuves de mon
+    aptitude � l'enseignement, de demander aucune augmentation du
+    traitement gracieusement fix�. Depuis que j'ai fait le cours
+    d'astronomie � l'Universit�, j'ai, d'une part, �t� � m�me de me rendre
+    compte jusqu'� quel point le temps que j'y consacre peut �tre
+    consid�r� comme suffisamment r�tribu�, et d'autre part les directeurs
+    de l'Universit� ont eu occasion de juger si je suis � la hauteur de
+    l'emploi qui m'est confi�. J'ose donc humblement esp�rer que ma pri�re
+    ne sera pas consid�r�e comme d�plac�e ou impertinente, si je demande
+    humblement � �tre plac�, � partir du 1er janvier de l'ann�e prochaine,
+    dans les m�mes conditions que les autres docents de l'Universit�, et
+    qu'il me soit par suite gracieusement attribu� un traitement annuel de
+    600 sp. Humblement. Niels Henrik Abel.
+
+Il fut fait droit � cette p�tition, ce qui fut annonc� � Abel par le
+Coll�ge acad�mique le 27 f�vrier 1829. Cette nouvelle en croisa une autre
+du 21 f�vrier, partie de Froland, o� Abel passait les vacances de No�l.
+Holmboe �crit au Coll�ge acad�mique qu'Abel le prie d'informer le Coll�ge
+qu'il a eu une longue maladie, et qu'il ne pourra sans doute avant
+longtemps revenir et faire ses cours. Son m�decin A. C. M�ller �crit avec
+plus de d�tails, le m�me jour, 21 f�vrier:
+
+    Sur l'invitation de M. le docent Abel, et comme son m�decin, le
+    soussign� s'empresse d'informer le haut conseil acad�mique en son nom
+    -- car il n'est pas capable d'�crire lui-m�me -- que peu apr�s son
+    arriv�e � l'usine de Froland, il a �t� pris d'une forte congestion
+    pulmonaire et de grands crachements de sang qui ont cess� au bout de
+    peu de temps, mais qui pourtant, � cause d'une toux chronique
+    persistante et de sa grande faiblesse, l'ont jusqu'ici emp�ch� de
+    quitter le lit, qu'il doit encore garder: il ne peut d'ailleurs pas
+    non plus supporter d'�tre soumis au moindre changement de temp�rature.
+    Le plus inqui�tant est que sa toux s�che chronique avec sensation de
+    piq�re dans la poitrine fait pr�sumer avec grande vraisemblance qu'il
+    souffre de tubercules cach�s dans la poitrine et la trach�e, pouvant
+    facilement amener une phtisie cons�cutive, ce qui semble encore plus
+    probable, �tant donn�e sa constitution. Dans cet �tat f�cheux de la
+    sant� de M. le docent Abel, il est de la plus grande vraisemblance
+    qu'il ne pourra pas retourner � Christiania avant le printemps, et que
+    par suite il ne pourra pas remplir les fonctions dont il est charg�,
+    m�me au cas o� l'issue de sa maladie serait la plus favorable.
+    L'am�lioration de son �tat, et sa gu�rison compl�te, que l'on esp�rait
+    jusqu'ici, l'ont emp�ch� jusqu'ici d'informer le haut conseil
+    acad�mique, ce qui sans cela aurait d�j� �t� fait.
+
+La courte vie d'Abel se pr�cipita. Le 6 avril 1829, � quatre heures de
+l'apr�s- midi, tout �tait fini. Abel avait alors vingt-six ans et huit
+mois. L'hiver avait �t� rigoureux, et le manteau de voyage d'Abel,
+lorsqu'il �tait parti pour passer la No�l � Froland, insuffisant � cause
+de sa grande pauvret�. Il avait eu froid pendant le voyage, et quelques
+jours apr�s son arriv�e, il eut des crachements de sang, et dut se mettre
+au lit pour ne plus en sortir. Vers le commencement de janvier, pourtant,
+un mieux se produisit, et le 6 janvier 1829, date plus glorieuse dans
+l'histoire de la civilisation que les jours de f�te des rois, des
+empereurs et des divers pays, Abel, au lit, �crivit pour le journal de
+Crelle la plus grande pens�e de sa vie, le th�or�me d'addition, aussit�t
+salu� comme un _monumentum aere perennius_, et qui, cent ans apr�s la
+naissance d'Abel, marque encore le plus haut point de d�veloppement de la
+math�matique. Le th�or�me, il est vrai, �tait compris dans le grand
+m�moire destin� � l'Institut de Paris, qui reposait parmi les papiers de
+Cauchy, mais Abel avait toutes raisons de craindre que ce m�moire �tait
+perdu, et voulait en sauver l'id�e fondamentale. Ce travail du 6 janvier
+est le dernier de la main d'Abel. Une rechute eut lieu, et il posa pour
+toujours sa plume assidue. Quelques rayons de lumi�re venus du dehors
+devaient du moins tomber sur ses derniers jours. Des informations
+arriv�rent de Berlin, o� sa nomination �tait pour ainsi dire certaine.
+Elles furent confirm�es de Paris par Legendre, qui le tenait d'Alexandre
+de Humboldt. Il badinait avec sa fianc�e: � Tu ne t'appelleras plus
+madame, ni ma femme, on dira _Herr Professor mit seinem Gemahlin._ � (M.
+le Professeur avec son �pouse).
+
+Sa Crelly, Christine Kemp, ne le quitta pas un instant. La lutte contre la
+mort ne fut pas facile, mais elle refusa d'accepter aucun secours, afin
+� de pouvoir poss�der ces instants pour elle-m�me �. Abel, par
+l'interm�diaire de la famille Smith, avait fait saluer Keilhau, son plus
+intime ami, le priant de prendre soin de Crelly apr�s sa mort. � Elle
+n'est pas belle -- ainsi s'exprimait-il -- elle a les cheveux rouges et
+des taches de rousseur, mais c'est une femme admirable. �
+
+Keilhau, � cette �poque, ne l'avait jamais vue. Mais il la connaissait par
+Abel, et il ne tarda pas bien longtemps � exaucer le voeu de son ami en
+informant la jeune femme, par l'interm�diaire de Holmboe, de son espoir
+qu'elle consentirait � l'�pouser. Il vint � Froland au commencement de
+1830, et ils se fianc�rent; le mariage eut lieu plus tard, et ils v�curent
+heureux et longtemps. Leur premier soin apr�s les fian�ailles fut d'�lever
+avec l'aide de quelques-uns de ses amis les plus intimes, un monument sur
+la tombe d'Abel.
+
+Mais l'hommage essentiel � la m�moire d'Abel devait �tre la publication de
+son oeuvre compl�te. La premi�re initiative fut prise par un acad�micien
+fran�ais, le baron Maurice, g�nevois de naissance, qui d'ailleurs n'occupe
+pas dans l'histoire des math�matiques une place autrement distingu�e. Il
+�crivit � Son Excellence G. C. F. Loevenhjelm, ministre de Su�de et
+Norv�ge � Paris, et recommanda cette publication, qui pourrait �tre faite
+sous la forme d'un volume suppl�mentaire au recueil de l'Acad�mie des
+sciences � Stockholm. Loevenhjelm �crivit � son ami intime Berz�lius, le 5
+septembre 1831, et recommanda l'affaire dans les termes les plus
+chaleureux.
+
+    Voyons: ne serait-ce pas un crime pour la science, et un b�n�fice
+    perdu pour l'honneur et la c�l�brit� scientifiques de la Scandinavie,
+    si des oeuvres qui ont � ce point �veill� l'attention de l'Institut,
+    et m�rit� � un professeur suppl�ant inconnu dans une universit�
+    lointaine de tels jugements, -- si, dis-je, ces oeuvres devaient
+    demeurer inconnues en manuscrit, et peu � peu dispara�tre du savoir
+    humain.
+
+Il proposait pour sa part de se procurer les ressources n�cessaires par
+quelque m�c�ne.
+
+Berz�lius �crivit � Hansteen le 27 septembre 1831:
+
+    Je ne peux �tre juge des m�rites d'Abel, mais j'entends qu'ils sont
+    hautement appr�ci�s dans la capitale de la France. Je dois donc croire
+    justifi�es les louanges qu'ils obtiennent. Au cas o� un honneur
+    national serait � recueillir d'une telle publication, il appartient
+    incontestablement � la Norv�ge, et il incombe � l'Universit� de
+    Christiania de pr�parer l'�dition, � laquelle le Storthing, s'il y a
+    lieu, ne refusera pas de contribuer par une subvention. Mais je suis
+    d'autre part tellement habitu� aux mani�res de parler fran�aises, que
+    je peux tr�s bien me repr�senter quelque savant fran�ais, qui voudrait
+    acheter les oeuvres r�unies sous une forme commode pour 15 ou 20
+    francs, et qui essayerait � cet effet de jouer de la grosse caisse. En
+    ce cas il ne faut pas �tre la dupe de leurs propositions, mais en ce
+    cas aussi, ce sont les math�maticiens compatriotes d'Abel qu'il faut
+    laisser appr�cier si, peut-�tre, tout ne m�rite pas, parmi les �crits
+    que ce jeune homme � publi�s, d'�tre conserv� par une r��dition.
+
+La lettre de Berz�lius est caract�ristique. Qu'il laiss�t l'affaire aux
+Norv�giens �tait naturel et juste. Mais comparez par exemple, son attitude
+r�serv�e, et son doute au sujet de la grandeur d'Abel, avec la position
+prise par Alexandre de Humboldt. Aucun des deux n'�tait personnellement, �
+aucun degr�, en �tat de juger Abel. Mais Humboldt avait pour conseiller
+Gauss. En Su�de, au contraire, il n'y avait personne, � cette �poque, dont
+Berz�lius p�t �couter l'avis avec le moindre profit. La science
+math�matique en Su�de �tait alors, et fut encore longtemps apr�s, on peut
+dire, inconnue, et l'enseignement universitaire �tait restreint aux
+connaissances les plus modestes et les moins scientifiques sur les
+premiers �l�ments de g�om�trie et de trigonom�trie.
+
+Ce ne fut qu'en 1836 que la question de la publication des oeuvres d'Abel
+fut soulev�e s�rieusement en Norv�ge. Ce fut Holmboe qui s'offrit pour
+faire lui- m�me ce travail, et qui, en 1839, dix ans apr�s la mort d'Abel,
+put livrer au monde math�matique les _Oeuvres compl�tes_ d'Abel. Une
+nouvelle �dition, augment�e et am�lior�e, fut publi�e par Sophus Lie et
+Sylow en 1881.
+
+Les oeuvres d'Abel tiennent dans un grand volume in-4�. Comme �tendue la
+production d'Abel est tr�s inf�rieure � celle d'autres grands
+math�maticiens. Quel monde de pens�es nouvelles, pourtant, est contenu
+dans ce seul volume! Il n'existe gu�re de travail math�matique de quelque
+importance qui ait paru depuis Abel, et qui n'ait �t� plus ou moins
+influenc� par lui. Les plus grandes cr�ations math�matiques du si�cle
+dernier, la th�orie des fonctions analytiques et la th�orie des fonctions
+ab�liennes, sont une continuation directe et imm�diate des propres travaux
+d'Abel. � Lisez Abel � �tait le premier et le dernier conseil de
+Weierstrass aux �l�ves de math�matiques, et il est bien certain que
+personne encore ne peut se faire une id�e de l'�poque o� ce conseil perdra
+de sa valeur. Lorsque cinquante math�maticiens furent invit�s � honorer le
+centenaire d'Abel par la publication d'une collection de m�moires qui,
+tous, devaient �tre une suite directe � quelque travail d'Abel lui-m�me,
+le r�sultat fut trois grands volumes in-4� que je pus offrir �
+l'Universit� de Cristiania aux f�tes du centenaire. Parmi les auteurs se
+trouvent les plus �minents de l'�poque. Plusieurs des m�moires ont la plus
+haute valeur. Tous montrent quels horizons nouveaux les id�es d'Abel, de
+toutes parts, ont ouverts aux recherches.
+
+Abel a lui-m�me caract�ris� le mieux le genre de sa production dans la
+phrase c�l�bre qu'il adressait avec un enthousiasme juv�nile � Hansteen:
+� La pure math�matique dans sa plus pure signification doit �tre �
+l'avenir ma seule �tude. � Hansteen, lui, avait une toute autre conception
+de la math�matique, qui � ses yeux n'�tait gu�re autre chose qu'une
+science auxiliaire pour l'�tude de la nature.
+
+Il est incontestable que la position du probl�me, dans les grandes
+d�couvertes math�matiques, tr�s souvent provient du monde ext�rieur, d'un
+effort pour interpr�ter correctement les donn�es de l'exp�rience. De l�,
+et � cause des services rendus par les math�matiques aux sciences
+exp�rimentales, la conception s'est g�n�ralement r�pandue que l'objet
+propre des math�matiques est de se mettre au service de ces sciences.
+Aussi, lorsque l'on veut justement glorifier les math�matiques, on le fait
+volontiers en montrant son utilit� pour l'interpr�tation de faits qui sont
+hors d'elles. M�me ceux qui se rendent mieux compte, se soumettent souvent
+� cette opinion g�n�rale. On se souvient, par exemple, avec quel soin
+Newton dissimulait que la math�matique du ciel f�t un r�sultat du calcul
+infinit�simal, on se souvient de l'h�sitation de Gauss � publier sa
+d�couverte de la v�ritable essence de l'espace.
+
+Abel est le premier grand math�maticien qui ouvertement et sans d�tour ait
+jet� le masque. Pour lui la math�matique porte son id�al en elle-m�me. Son
+objet est le nombre.
+
+
+
+
+
+
+End of the Tamil Bookshelf EBook of NIELS HENRIK ABEL, by G. MITTAG-LEFFLER
+
+*** END OF THE Tamil Bookshelf EBOOK NIELS HENRIK ABEL ***
+
+This file should be named 8abel10.txt or 8abel10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 8abel11.txt
+VERSIONS based on separate sources get new LETTER, 8abel10a.txt
+
+Produced by Anne Soulard, Joshua Hutchinson, Marlo Dianne
+and the Online Distributed Proofreading Team.
+
+Tamil Bookshelf eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Tamil Bookshelf eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://tamilbookshelf.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+tamilbookshelf, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Tamil Bookshelf Newsletter.
+
+http://www.ibiblio.org/tamilbookshelf/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/tamilbookshelf/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Tamil Bookshelf (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Tamil Bookshelf is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Tamil Bookshelf Literary Archive Foundation has been created
+to secure a future for Tamil Bookshelf into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Tamil Bookshelf Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Tamil Bookshelf Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.tamilbookshelf.net/donation.html
+
+
+***
+
+If you can't reach Tamil Bookshelf,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this Tamil Bookshelf-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT Tamil Bookshelf-TM EBOOKS
+This Tamil Bookshelf-tm eBook, like most Tamil Bookshelf-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Tamil Bookshelf Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "Tamil Bookshelf" trademark.
+
+Please do not use the "Tamil Bookshelf" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

@@ -1,0 +1,658 @@
+The Tamil Bookshelf Etext of Madame Aubin, by Paul Verlaine,
+translated by Frank J. Morlock
+
+** This is a COPYRIGHTED Tamil Bookshelf Etext, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+This Etext is for private use only. No republication for profit in
+print or other media may be made without the express consent of the
+Copyright Holder. The Copyright Holder is especially concerned about
+performance rights in any media on stage, cinema, or television, or
+audio or any other media, including readings for which an entrance fee
+or the like is charge. Permissions should be addressed to: Frank
+Morlock, 6006 Greenbelt Rd, #312, Greenbelt, MD 20770, USA or
+frankmorlock@msn.com. Other works by this author may be found at
+http://www.cadytech.com/dumas/personnage.asp?key=130
+
+We encourage you to keep this file, exactly as it is, on your
+own disk, thereby keeping an electronic path open for future
+readers.  Please do not remove this header information.
+
+This header should be the first thing seen when anyone starts to
+view the etext. Do not change or edit it without written permission.
+The words are carefully chosen to provide users with the
+information they need to understand what they may and may not
+do with the etext.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*****These Etexts Are Prepared By Thousands of Volunteers!*****
+
+Information on contacting Tamil Bookshelf to get etexts, and
+further information, is included below.  We need your donations.
+
+The Tamil Bookshelf Literary Archive Foundation is a 501(c)(3)
+organization with EIN [Employee Identification Number] 64-6221541
+
+
+
+Title: Madame Aubin
+
+Author: Paul Verlaine, translated by Frank J. Morlock
+
+Release Date: September, 2003 [Etext #4661]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on February 23, 2002]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+The Tamil Bookshelf Etext of Madame Aubin, by Paul Verlaine
+*******This file should be named aubin10.txt or aubin10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, aubin11.txt
+VERSIONS based on separate sources get new LETTER, aubin10a.txt
+
+This etext was produced by Dagny, dagnypg@yahoo.com
+and Frank J. Morlock, frankmorlock@msn.com
+
+We are now trying to release all our etexts one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Tamil Bookshelf Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://tamilbookshelf.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+tamilbookshelf, including how to donate, how to help produce our new
+etexts, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any Etext before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Tamil Bookshelf Newsletter.
+
+http://www.ibiblio.org/tamilbookshelf/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/tamilbookshelf/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Tamil Bookshelf (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2001 as we release over 50 new Etext
+files per month, or 500 more Etexts in 2000 for a total of 4000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Tamil Bookshelf is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 4,000 Etexts.  We need
+funding, as well as continued efforts by volunteers, to maintain
+or increase our production and reach our goals.
+
+The Tamil Bookshelf Literary Archive Foundation has been created
+to secure a future for Tamil Bookshelf into the next millennium.
+
+We need your donations more than ever!
+
+As of January, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut, Delaware,
+Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky,
+Louisiana, Maine, Michigan, Missouri, Montana, Nebraska, Nevada, New
+Jersey, New Mexico, New York, North Carolina, Oklahoma, Oregon,
+Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee,
+Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin,
+and Wyoming.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted!  For more information
+about donations, please view http://promo.net/pg/donation.html
+We accept PayPal, as well as donation s via NetworkForGood.
+
+Donation checks should be sent to:
+
+Tamil Bookshelf Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+
+The Tamil Bookshelf Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fundraising
+requirements for other states are met, additions to this list will be
+made and fundraising will begin in the additional states.
+
+We need your donations more than ever!
+
+***
+
+If you can't reach Tamil Bookshelf,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**Information prepared by the Tamil Bookshelf legal advisor**
+(Three Pages)
+
+***START** SMALL PRINT! for COPYRIGHT PROTECTED ETEXTS ***
+
+TITLE AND COPYRIGHT NOTICE:
+
+Madame Aubin by Paul Verlaine, translated by Frank J. Morlock
+(C)2001 by Frank J. Morlock
+
+This etext is distributed by Professor Michael S. Hart through the
+Tamil Bookshelf Association (the "Project") under the "Project
+tamilbookshelf" trademark and with the permission of the etext's
+copyright owner.
+
+Please do not use the "Tamil Bookshelf" trademark to market
+any commercial products without permission.
+
+
+LICENSE
+You can (and are encouraged!) to copy and distribute this
+Tamil Bookshelf-tm etext.  Since, unlike many other of the
+Project's etexts, it is copyright protected, and since the
+materials and methods you use will effect the Project's reputation,
+your right to copy and distribute it is limited by the copyright
+laws and by the conditions of this "Small Print!" statement.
+
+  [A]  ALL COPIES: You may distribute copies of this etext
+electronically or on any machine readable medium now known
+or hereafter discovered so long as you:
+
+     (1)  Honor the refund and replacement provisions of this
+"Small Print!" statement; and
+
+     (2)  Pay a royalty to the Foundation of 20% of the gross
+profits you derive calculated using the method you already use
+to calculate your applicable taxes.  If you don't derive
+profits, no royalty is due.  Royalties are payable to "Project
+tamilbookshelf Literary Archive Foundation" within the 60 days
+following each date you prepare (or were legally required
+to prepare) your annual (or equivalent periodic) tax return.
+
+  [B]  EXACT AND MODIFIED COPIES: The copies you distribute
+must either be exact copies of this etext, including this
+Small Print statement, or can be in binary, compressed, mark-
+up, or proprietary form (including any form resulting from
+word processing or hypertext software), so long as *EITHER*:
+
+     (1)  The etext, when displayed, is clearly readable, and
+does *not* contain characters other than those intended by the
+author of the work, although tilde (~), asterisk (*) and
+underline (_) characters may be used to convey punctuation
+intended by the author, and additional characters may be used
+to indicate hypertext links; OR
+
+     (2)  The etext is readily convertible by the reader at no
+expense into plain ASCII, EBCDIC or equivalent form by the
+program that displays the etext (as is the case, for instance,
+with most word processors); OR
+
+     (3)  You provide or agree to provide on request at no
+additional cost, fee or expense, a copy of the etext in plain
+ASCII.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+This etext may contain a "Defect" in the form of incomplete,
+inaccurate or corrupt data, transcription errors, a copyright
+or other infringement, a defective or damaged disk, computer
+virus, or codes that damage or cannot be read by your
+equipment.  But for the "Right of Replacement or Refund"
+described below, the Project (and any other party you may
+receive this etext from as a Tamil Bookshelf-tm etext)
+disclaims all liability to you for damages, costs and
+expenses, including legal fees, and YOU HAVE NO REMEDIES FOR
+NEGLIGENCE OR UNDER STRICT LIABILITY, OR FOR BREACH OF
+WARRANTY OR CONTRACT, INCLUDING BUT NOT LIMITED TO INDIRECT,
+CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES, EVEN IF YOU
+GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.  Some states do not allow disclaimers of
+implied warranties or the exclusion or limitation of
+consequential damages, so the above disclaimers and exclusions
+may not apply to you, and you may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart and the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Tamil Bookshelf-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this etext,
+[2] alteration, modification, or addition to the etext,
+or [3] any Defect.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Tamil Bookshelf is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Tamil Bookshelf Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*SMALL PRINT! Ver.12.12.00 FOR COPYRIGHT PROTECTED ETEXTS*END*
+
+
+
+This etext was produced by Dagny, dagnypg@yahoo.com
+and Frank J. Morlock, frankmorlock@msn.com
+
+
+
+This Etext is for private use only. No republication for profit in
+print or other media may be made without the express consent of the
+Copyright Holder. The Copyright Holder is especially concerned about
+performance rights in any media on stage, cinema, or television, or
+audio or any other media, including readings for which an entrance fee
+or the like is charge. Permissions should be addressed to: Frank
+Morlock, 6006 Greenbelt Rd, #312, Greenbelt, MD 20770, USA or
+frankmorlock@msn.com. Other works by this author may be found at
+http://www.cadytech.com/dumas/personnage.asp?key=130
+
+
+
+                            MADAME AUBIN
+
+                   a play in one act and in prose
+
+                          by Verlaine, 1895
+
+              Translated and adapted by Frank J. Morlock
+
+
+
+Characters:
+
+A Servant
+Aubin
+Madame Marie Aubin
+Peltier
+An Officer
+
+
+
+The action takes place in the room of a hotel.
+
+
+PELTIER (to a servant who is leaving)
+That's fine. We'll ring when we need you.
+
+(to Marie)
+A day and a night of rest, my darling, right? After which we'll leave,
+crossing Switzerland for Brindisi without any stop and reach the
+Orient as it was agreed.
+
+MARIE
+It was agreed?
+
+PELTIER
+Eh! Yes.
+
+MARIE
+It's true. Indeed, as you like.
+
+PELTIER
+What do you mean? Since you approve, I'm going to peruse the train
+schedule. You'll allow me.
+
+MARIE
+My God, yes.
+
+(A short pause during which Marie looks at her ring and munches on a
+cake she has taken from a gold comfit box.)
+
+PELTIER (after having written some notes in pencil)
+There. At noon tomorrow we'll take the Express and we'll stop wherever
+you like. Look. (offering Marie his notes)
+
+MARIE
+My friend, you are perfect. I'm going to think it over. Would you
+listen to me for a moment to discuss something else?
+
+PELTIER
+Speak my darling.
+
+MARIE
+I want to call a halt to our adventure here.
+
+PELTIER
+I don't understand.
+
+MARIE
+Don't interrupt me. What we are doing is crazy. It's not ridiculous,
+it's crazy. We will be far less happy than we were there. And it truly
+required all the influence of your charming character and the
+persuasion of your frankness (offering him her hand which he holds and
+keeps) to make me take this enormous step. It's no longer time, I know
+or rather I suspect, to go back on such an impulse, but after all,
+what do you want? And I am in despair after all this bravura which
+decided me, sustained me, swept me off my feet during this long
+journey from Paris to this chancy place. Ah, I'm afraid.
+
+PELTIER (overwhelmed by surprise rather than skeptical and resolved as
+he had appeared up until now.)
+Afraid of whom and what? (he lets Marie's hand fall and crosses his
+arms waiting to hear more)
+
+MARIE
+Of the past, first of all. Fear! Remorse because of the past. And
+certainly my husband doesn't deserve all this outrage. He's a man with
+faults, surely, even vices, perhaps. But he's honorable and even
+righteous. And now I think of it these quarrels between him and me
+must rather proceed from me, spoiled child and over-free young girl
+that I was before my marriage with this honest, with this gallant man.
+
+PELTIER
+Let's leave Aubin out of this. In the end what do you mean and what do
+you want me to do? Return to Paris and your abandoned household?
+
+MARIE
+I don't know yet. But don't interrupt me every minute and you will be
+of my opinion. No. My husband ought not to have to endure these things
+on his honor and his name. And it's true I am afraid of the past. I'm
+afraid of the future, too. Or rather, no. It's the present which
+frightens me, sir! For the future, I'll answer for it. And it will
+conform to the vows of my finally reawakened conscience.
+
+PELTIER (who has a mounting rage within him and feels himself provoked
+to the last degree)
+Explain yourself? Are you joking or not? I want to understand you.
+
+MARIE
+Sir, you have no right to speak to me like this!
+
+(Peltier advances like a man who has the right his interlocutor is
+speaking of or believes he's going to have it.)
+
+MARIE
+And I will never give it to you.
+
+PELTIER
+Madame.
+
+MARIE
+Do you hear, sir?
+
+(The two stiffen and look each other in the face. A silence.)
+
+PELTIER
+Then why did you come with me of your own free will, or even on your
+own initiative?
+
+MARIE (who's settled down)
+What do you want? I've changed my mind.
+
+PELTIER (very cold and speaking through his teeth)
+Fine. You've tricked me! At this point I'm not a young man. No one
+makes a fool of me! For, my darling, I don't think that a caprice of
+yours, such a sudden turnabout, such a flash of virtue--
+
+MARIE
+Don't use that word virtue any more. It is terrible to my ears. I was
+telling you just now that I've something like fear of the present.
+Yes, fear to remain here this way. But I was in the process of adding
+that the present doesn't terrify me. It was then that you shrieked out
+at the moment I was going to explain to you how I intended to confide
+myself to your honor to allow me to decide in peace. And you got so
+carried away that you irritated me, too. And you just said things to
+me! A caprice? me, at my age; twenty-eight years old! A flash of
+conscience. Yes, that's it. Believe it.
+
+PELTIER
+But what role is it you wish me to play in all this? You, you are at
+the same time reasonable, then illogical and me? as for me?
+
+MARIE
+Your role? All sketched out. Let me do it all. That would be
+chivalrous and fine.
+
+PELTIER
+But I love you, why--
+
+MARIE
+And me, too, I love you and I say to you: Can't we love each other
+without all this? (scornful gesture) without all this? (disdainful
+gesture)
+
+PELTIER
+Ah! We are there. A virgin arises in you when through you a satyr is
+rising in me. (grabbing her by the waist) And towards you--
+
+MARIE (who soon gets free)
+Look, let's be serious.
+
+(Peltier, who importunes a long explanation sits with bowed head; one
+hand on the back of a chair, the other playing with his watch chain.)
+
+MARIE
+What is it you risk? You, a man, a bachelor by this pleasant voyage?
+Nothing. A duel perhaps on return! In this illogical world we live in
+your reputation will be far from damaged; a world which dislikes
+adultery in a woman and is passionately fond of all the gallant sins
+of a fashionable man. Whereas I?!! And yet it's only quite natural and
+especially on the brink of a final resolution, I hesitate and jump
+back. Must you be angry about it? Look, are you angry? can you be?
+ought you to be?
+
+PELTIER (as if unexpectedly released and decided, peremptory, brief,
+confident)
+Questions! Questions! In my turn I will say to you: Let's be serious.
+Admit it: You encouraged me to do this thing. And exactly as you say
+it was quite natural for me to undertake it, and still is; I concur in
+your reasoning, and will pursue it like a fashionable man or
+otherwise!
+
+(Marie recoils abruptly. Peltier takes a step forward.)
+
+PELTIER
+And I am going to prove it to you!
+
+MARIE (rigid and henceforth not giving an inch)
+Fie!
+
+PELTIER
+You are going to see.
+
+(Aubin abruptly opens the door and appears.)
+
+AUBIN (addressing himself exclusively to Peltier)
+Yes, it's I, the one you didn't expect. No need to tell you how I
+caught wind of your plot and was able to overtake you so soon. The
+essential thing is that four officers from the garrison are indeed
+willing to serve as seconds and are awaiting us in a nearby woods
+with swords and pistols as you please even though I have indeed the
+right to choose the weapons.
+
+PELTIER
+I'll come with you.
+
+AUBIN (to his wife, aloud, taking her hand which he kisses)
+You, Marie, await me here--dead or alive. Do you understand me, my
+pretty?
+
+(Aubin and Peltier leave)
+
+MARIE
+What an affair! Am I really dreaming in the end. (throwing herself on
+a sofa which might soon have become dangerous) A little order in my
+thoughts. (pressing her fingers to her forehead) There. There.--Yes,
+what I was telling Mr. Peltier is still true. I was a spoiled child
+when Aubin took me. He spoiled me, too. I became accustomed to
+prolonging my childhood and my youth in the married state. I was
+willful, demanding, capricious. At the beginning my husband found this
+charming, then he tired of it. Quarrels, harshness on his part, on
+mine sulks. Seven years later Peltier appeared. A charming man,
+surely. But less so than Aubin, now that I see things clearly. And at
+bottom, this stupid departure is still more my fault than his. A
+moment of feminine scorn which with our mores a man is praised for
+profiting from. I couldn't hold it against him just now for wanting
+what was implied by our innocent prank  and a little fortitude helped
+me confine it to its character of folly and nothing more. But what?
+While I tell myself these things, two likable men who both love me,
+and of which I decidedly prefer one, my husband, are fighting over me.
+O Mercy! Just as if I were a young girl. And indeed! O punishment! Me!
+Me! What anguish and what a situation! And the future! During these
+sweet words with Aubin just now. I've the great misery of waiting for
+him or the other one. All the same, I've resisted. And there was a
+moment when I had some merit. But this trip! And this waiting! My God,
+you in whom one must believe despite all the opinions of folks these
+days, My God--have pity on me in my misery! (long silence during which
+she remains prostrated.)
+
+AUBIN (enters, wounded in the shoulder, supported by an Officer)
+It's over. Madame Aubin, I present you one of my seconds.
+
+(To the officer)
+Sir?
+
+OFFICER (bowing before Marie)
+Count de Givors.
+
+AUBIN
+Count de Givors, I present you my wife.
+
+MARIE (who, since her husband's entrance has had eyes only for him,
+mechanically)
+Sir. (leaping after a fashion on his neck) Ah, my friend. Why, why,
+you are wounded.
+
+AUBIN
+It's nothing. A bullet that they'll quickly extract from me. And then,
+right? as soon as my wound is dressed on our way to Paris? By the way,
+you know, Peltier has nothing.
+
+MARIE (literally superb)
+Who cares?
+
+(Silence)
+
+AUBIN (immensely joyful)
+Huh?
+
+OFFICER (to both)
+Excuse me. (he withdraws after having bowed, escorted out by both)
+
+AUBIN (to his wife)
+Explain yourself, Marie.
+
+(Peltier enters)
+
+MARIE (to Peltier)
+Sir. Say if you have ever had the right to call yourself my lover?
+
+PELTIER
+On my oath as an honest and gallant man which my return to this room
+confirms: Aubin, I swear No. This departure was a delirium from which
+Madame awakened first, pure and invincible. Invincible because I
+wanted to have the last word and she had it; and that was a no not to
+be misunderstood.
+
+AUBIN*
+Indeed, each has fulfilled his duty here. I, after your folly rushed
+to get back my wife and to forgive her after a duel. You, Marie,
+having remained a good spouse. And I will answer to you that the
+misunderstandings which serve to excuse you, are dead forever. How
+happy we are going to be. And you, Peltier, what need is there for an
+explanation? Given our civilization's disapproval of your attempt to
+do me out of my wife, as for me, I'd bear you a grudge, too, if this
+bullet weren't in my shoulder. Now this is it: we'll return after my
+scratch is dressed. Naturally we will be some while without seeing you
+again, Peltier. Aren't you on a trip?
+
+(to Peltier)
+And your hand.
+
+
+(curtain)
+
+
+
+* Translator's note. This final speech reads a little strangely and not
+just in translation because the idea behind it is a little strange.
+Aubin's idea is something like this: "The world condemns you, Peltier,
+for tampering with my wife, and I would too, but for the fact you've put
+a bullet in my shoulder which proves you're a man of honor, etc." I don't
+feel justified in incorporating the explanatory material into the text so
+the best I can do is offer this footnote.
+
+
+
+End of the Tamil Bookshelf Etext of Madame Aubin by Paul Verlaine,
+translated by Frank J. Morlock.
+

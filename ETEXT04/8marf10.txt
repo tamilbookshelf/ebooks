@@ -1,0 +1,2505 @@
+The Tamil Bookshelf EBook of Le Mariage Force, by Moliere [Jean-Baptiste Poquelin]
+#6 in our series by Moli�re [Jean-Baptiste Poquelin]
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Tamil Bookshelf eBook.
+
+This header should be the first thing seen when viewing this Project
+tamilbookshelf file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Tamil Bookshelf at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Tamil Bookshelf, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Le Mariage Forc�
+
+Author: Moli�re [Jean-Baptiste Poquelin]
+
+Release Date: February, 2004  [EBook #5178]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 29, 2002]
+
+Edition: 10
+
+Language: French
+
+Character set encoding: ISO-8859-1
+
+*** START OF THE Tamil Bookshelf EBOOK, LE MARIAGE FORCE ***
+
+
+This eBook was produced by Laurent Le Guillou <leguillou.laurent@free.fr>.
+
+
+Title: Le Mariage Forc�
+
+Language: French
+
+Encoding: ISO-8859-1
+
+
+
+Source:
+
+Jean-Baptiste Poquelin (1620-1673), alias Moli�re,
+"Oeuvres de Moli�re, avec des notes de tous les commentateurs",
+Tome Premier,
+Paris, Librarie de Firmin-Didot et Cie,
+Imprimeurs de l'Institut, rue Jacob, 56,
+1890.
+
+Pages 419-448.
+
+[Spelling of the 1890 edition. Footnotes have been retained because
+they provide the meanings of old French words or expressions.
+Footnote are indicated by numbers in brackets, and are grouped
+at the end of the Etext. Text encoding is iso-8859-1.]
+
+
+
+
+
+LE MARIAGE FORC�
+
+
+
+
+Com�die en un acte (1664)
+
+
+
+PERSONNAGES                             ACTEURS
+
+Sganarelle.                             Moli�re.
+G�ronimo.                               La Thorilli�re.
+Dorim�ne, jeune coquette,               
+promise � Sganarelle.                   Mlle Du Parc.
+Alcantor, p�re de Dorim�ne.             B�jart.
+Alcidas, fr�re de Dorim�ne.             La Grange.
+Lycaste, amant de Dorim�ne.
+Pancrace, docteur aristot�licien.       Br�court.
+Marphurius, docteur pyrrhonien.         Du Croisy.
+Deux �gyptiennes.                       Mlle B�jart, Mlle de Brie.
+
+
+
+La sc�ne est dans une place publique.
+
+
+Sc�ne premi�re. - Sganarelle.
+
+
+- Sganarelle -
+
+          (parlant � ceux qui sont dans sa maison.)
+
+Je suis de retour dans un moment. Que l'on ait bien soin du logis, et
+que tout aille comme il faut. Si l'on m'apporte de l'argent, que l'on
+vienne me qu�rir vite chez le seigneur G�ronimo ; et si l'on vient
+m'en demander, qu'on dise que je suis sorti, et que je ne dois revenir
+de toute la journ�e.
+
+
+-----------
+
+Sc�ne II. - Sganarelle, G�ronimo.
+
+
+- G�ronimo -
+
+          (ayant entendu les derni�res paroles de Sganarelle.)
+
+Voil� un ordre fort prudent.
+
+- Sganarelle -
+
+Ah ! seigneur G�ronimo, je vous trouve � propos ; et j'allais chez
+vous vous chercher.
+
+- G�ronimo -
+
+Et pour quel sujet, s'il vous pla�t ?
+
+- Sganarelle -
+
+Pour vous communiquer une affaire que j'ai en t�te, et vous prier de
+m'en dire votre avis.
+
+- G�ronimo -
+
+Tr�s volontiers. Je suis bien aise de cette rencontre, et nous pouvons
+parler ici en toute libert�.
+
+- Sganarelle -
+
+Mettez-donc dessus (1), s'il vous pla�t. Il s'agit d'une chose de
+cons�quence, que l'on m'a propos�e ; et il est bon de ne rien faire
+sans le conseil de ses amis.
+
+- G�ronimo -
+
+Je vous suis oblig� de m'avoir choisi pour cela. Vous n'avez qu'� me
+dire ce que c'est.
+
+- Sganarelle -
+
+Mais, auparavant, je vous conjure de ne me point flatter du tout, et
+de me dire nettement votre pens�e.
+
+- G�ronimo -
+
+Je le ferai, puisque vous le voulez.
+
+- Sganarelle -
+
+Je ne vois rien de plus condamnable qu'un ami qui ne nous parle pas
+franchement.
+
+- G�ronimo -
+
+Vous avez raison.
+
+- Sganarelle -
+
+Et, dans ce si�cle, on trouve peu d'amis sinc�res.
+
+- G�ronimo -
+
+Cela est vrai.
+
+- Sganarelle -
+
+Promettez-moi donc, seigneur G�ronimo, de me parler avec toute sorte
+de franchise.
+
+- G�ronimo -
+
+Je vous le promets.
+
+- Sganarelle -
+
+Jurez-en votre foi.
+
+- G�ronimo -
+
+Oui, foi d'ami. Dites-moi seulement votre affaire.
+
+- Sganarelle -
+
+C'est que je veux savoir de vous si je ferai bien de me marier.
+
+- G�ronimo -
+
+Qui, vous ?
+
+- Sganarelle -
+
+Oui, moi-m�me, en propre personne. Quel est votre avis l�-dessus ?
+
+- G�ronimo -
+
+Je vous prie auparavant de me dire une chose.
+
+- Sganarelle -
+
+Et quoi ?
+
+- G�ronimo -
+
+Quel �ge pouvez-vous bien avoir maintenant ?
+
+- Sganarelle -
+
+Moi ?
+
+- G�ronimo -
+
+Oui.
+
+- Sganarelle -
+
+Ma foi, je ne sais ; mais je me porte bien.
+
+- G�ronimo -
+
+Quoi ! vous ne savez pas � peu pr�s votre �ge ?
+
+- Sganarelle -
+
+Non : est-ce qu'on songe � cela ?
+
+- G�ronimo -
+
+Eh ! dites-moi un peu, s'il vous pla�t : combien aviez-vous d'ann�es
+lorsque nous f�mes connaissance ?
+
+- Sganarelle -
+
+Ma foi, je n'avais que vingt ans alors.
+
+- G�ronimo -
+
+Combien f�mes-nous ensemble � Rome ?
+
+- Sganarelle -
+
+Huit ans.
+
+- G�ronimo -
+
+Quel temps avez-vous demeur� en Angleterre ?
+
+- Sganarelle -
+
+Sept ans.
+
+- G�ronimo -
+
+Et en Hollande, o� vous f�tes ensuite ?
+
+- Sganarelle -
+
+Cinq ans et demi.
+
+- G�ronimo -
+
+Combien y a-t-il que vous �tes revenu ici ?
+
+- Sganarelle -
+
+Je revins en cinquante-six.
+
+- G�ronimo -
+
+De cinquante-six � soixante-huit, il y a douze ans, ce me semble.
+Cinq en Hollande font dix-sept, sept ans en Angleterre font
+vingt-quatre, huit dans notre s�jour � Rome font trente-deux, et vingt
+que vous aviez lorsque nous nous conn�mes, cela fait justement
+cinquante-deux. Si bien, seigneur Sganarelle, que, sur votre propre
+confession, vous �tes environ � votre cinquante-deuxi�me ou
+cinquante-troisi�me ann�e.
+
+- Sganarelle -
+
+Qui, moi ? cela ne se peut pas.
+
+- G�ronimo -
+
+Mon Dieu ! le calcul est juste ; et l�-dessus je vous dirai
+franchement, et en ami, comme vous m'avez fait promettre de vous
+parler, que le mariage n'est gu�re votre fait. C'est une chose �
+laquelle il faut que les jeunes gens pensent bien m�rement avant que
+de la faire ; mais les gens de votre �ge n'y doivent point penser du
+tout ; et si l'on dit que la plus grande de toutes les folies est
+celle de se marier, je ne vois rien de plus mal � propos que de la
+faire, cette folie, dans la saison o� nous devons �tre plus
+sages. Enfin, je vous dis nettement ma pens�e. Je ne vous conseille
+point de songer au mariage ; et je vous trouverais le plus ridicule du
+monde, si, ayant �t� libre jusqu'� cette heure, vous alliez vous
+charger maintenant de la plus pesante des cha�nes.
+
+- Sganarelle -
+
+Et moi, je vous dis que je suis r�solu de me marier, et que je ne
+serai point ridicule en �pousant la fille que je recherche.
+
+- G�ronimo -
+
+Ah ! c'est une autre chose. Vous ne m'aviez pas dit cela.
+
+- Sganarelle -
+
+C'est une fille qui me pla�t, et que j'aime de tout mon coeur.
+
+- G�ronimo -
+
+Vous l'aimez de tout votre coeur ?
+
+- Sganarelle -
+
+Sans doute ; et je l'ai demand�e � son p�re.
+
+- G�ronimo -
+
+Vous l'avez demand�e ?
+
+- Sganarelle -
+
+Oui. C'est un mariage qui doit se conclure ce soir ; et j'ai donn� ma
+parole.
+
+- G�ronimo -
+
+Oh ! mariez-vous donc. Je ne dis plus un mot.
+
+- Sganarelle -
+
+Je quitterais le dessein que j'ai fait ! Vous semble-t-il, seigneur
+G�ronimo, que je ne sois plus propre � songer � une femme ? Ne parlons
+point de l'�ge que je puis avoir ; mais regardons seulement les
+choses. Y a-t-il homme de trente ans qui paraisse plus frais et plus
+vigoureux que vous me voyez ? N'ai-je pas tous les mouvements de mon
+corps aussi bons que jamais ; et voit-on que j'ai besoin de carosse ou
+de chaise pour cheminer ? N'ai-je pas encore toutes mes dents les
+meilleures du monde ?
+
+        (Il montre ses dents.)
+
+Ne fais-je pas vigoureusement mes quatre repas par jour, et peut-on
+voir un estomac qui ait plus de force que le mien ?
+
+        (Il tousse.)
+
+Hem, hem, hem. Eh ! qu'en dites-vous ?
+
+- G�ronimo -
+
+Vous avez raison, je m'�tais tromp�. Vous ferez bien de vous marier.
+
+- Sganarelle -
+
+J'y ai r�pugn� autrefois ; mais j'ai maintenant de puissantes raisons
+pour cela. Outre la joie que j'aurai de poss�der une belle femme, qui
+me fera mille caresses, qui me dorlotera, et me viendra frotter
+lorsque je serai las ; outre cette joie, dis-je, je consid�re qu'en
+demeurant comme je suis, je laisse p�rir dans le monde la race des
+Sganarelles ; et qu'en me mariant, je pourrai me voir revivre en
+d'autres moi-m�me ; que j'aurai le plaisir de voir des cr�atures qui
+seront sorties de moi, de petites figures qui me ressembleront comme
+deux gouttes d'eau, qui se joueront continuellement dans la maison,
+qui m'appelleront leur papa quand je reviendrai de la ville, et me
+diront de petites folies les plus agr�ables du monde. Tenez, il me
+semble d�j� que j'y suis, et que j'en vois une demi-douzaine autour de
+moi.
+
+- G�ronimo -
+
+Il n'y a rien de plus agr�able que cela ; et je vous conseille de vous
+marier le plus vite que vous pourrez.
+
+- Sganarelle -
+
+Tout de bon, vous me le conseillez ?
+
+- G�ronimo -
+
+Assur�ment. Vous ne sauriez mieux faire.
+
+- Sganarelle -
+
+Vraiment, je suis ravi que vous me donniez ce conseil en v�ritable
+ami.
+
+- G�ronimo -
+
+Eh ! quelle est la personne, s'il vous pla�t, avec qui vous allez vous
+marier ?
+
+- Sganarelle -
+
+Dorim�ne.
+
+- G�ronimo -
+
+Cette jeune Dorim�ne, si galante et si bien par�e ?
+
+- Sganarelle -
+
+Oui.
+
+- G�ronimo -
+
+Fille du seigneur Alcantor ?
+
+- Sganarelle -
+
+Justement.
+
+- G�ronimo -
+
+Et soeur d'un certain Alcidas, qui se m�le de porter l'�p�e ?
+
+- Sganarelle -
+
+C'est cela.
+
+- G�ronimo -
+
+Vertu de ma vie !
+
+- Sganarelle -
+
+Qu'en dites-vous ?
+
+- G�ronimo -
+
+Bon parti ! Mariez-vous promptement.
+
+- Sganarelle -
+
+N'ai-je pas raison d'avoir fait ce choix ?
+
+- G�ronimo -
+
+Sans doute. Ah ! que vous serez bien mari� ! D�p�chez-vous de l'�tre.
+
+- Sganarelle -
+
+Vous me comblez de joie de me dire cela. Je vous remercie de votre
+conseil, et je vous invite ce soir � mes noces.
+
+- G�ronimo -
+
+Je n'y manquerai pas ; et je veux y aller en masque, afin de les mieux
+honorer.
+
+- Sganarelle -
+
+Serviteur.
+
+- G�ronimo -
+
+        (� part.)
+
+La jeune Dorim�ne, fille du seigneur Alcantor, avec le seigneur
+Sganarelle, qui n'a que cinquante-trois ans ! O le beau mariage ! � le
+beau mariage !
+
+        (Ce qu'il r�p�te plusieurs fois en s'en allant.)
+
+
+-----------
+
+Sc�ne III. - Sganarelle.
+
+
+- Sganarelle -
+
+Ce mariage doit �tre heureux, car il donne de la joie � tout le monde,
+et je fais rire tous ceux � qui j'en parle. Me voil� maintenant le
+plus content des hommes.
+
+
+-----------
+
+Sc�ne IV. - Dorim�ne, Sganarelle.
+
+
+- Dorim�ne -
+
+        (dans le fond du th��tre, � un petit laquais qui la suit.)
+
+Allons, petit gar�on, qu'on tienne bien ma queue, et qu'on ne s'amuse
+pas � badiner.
+
+- Sganarelle -
+
+        (� part, apercevant Dorim�ne.)
+
+Voici ma ma�tresse qui vient. Ah ! qu'elle est agr�able ! Quel air, et
+quelle taille ! Peut-il y avoir un homme qui n'ait, en la voyant, des
+d�mangeaisons de se marier ?
+
+        (� Dorim�ne.)
+
+O� allez-vous, belle mignone, ch�re �pouse future de votre �poux futur ?
+
+- Dorim�ne -
+
+Je vais faire quelques emplettes.
+
+- Sganarelle -
+
+Eh bien ! ma belle, c'est maintenant que nous allons �tre heureux l'un
+et l'autre. Vous ne serez plus en droit de me rien refuser ; et je
+pourrai faire avec vous tout ce qu'il me plaira, sans que personne
+s'en scandalise. Vous allez �tre � moi depuis la t�te jusqu'aux pieds,
+et je serai ma�tre de tout : de vos petits yeux �veill�s, de votre
+petit nez fripon, de vos l�vres app�tissantes, de vos oreilles
+amoureuses, de votre petit menton joli, de vos petits tetons
+rondelets, de votre...  Enfin, toute votre personne sera � ma
+discr�tion, et je serai � m�me de vous caresser comme je voudrai.
+N'�tes-vous pas bien aise de ce mariage, mon aimable pouponne ?
+
+- Dorim�ne -
+
+Tout � fait aise, je vous jure. Car enfin la s�v�rit� de mon p�re m'a
+tenue jusques ici dans une suj�tion la plus f�cheuse du monde. Il y a
+je ne sais combien que j'enrage du peu de libert� qu'il me donne, et
+j'ai cent fois souhait� qu'il me mari�t, pour sortir promptement de la
+contrainte o� j'�tais avec lui, et me voir en �tat de faire ce que je
+voudrai. Dieu merci, vous �tes venu heureusement pour cela, et je me
+pr�pare d�sormais � me donner du divertissement, et � r�parer comme il
+faut le temps que j'ai perdu. Comme vous �tes un fort galant homme, et
+que vous savez comme il faut vivre, je crois que nous ferons le
+meilleur m�nage du monde ensemble, et que vous ne serez point de ces
+maris incommodes qui veulent que leurs femmes vivent comme des
+loups-garous. Je vous avoue que je ne m'accommoderais pas de cela, et
+que la solitude me d�sesp�re. J'aime le jeu, les visites, les
+assembl�es, les cadeaux (2), et les promenades ; en un mot, toutes les
+choses de plaisir : et vous devez �tre ravi d'avoir une femme de mon
+humeur. Nous n'aurons jamais aucun d�m�l� ensemble, et je ne vous
+contraindrai point dans vos actions, comme j'esp�re que, de votre
+c�t�, vous ne me contraindrez point dans les miennes ; car, pour moi,
+je tiens qu'il faut une complaisance mutuelle, et qu'on ne se doit
+point marier pour se faire enrager l'un l'autre. Enfin, nous vivrons,
+�tant mari�s, comme deux personnes qui savent leur monde : aucun
+soup�on jaloux ne nous troublera la cervelle ; et c'est assez que vous
+serez assur� de ma fid�lit�, comme je serai assur� de la v�tre. Mais
+qu'avez-vous ? je vous vois tout chang� de visage.
+
+- Sganarelle -
+
+Ce sont quelques vapeurs qui me viennent de monter � la t�te.
+
+- Dorim�ne -
+
+C'est un mal aujourd'hui qui attaque beaucoup de gens, mais notre
+mariage vous dissipera tout cela. Adieu. Il me tarde d�j� que je n'aie
+des habits raisonnables, pour quitter vite ces guenilles. Je m'en vais
+de ce pas achever d'acheter toutes les choses qu'il me faut, et je
+vous enverrai les marchands.
+
+
+-----------
+
+Sc�ne V. - G�ronimo, Sganarelle.
+
+
+- G�ronimo -
+
+Ah ! seigneur Sganarelle, je suis ravi de vous trouver encore ici ; et
+j'ai rencontr� un orf�vre qui, sur le bruit que vous cherchiez quelque
+beau diamant en bague pour faire un pr�sent � votre �pouse, m'a fort
+pri� de venir vous parler pour lui, et de vous dire qu'il en a un �
+vendre, le plus parfait du monde.
+
+- Sganarelle -
+
+Mon Dieu ! cela n'est pas press�.
+
+- G�ronimo -
+
+Comment, que veut dire cela ? O� est l'ardeur que vous montriez tout �
+l'heure ?
+
+- Sganarelle -
+
+Il m'est venu, depuis un moment, de petits scrupules sur le mariage.
+Avant que de passer plus avant, je voudrais bien agiter � fond cette
+mati�re, et que l'on m'expliqu�t un songe que j'ai fait cette nuit, et
+qui vient tout � l'heure de me revenir dans l'esprit. Vous savez que
+les songes sont comme des miroirs, o� l'on d�couvre quelquefois tout
+ce qui nous doit arriver. Il me semblait que j'�tais dans un vaisseau,
+sur une mer bien agit�e, et que...
+
+- G�ronimo -
+
+Seigneur Sganarelle, j'ai maintenant quelque petite affaire qui
+m'emp�che de vous ou�r. Je n'entend rien du tout aux songes ; et quant
+au raisonnement du mariage, vous avez deux savants, deux philosophes,
+vos voisins, qui sont gens � vous d�biter tout ce qu'on peut dire sur
+ce sujet. Comme ils sont de sectes diff�rentes, vous pouvez examiner
+leurs diverses opinions l�-dessus. Pour moi, je me contente de ce que
+je vous ai dit tant�t, et demeure votre serviteur.
+
+- Sganarelle -
+
+Il a raison. Il faut que je consulte un peu ces gens-l� sur
+l'incertitude o� je suis.
+
+
+-----------
+
+Sc�ne VI. - Pancrace, Sganarelle.
+
+
+- Pancrace -
+
+        (se tournant du c�t� o� il est entr�, et sans voir Sganarelle.)
+
+Allez, vous �tes un impertinent, mon ami, un homme [ignare de toute
+bonne discipline], bannissable de la r�publique des lettres.
+
+- Sganarelle -
+
+Ah ! bon. En voici un fort � propos.
+
+- Pancrace -
+
+        (de m�me, sans voir Sganarelle.)
+
+Oui, je te soutiendrai par vives raisons (3), [je te montrerai
+par Aristote, le philosophe des philosophes,] que tu es un ignorant,
+[un] ignorantissime, ignorantifiant et ignorantifi�, par tous les cas
+et les modes imaginables.
+
+- Sganarelle -
+
+        (� part.)
+
+Il a pris querelle contre quelqu'un. 
+
+        (A Pancrace.)
+
+Seigneur...
+
+- Pancrace -
+
+        (de m�me, sans voir Sganarelle.)
+
+Tu veux te m�ler de raisonner, et tu ne sais pas seulement les
+�l�ments de la raison.
+
+- Sganarelle -
+
+        (� part.)
+
+La col�re l'emp�che de me voir. 
+
+        (A Pancrace.)
+
+Seigneur...
+
+- Pancrace -
+
+        (de m�me, sans voir Sganarelle.)
+
+C'est une proposition condamnable dans toutes les terres de la
+philosophie.
+
+- Sganarelle -
+
+        (� part.)
+
+Il faut qu'on l'ait fort irrit�.
+
+        (A Pancrace.)
+
+Je...
+
+- Pancrace -
+
+        (de m�me, sans voir Sganarelle.)
+
+"Toto coelo, tota via aberras." (4)
+
+- Sganarelle -
+
+Je baise les mains � monsieur le docteur.
+
+- Pancrace -
+
+Serviteur.
+
+- Sganarelle -
+
+Peut-on...
+
+- Pancrace -
+
+        (se retournant vers l'endroit par o� il est entr�.)
+
+Sais-tu bien ce que tu as fait ? un syllogisme "in balordo".
+
+- Sganarelle -
+
+Je vous...
+
+- Pancrace -
+
+        (de m�me.)
+
+La majeure en est inepte, la mineure impertinente, et la conclusion
+ridicule.
+
+- Sganarelle -
+
+Je...
+
+- Pancrace -
+
+        (de m�me.)
+
+Je cr�verais plut�t que d'avouer ce que tu dis ; et je soutiendrai mon
+opinion jusqu'� la derni�re goutte de mon encre.
+
+- Sganarelle -
+
+Puis-je...
+
+- Pancrace -
+
+        (de m�me.)
+
+Oui, je d�fendrai cette proposition, "pugnis et calcibus, unguibus et
+rostro" (5).
+
+- Sganarelle -
+
+Seigneur Aristote, peut-on savoir ce qui vous met si fort en col�re ?
+
+- Pancrace -
+
+Un sujet le plus juste du monde.
+
+- Sganarelle -
+
+Et quoi, encore ?
+
+- Pancrace -
+
+Un ignorant m'a voulu soutenir une proposition erron�e, une proposition
+�pouvantable, effroyable, ex�crable.
+
+- Sganarelle -
+
+Puis-je demander ce que c'est ?
+
+- Pancrace -
+
+Ah ! seigneur Sganarelle, tout est renvers� aujourd'hui, et le monde
+est tomb� dans une corruption g�n�rale. Une licence �pouvantable r�gne
+partout ; et les magistrats, qui sont �tablis pour maintenir l'ordre
+dans cet �tat, devraient mourir de honte, en souffrant un scandale
+aussi intol�rable que celui dont je veux parler. (6)
+
+- Sganarelle -
+
+Quoi donc ?
+
+- Pancrace -
+
+N'est-ce pas une chose horrible, une chose qui crie vengeance au ciel,
+que d'endurer qu'on dise publiquement la forme d'un chapeau ?
+
+- Sganarelle -
+
+Comment ?
+
+- Pancrace -
+
+Je soutiens qu'il faut dire la figure d'un chapeau, et non pas la forme ;
+d'autant qu'il y a cette diff�rence entre la forme et la figure, que
+la forme est la disposition ext�rieure des corps qui sont anim�s, et
+la figure la disposition ext�rieure des corps qui sont inanim�s : et
+puisque le chapeau est un corps inanim�, il faut dire la figure d'un 
+chapeau, et non pas la forme.
+
+        (Se retournant encore du c�t� par o� il est entr�.)
+
+Oui, ignorant que vous �tes, c'est comme il faut parler, et ce sont
+les termes expr�s d'Aristote dans le chapitre de la qualit�.
+
+- Sganarelle -
+
+        (� part.)
+
+Je pensais que tout f�t perdu.
+
+        (A Pancrace.)
+
+Seigneur docteur, ne songez plus � tout cela. Je ...
+
+- Pancrace -
+
+Je suis dans une col�re, que je ne me sens pas.
+
+- Sganarelle -
+
+Laissez la forme et le chapeau en paix. J'ai quelque chose � vous
+communiquer. Je...
+
+- Pancrace -
+
+Impertinent fieff� (7) !
+
+- Sganarelle -
+
+De gr�ce, remettez-vous. Je...
+
+- Pancrace -
+
+Ignorant !
+
+- Sganarelle -
+
+Eh ! mon Dieu. Je...
+
+- Pancrace -
+
+Me vouloir soutenir une proposition de la sorte !
+
+- Sganarelle -
+
+Il a tort. Je...
+
+- Pancrace -
+
+Une proposition condamn�e par Aristote ?
+
+- Sganarelle -
+
+Cela est vrai. Je...
+
+- Pancrace -
+
+En termes expr�s !
+
+- Sganarelle -
+
+Vous avez raison.
+
+        (Se tournant du c�t� par o� Pancrace est entr�.)
+
+Oui, vous �tes un sot et un impudent, de vouloir disputer contre
+un docteur qui sait lire et �crire. 
+
+        (A Pancrace.)
+
+Voil� qui est fait : je vous prie de m'�couter. Je viens vous
+consulter sur une affaire qui m'embarasse. J'ai dessein de prendre une
+femme, pour me tenir compagnie dans mon m�nage. La personne est belle
+et bien faite ; elle me pla�t beaucoup, et est ravie de m'�pouser :
+son p�re me l'a accord�e. Mais je crains un peu ce que vous savez, la
+disgr�ce dans on ne plaint personne ; et je voudrais bien vous prier,
+comme philosophe, de me dire votre sentiment. Eh ! quel est votre avis
+l�-dessus ?
+
+- Pancrace -
+
+Plut�t que d'accorder qu'il faille dire la forme d'un chapeau,
+j'accorderais que "datur in rerum natura" (8), et que je ne suis qu'un
+b�te.
+
+- Sganarelle -
+
+        (� part.)
+
+La peste soit de l'homme !
+
+        (A Pancrace.)
+
+Eh ! monsieur le docteur, �coutez un peu les gens. On vous parle une
+heure durant, et vous ne r�pondez point � ce qu'on vous dit.
+
+- Pancrace -
+
+Je vous demande pardon. Une juste col�re m'occupe l'esprit.
+
+- Sganarelle -
+
+Eh ! laissez tout cela, et prenez la peine de m'�couter.
+
+- Pancrace -
+
+Soit. Que voulez-vous me dire ?
+
+- Sganarelle -
+
+Je veux vous parler de quelque chose.
+
+- Pancrace -
+
+Et de quelle langue voulez-vous vous servir avec moi ?
+
+- Sganarelle -
+
+De quelle langue ?
+
+- Pancrace -
+
+Oui.
+
+- Sganarelle -
+
+Parbleu ! de la langue que j'ai dans la bouche. Je crois que je n'irai
+pas emprunter celle de mon voisin.
+
+- Pancrace -
+
+Je vous dis, de quel idiome, de quel langage ?
+
+- Sganarelle -
+
+Ah ! c'est une autre affaire.
+
+- Pancrace -
+
+Voulez-vous me parler italien ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Espagnol ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Allemand ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Anglais ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Latin ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Grec ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+H�breu ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Syriaque ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Turc ?
+
+- Sganarelle -
+
+Non.
+
+- Pancrace -
+
+Arabe ?
+
+- Sganarelle -
+
+Non, non ; fran�ais [, fran�ais, fran�ais].
+
+- Pancrace -
+
+Ah ! fran�ais.
+
+- Sganarelle -
+
+Fort bien.
+
+- Pancrace -
+
+Passez donc de l'autre c�t� ; car cette oreille-ci est destin�e
+pour les langues scientifiques [et �trang�res], et l'autre est
+pour [la vulgaire et] la maternelle.
+
+- Sganarelle -
+
+        (� part.)
+
+Il faut bien des c�r�monies avec ces sortes de gens-ci !
+
+- Pancrace -
+
+Que voulez-vous ?
+
+- Sganarelle -
+
+Vous consulter une une petite difficult�.
+
+- Pancrace -
+
+[Ah ! ah !] sur une difficult� de philosophie, sans doute ?
+
+- Sganarelle -
+
+Pardonnez-moi. Je...
+
+- Pancrace -
+
+Vous voulez peut-�tre savoir si la substance et l'accident 
+sont termes synonymes ou �quivoques � l'�gard de l'�tre ?
+
+- Sganarelle -
+
+Point du tout. Je...
+
+- Pancrace -
+
+Si la logique est un art ou une science ?
+
+- Sganarelle -
+
+Ce n'est pas cela. Je...
+
+- Pancrace -
+
+Si elle a pour objet les trois op�rations de l'esprit, ou la
+troisi�me seulement (9) ? 
+
+- Sganarelle -
+
+Non. Je...
+
+- Pancrace -
+
+S'il y a dix cat�gories, ou s'il n'y en a qu'une (10) ?
+
+- Sganarelle -
+
+Point. Je...
+
+- Pancrace -
+
+Si la conclusion est de l'essence du syllogisme ?
+
+- Sganarelle -
+
+Nenni. Je...
+
+- Pancrace -
+
+Si l'essence du bien est mise dans l'app�tibilit�, ou dans la
+convenance (11) ?
+
+- Sganarelle -
+
+Non. Je...
+
+- Pancrace -
+
+Si le bien se r�ciproque avec la fin ?
+
+- Sganarelle -
+
+Eh ! non. Je...
+
+- Pancrace -
+
+Si la fin nous peut �mouvoir par son �tre r�el, ou par son �tre
+intentionnel (12) ?
+
+- Sganarelle -
+
+Non, non, non, non, non, de par tous les diables, non.
+
+- Pancrace -
+
+Expliquez donc votre pens�e, car je ne puis pas la deviner.
+
+- Sganarelle -
+
+Je vous la veux expliquer aussi ; mais il faut m'�couter.
+
+        (Pendant que Sganarelle dit :)
+
+L'affaire que j'ai � vous dire, c'est que j'ai envie de me marier
+avec une fille qui est jeune et belle. Je l'aime fort, et l'ai 
+demand�e � son p�re ; mais comme j'appr�hende...
+
+- Pancrace -
+
+        (dit en m�me temps, sans �couter Sganarelle :)
+
+La parole a �t� donn�e � l'homme pour expliquer sa pens�e ; et tout
+ainsi que les pens�es sont les portraits des choses, de m�me nos
+paroles sont-elles les portraits de nos pens�es.
+
+        (Sganarelle, impatient�, ferme la bouche du docteur avec sa main
+        � plusieurs reprises, et le docteur continue de parler d'abord
+        que Sganarelle �te sa main.)
+
+Mais ces portraits diff�rent des autres portraits en ce que les autres
+portraits sont distingu�s partout de leurs originaux, et que la parole
+enferme en soi son original, puisqu'elle n'est autre chose que la
+pens�e expliqu�e par un signe ext�rieur ; d'o� vient que ceux qui
+pensent bien sont aussi ceux qui parlent le mieux. Expliquez-moi donc
+votre pens�e par la parole, qui est le plus intelligible de tous les
+signes.
+
+- Sganarelle -
+
+        (pousse le docteur dans sa maison, et tire la porte pour 
+        l'emp�cher de sortir.)
+
+[Peste de l'homme !
+
+- Pancrace -
+
+        (au dedans de sa maison.)
+
+Oui, la parole est "animi index et speculum" (13). C'est le truchement
+du coeur, c'est l'image de l'�me.
+
+        (Il monte � la fen�tre et continue.)
+
+C'est un miroir qui nous pr�sente na�vement les secrets les plus
+arcanes (14) de nos individus ; et puisque vous avez la facult� de
+ratiociner et de parler tout ensemble, � quoi tient-il que vous ne
+vous serviez de la parole pour me faire entendre votre pens�e ?
+
+- Sganarelle -
+
+C'est ce que je veux faire ; mais vous ne voulez pas m'�couter.
+
+- Pancrace -
+
+Je vous �coute, parlez.
+
+- Sganarelle -
+
+Je dis donc, monsieur le docteur, que...
+
+- Pancrace -
+
+Mais surtout soyez bref.
+
+- Sganarelle -
+
+Je le serai.
+
+- Pancrace -
+
+�vitez la prolixit�.
+
+- Sganarelle -
+
+Eh ! monsi...
+
+- Pancrace -
+
+Tranchez moi votre discours d'un apophtegme � la laconienne.
+
+- Sganarelle -
+
+Je vous...
+
+- Pancrace -
+
+Point d'ambages (15), de circonlution.
+
+        (Sganarelle, le d�pit de ne pouvoir parler, ramasse des pierres
+	pour en casser la t�te du docteur.)
+
+H� quoi ! vous vous emportez au lieu de vous expliquer ? Allez, vous
+�tes plus impertinent que celui qui m'a voulu soutenir qu'il faut dire
+la forme d'un chapeau ; et je vous prouverai, en toute rencontre, par
+raisons d�monstratives et convaincantes, et par arguments "in
+Barbara", que vous n'�tes et ne serez jamais qu'une p�core, et que je
+suis et serai toujours, "in utroque jure" (16), le docteur Pancrace.
+
+- Sganarelle -
+
+Quel diable de babillard !
+
+- Pancrace -
+
+        (en rentrant sur le th��tre.)
+
+Homme de lettres, homme d'�rudition.
+
+- Sganarelle -
+
+Encore ?
+
+- Pancrace -
+
+Homme de suffisance, homme de capacit�.
+
+        (S'en allant.)
+
+Homme consomm� dans toutes les sciences, naturelles, morales et
+politiques.
+
+        (Revenant.)
+
+Homme savant, savantissime, "per omnes modos et casus" (17).
+
+        (S'en allant.)
+
+Homme qui poss�de "superlative", fable, mythologie et histoire,
+
+        (Revenant.)
+
+grammaire, po�sie, rh�torique, dialectique et sophistique,
+
+        (S'en allant.)
+
+math�matiques, arithm�tique, optique, onirocritique (18), physique et
+m�taphysique,
+
+        (Revenant.)
+
+cosmom�trie (19), g�om�trie, architecture, sp�culoire et sp�culatoire (20),
+
+        (S'en allant.)
+
+m�decine, astronomie, astrologie, physionomie, m�toposcopie (21),
+chiromancie, g�omancie (22), etc.]
+
+
+-----------
+
+Sc�ne VII. - Sganarelle.
+
+
+- Sganarelle -
+
+Au diable les savants qui ne veulent point �couter les gens ! On me
+l'avait dit, que son ma�tre Aristote n'�tait rien qu'un bavard. Il
+faut que j'aille trouver l'autre ; peut-�tre qu'il sera plus pos� et
+plus raisonnable. Hol� !
+
+
+-----------
+
+Sc�ne VIII. - Marphurius, Sganarelle.
+
+
+- Marphurius -
+
+Que voulez-vous de moi, Seigneur Sganarelle ?
+
+- Sganarelle -
+
+Seigneur docteur, j'aurais besoin de votre conseil sur une petite
+affaire dont il s'agit, et je suis venu ici pour cela.
+
+        (� part.)
+
+Ah ! voil� qui va bien. Il �coute le monde, celui-ci.
+
+- Marphurius -
+
+Seigneur Sganarelle, changez, s'il vous pla�t, cette fa�on de
+parler. Notre philosophie ordonne de ne point �noncer de proposition
+d�cisive, de parler de tout avec incertitude, de suspendre toujours
+son jugement ; et, par cette raison, vous ne devez pas dire, je suis
+venu, mais, il me semble que je suis venu.
+
+- Sganarelle -
+
+Il me semble ?
+
+- Marphurius -
+
+Oui.
+
+- Sganarelle -
+
+Parbleu ! il faut bien qu'il me le semble, puisque cela est.
+
+- Marphurius -
+
+Ce n'est pas une cons�quence, et il peut vous le sembler, sans que la
+chose soit v�ritable.
+
+- Sganarelle -
+
+Comment ! il n'est pas vrai que je suis venu ?
+
+- Marphurius -
+
+Cela est incertain, et nous devons douter de tout.
+
+- Sganarelle -
+
+Quoi ! je ne suis pas ici, et vous ne me parlez pas ?
+
+- Marphurius -
+
+Il m'appara�t que vous �tes l�, et il me semble que je vous parle ;
+mais il n'est pas assur� que cela soit.
+
+- Sganarelle -
+
+H� ! que diable ! vous vous moquez. Me voil�, et vous voil� bien
+nettement, et il n'y a point de "me semble" � tout cela. Laissons ces
+subtilit�s, je vous prie, et parlons de mon affaire. Je viens vous
+dire que j'ai envie de me marier.
+
+- Marphurius -
+
+Je n'en sais rien.
+
+- Sganarelle -
+
+Je vous le dis.
+
+- Marphurius -
+
+Il se peut faire.
+
+- Sganarelle -
+
+La fille que je veux prendre est fort jeune et fort jolie.
+
+- Marphurius -
+
+Il n'est pas impossible.
+
+- Sganarelle -
+
+Ferai-je bien ou mal de l'�pouser ?
+
+- Marphurius -
+
+L'un ou l'autre.
+
+- Sganarelle -
+
+        (� part.)
+
+Ah ! ah ! voici une autre musique.
+
+        (A Marphurius.)
+
+Je vous demande si je ferai bien d'�pouser la fille dont je vous
+parle.
+
+- Marphurius -
+
+Selon la rencontre.
+
+- Sganarelle -
+
+Ferai-je mal ?
+
+- Marphurius -
+
+Par aventure.
+
+- Sganarelle -
+
+De gr�ce, r�pondez-moi comme il faut.
+
+- Marphurius -
+
+C'est mon dessein.
+
+- Sganarelle -
+
+J'ai une grande inclination pour la fille.
+
+- Marphurius -
+
+Cela peut �tre.
+
+- Sganarelle -
+
+Le p�re me l'a accord�e.
+
+- Marphurius -
+
+Il se pourrait.
+
+- Sganarelle -
+
+Mais, en l'�pousant, je crains d'�tre cocu.
+
+- Marphurius -
+
+La chose est faisable.
+
+- Sganarelle -
+
+Qu'en pensez-vous ?
+
+- Marphurius -
+
+Il n'y a pas d'impossibilit�.
+
+- Sganarelle -
+
+Mais que feriez-vous, si vous �tiez � ma place ?
+
+- Marphurius -
+
+Je ne sais.
+
+- Sganarelle -
+
+Que me conseillez-vous de faire ?
+
+- Marphurius -
+
+Ce qu'il vous plaira.
+
+- Sganarelle -
+
+J'enrage !
+
+- Marphurius -
+
+Je m'en lave les mains.
+
+- Sganarelle -
+
+Au diable soit le vieux r�veur !
+
+- Marphurius -
+
+Il en sera ce qui pourra.
+
+- Sganarelle -
+
+        (� part.)
+
+La peste du bourreau ! Je te ferai changer de note, chien de
+philosophe enrag�.
+
+        (Il donne des coups de b�ton � Marphurius.)
+
+- Marphurius -
+
+Ah ! ah ! ah !
+
+- Sganarelle -
+
+Te voil� pay� de ton galimatias, et me voil� content.
+
+- Marphurius -
+
+Comment ! Quelle insolence ! M'outrager de la sorte, avoir eu l'audace
+de battre un philosophe comme moi !
+
+- Sganarelle -
+
+Corrigez, s'il vous pla�t, cette mani�re de parler. Il faut douter de
+toutes choses ; et vous ne devez pas dire que je vous ai battu, mais
+qu'il vous semble que je vous ai battu.
+
+- Marphurius -
+
+Ah ! je m'en vais faire ma plainte au commissariat du quartier, des
+coups que j'ai re�us.
+
+- Sganarelle -
+
+Je m'en lave les mains.
+
+- Marphurius -
+
+j'en ai les marques sur ma personne.
+
+- Sganarelle -
+
+Il se peut faire.
+
+- Marphurius -
+
+C'est toi qui m'as trait� ainsi.
+
+- Sganarelle -
+
+Il n'y a pas d'impossibilit�.
+
+- Marphurius -
+
+J'aurai un d�cret contre toi.
+
+- Sganarelle -
+
+Je n'en sais rien.
+
+- Marphurius -
+
+Et tu seras condamn� en justice.
+
+- Sganarelle -
+
+Il en sera ce qui pourra.
+
+- Marphurius -
+
+Laisse-moi faire.
+
+
+-----------
+
+Sc�ne IX. - Sganarelle.
+
+
+- Sganarelle -
+
+Comment ! on ne saurait tirer une parole positive de ce chien
+d'homme-l�, et l'on est aussi savant � la fin qu'au commencement. Que
+dois-je faire, dans l'incertitude des suites de mon mariage ? Jamais
+homme ne fut plus embarrass� que je suis. Ah ! voici des �gyptiennes ;
+il faut que je me fasse dire par elles ma bonne aventure.
+
+
+-----------
+
+Sc�ne X. - Deux �gyptiennes, Sganarelle.
+
+
+        (Les deux �gyptiennes avec leurs tambours de basque entrent 
+	 en chantant et en dansant.)
+
+- Sganarelle -
+
+Elles sont gaillardes. �coutez, vous autres, y a-t-il moyen de me dire
+ma bonne fortune ?
+
+- Premi�re �gyptienne -
+
+Oui, mon bon monsieur ; nous voici deux qui te la dirons.
+
+- Deuxi�me �gyptienne -
+
+Tu n'as seulement qu'� nous donner ta main, avec la croix dedans (23),
+et nous te dirons quelque chose pour ton bon profit.
+
+- Sganarelle -
+
+Tenez, les voil� toutes deux avec ce que vous demandez.
+
+- Premi�re �gyptienne -
+
+Tu as une bonne physionomie, mon bon monsieur, une bonne physionomie.
+
+- Deuxi�me �gyptienne -
+
+Oui, une bonne physionomie ; physionomie d'un homme qui sera un jour
+quelque chose.
+
+- Premi�re �gyptienne -
+
+Tu seras mari� avant qu'il soit peu, mon bon monsieur, tu seras mari�
+avant qu'il soit peu.
+
+- Deuxi�me �gyptienne -
+
+Tu �pouseras une femme gentille, une femme gentille.
+
+- Premi�re �gyptienne -
+
+Oui, une femme qui sera ch�rie et aim�e de tout le monde.
+
+- Deuxi�me �gyptienne -
+
+Une femme qui te fera beaucoup d'amis, mon bon monsieur, qui te fera
+beaucoup d'amis.
+
+- Premi�re �gyptienne -
+
+Une femme qui fera venir l'abondance chez toi.
+
+- Deuxi�me �gyptienne -
+
+Une femme qui te donnera une grande r�putation.
+
+- Premi�re �gyptienne -
+
+Tu seras consid�r� par elle, mon bon monsieur, tu seras consid�r� par
+elle.
+
+- Sganarelle -
+
+Voil� qui est bien. Mais dites-moi un peu, suis-je menac� d'�tre cocu.
+
+- Deuxi�me �gyptienne -
+
+Cocu ?
+
+- Sganarelle -
+
+Oui.
+
+- Premi�re �gyptienne -
+
+Cocu ?
+
+- Sganarelle -
+
+Oui, si je suis menac� d'�tre cocu ?
+
+        (Les deux �gyptiennes dansent et chantent.)
+
+Que diable, ce n'est pas l� me r�pondre ! Venez ��. Je vous demande �
+toutes les deux si je serai cocu ?
+
+- Deuxi�me �gyptienne -
+
+Cocu ? vous ?
+
+- Sganarelle -
+
+Oui, si je serai cocu ?
+
+- Premi�re �gyptienne -
+
+Vous ? cocu ?
+
+- Sganarelle -
+
+Oui, si je le serai oui ou non ?
+
+        (Les deux �gyptiennes sortent en chantant et en dansant.)
+
+
+-----------
+
+Sc�ne XI. - Sganarelle.
+
+
+- Sganarelle -
+
+Peste soit des carognes qui me laissent dans l'inqui�tude ! Il faut
+absolument que je sache la destin�e de mon mariage ; et, pour cela, je
+veux aller trouver ce grand magicien dont tout le monde parle tant, et
+qui, par son art admirable, fait voir tout ce que l'on souhaite. Ma
+foi, je crois que je n'ai que faire d'aller au magicien, et voici qui
+me montre tout ce que je puis demander.
+
+
+-----------
+
+Sc�ne XII. - Dorim�ne, Lycaste, Sganarelle, retir� dans un coin du th��tre
+	     sans �tre vu.
+
+
+- Lycaste -
+
+Quoi ! belle Dorim�ne, c'est sans raillerie que vous parlez ?
+
+- Dorim�ne -
+
+Sans raillerie.
+
+- Lycaste -
+
+Vous vous mariez tout de bon ?
+
+- Dorim�ne -
+
+Tout de bon.
+
+- Lycaste -
+
+Et vos noces se feront d�s ce soir ?
+
+- Dorim�ne -
+
+D�s ce soir.
+
+- Lycaste -
+
+Et vous pouvez, cruelle que vous �tes, oublier de la sorte l'amour que
+j'ai pour vous, et les obligeantes paroles que vous m'aviez donn�es ?
+
+- Dorim�ne -
+
+Moi ? point du tout. Je vous consid�re toujours de m�me, et ce mariage
+ne doit point vous inqui�ter ; c'est un homme que je n'�pouse point
+par amour, et sa seule richesse me fait r�soudre � l'accepter. Je n'ai
+point de bien, vous n'en avez point aussi, et vous savez que sans cela
+on passe mal le temps au monde, et qu'� quelque prix que ce soit il
+faut t�cher d'en avoir. J'ai embrass� cette occasion-ci de me mettre �
+mon aise, et je l'ai fait sur l'esp�rance de me voir bient�t d�livr�e
+du barbon que je prends. C'est un homme qui mourra avant qu'il soit
+peu, et qui n'a tout au plus que six mois dans le ventre. Je vous le
+garantis d�funt dans le temps que je dis ; et je n'aurai pas
+longuement � demander pour moi l'heureux �tat de veuve.
+
+        (A Sganarelle, qu'elle aper�oit.)
+
+Ah ! nous parlions de vous, et nous en disions tout le bien qu'on en
+saurait dire.
+
+- Lycaste -
+
+Est-ce l� monsieur ?...
+
+- Dorim�ne -
+
+Oui, c'est monsieur qui me prend pour femme.
+
+- Lycaste -
+
+Agr�ez, Monsieur, que je vous f�licite de votre mariage, et vous
+pr�sente en m�me temps mes tr�s humbles services : je vous assure que
+vous �pousez l� une tr�s honn�te personne. Et vous, Mademoiselle, je
+me r�jouis avec vous aussi de l'heureux choix que vous avez fait :
+vous ne pouviez pas mieux trouver, et Monsieur a toute la mine d'�tre
+un fort bon mari. Oui, Monsieur, je veux faire amiti� avec vous, et
+lier ensemble un petit commerce de visites et de divertissements.
+
+- Dorim�ne -
+
+C'est trop d'honneur que vous nous faites � tous deux. Mais allons, le
+temps me presse, et nous aurons tout le loisir de nous entretenir
+ensemble.
+
+
+-----------
+
+Sc�ne XIII. - Sganarelle.
+
+
+- Sganarelle -
+
+Me voil� tout � fait d�go�t� de mon mariage ; et je crois que je ne
+ferai pas mal de m'aller d�gager de ma parole. Il m'en a co�t� quelque
+argent ; mais il vaut mieux encore perdre cela que de s'exposer �
+quelque chose de pis. T�chons adroitement de nous d�barrasser de cette
+affaire. Hol� !
+
+        (Il frappe � la porte de la maison d'Alcantor.)
+
+
+-----------
+
+Sc�ne XIV. - Alcantor, Sganarelle.
+
+
+- Alcantor -
+
+Ah ! mon gendre, soyez le bienvenu !
+
+- Sganarelle -
+
+Monsieur, votre serviteur.
+
+- Alcantor -
+
+Vous venez pour conclure le mariage ?
+
+- Sganarelle -
+
+Excusez-moi.
+
+- Alcantor -
+
+Je vous promets que j'en ai autant d'impatience que vous.
+
+- Sganarelle -
+
+Je viens ici pour un autre sujet.
+
+- Alcantor -
+
+J'ai donn� ordre � toutes les choses n�cessaires pour cette f�te.
+
+- Sganarelle -
+
+Il n'est pas question de cela.
+
+- Alcantor -
+
+Les violons sont retenus, le festin est command�, et ma fille est
+par�e pour vous recevoir.
+
+- Sganarelle -
+
+C'est n'est pas ce qui m'am�ne.
+
+- Alcantor -
+
+Enfin, vous allez �tre satisfait ; et et rien ne peut retarder votre
+contentement.
+
+- Sganarelle -
+
+Mon Dieu ! c'est autre chose.
+
+- Alcantor -
+
+Allons, entrez donc, mon gendre.
+
+- Sganarelle -
+
+J'ai un petit mot � vous dire.
+
+- Alcantor -
+
+Ah ! mon Dieu, ne faisons point de c�r�monie ! Entrez vite, s'il vous
+pla�t.
+
+- Sganarelle -
+
+Non, vous dis-je. Je veux vous parler auparavant.
+
+- Alcantor -
+
+Vous voulez me dire quelque chose ?
+
+- Sganarelle -
+
+Oui.
+
+- Alcantor -
+
+Et quoi ?
+
+- Sganarelle -
+
+Seigneur Alcantor, j'ai demand� votre fille en mariage, il est vrai,
+et vous me l'avez accord�e ; mais je me trouve un peu avanc� en �ge
+pour elle, et je consid�re que je ne suis point du tout son fait.
+
+- Alcantor -
+
+Pardonnez-moi, ma fille vous trouve bien comme vous �tes ; et je suis
+s�r qu'elle vivra fort contente avec vous.
+
+- Sganarelle -
+
+Point. J'ai des bizarreries �pouvantables, et elle aurait trop �
+souffrir de ma mauvaise humeur.
+
+- Alcantor -
+
+Ma fille a de la complaisance, et vous verrez qu'elle s'accommodera
+enti�rement � vous.
+
+- Sganarelle -
+
+J'ai quelques infirmit�s sur mon corps qui pourraient la d�go�ter.
+
+- Alcantor -
+
+Cela n'est rien. Une honn�te femme ne se d�go�te jamais de son mari.
+
+- Sganarelle -
+
+Enfin, voulez-vous que je vous dise ? Je ne vous conseille pas de me
+la donner.
+
+- Alcantor -
+
+Vous moquez-vous ? J'aimerai mieux mourir que d'avoir manqu� � ma
+parole.
+
+- Sganarelle -
+
+Mon Dieu, je vous en dispense, et je...
+
+- Alcantor -
+
+Point du tout. je vous l'ai promise, et vous l'aurez, en d�pit de tous
+ceux qui y pr�tendent.
+
+- Sganarelle -
+
+        (� part.)
+
+Que diable !
+
+- Alcantor -
+
+Voyez-vous ? J'ai une estime et une amiti� pour vous toute
+particuli�re, et je refuserais ma fille � un prince pour vous la
+donner.
+
+- Sganarelle -
+
+Seigneur Alcantor, je vous suis oblig� de l'honneur que vous me faites ; 
+mais je vous d�clare que je ne me veux point marier.
+
+- Alcantor -
+
+Qui, vous ?
+
+- Sganarelle -
+
+Oui, moi.
+
+- Alcantor -
+
+Et la raison ?
+
+- Sganarelle -
+
+La raison ? C'est que je ne me sens point propre pour le mariage, et
+que je veux imiter mon p�re, et tous ceux de ma race, qui ne se sont
+jamais voulu marier.
+
+- Alcantor -
+
+�coutez. Les volont�s sont libres ; et je suis homme � ne contraindre
+jamais personne. Vous vous �tes engag� avec moi pour �pouser ma fille,
+et tout est pr�par� pour cela ; mais puisque vous voulez retirer votre
+parole, je vais voir ce qu'il y a � faire ; et vous aurez bient�t de
+mes nouvelles.
+
+
+-----------
+
+Sc�ne XV. - Sganarelle.
+
+
+- Sganarelle -
+
+Encore est-il plus raisonnable que je ne pensais, et je croyais avoir
+bien plus de peine � m'en d�gager. Ma foi, quand j'y songe, j'ai fait
+fort sagement de me tirer de cette affaire ; et j'allais faire un pas
+dont je me serais peut-�tre longtemps repenti. Mais voici le fils qui
+vient me rendre r�ponse.
+
+
+-----------
+
+Sc�ne XVI. - Alcidas, Sganarelle.
+
+
+- Alcidas -
+
+        (parlant d'un ton doucereux.)
+
+Monsieur, je suis votre serviteur tr�s humble.
+
+- Sganarelle -
+
+Monsieur, je suis le v�tre de tout mon coeur.
+
+- Alcidas -
+
+        (toujours avec le m�me ton.)
+
+Mon p�re m'a dit, Monsieur, que vous vous �tiez venu d�gager de la
+parole que vous aviez donn�e.
+
+- Sganarelle -
+
+Oui, Monsieur, c'est avec regret ; mais...
+
+- Alcidas -
+
+Oh ! Monsieur, il n'y a pas de mal � cela.
+
+- Sganarelle -
+
+J'en suis f�ch�, je vous assure ; et je souhaiterais...
+
+- Alcidas -
+
+Cela n'est rien, vous dis-je. 
+
+        (Alcidas pr�sente � Sganarelle deux �p�es.)
+
+Monsieur, prenez la peine de choisir, de ces deux �p�es, laquelle vous
+voulez.
+
+- Sganarelle -
+
+De ces deux �p�es ?
+
+- Alcidas -
+
+Oui, s'il vous pla�t.
+
+- Sganarelle -
+
+A quoi bon ?
+
+- Alcidas -
+
+Monsieur, comme vous refusez d'�pouser ma soeur apr�s la parole
+donn�e, je crois que vous ne trouverez pas mauvais le petit compliment
+que je viens vous faire.
+
+- Sganarelle -
+
+Comment ?
+
+- Alcidas -
+
+D'autres gens feraient du bruit, et s'emporteraient contre vous ; mais
+nous sommes personnes � traiter les choses dans la douceur ; et je
+viens vous dire civilement qu'il faut, si vous le trouvez bon, que
+nous nous coupions la gorge ensemble.
+
+- Sganarelle -
+
+Voil� un compliment fort mal tourn�.
+
+- Alcidas -
+
+Allons, Monsieur, choisissez, je vous prie.
+
+- Sganarelle -
+
+Je suis votre valet, je n'ai point de gorge � me couper.
+
+        (� part.)
+
+La vilaine fa�on de parler que voil� !
+
+- Alcidas -
+
+Monsieur, il faut que cela soit, s'il vous pla�t.
+
+- Sganarelle -
+
+Eh ! Monsieur, rengainez ce compliment, je vous prie.
+
+- Alcidas -
+
+D�p�chons vite, Monsieur. J'ai une petite affaire qui m'attend.
+
+- Sganarelle -
+
+Je ne veux point de cela, vous dis-je.
+
+- Alcidas -
+
+Vous ne voulez pas vous battre ?
+
+- Sganarelle -
+
+Nenni, ma foi.
+
+- Alcidas -
+
+Tout de bon ?
+
+- Sganarelle -
+
+Tout de bon.
+
+- Alcidas -
+
+        (apr�s lui avoir donn� des coups de b�ton.)
+
+Au moins, Monsieur, vous n'avez pas lieu de vous plaindre ; vous voyez
+que je fais les choses dans l'ordre. Vous nous manquez de parole, je
+me veux battre contre vous ; vous refusez de vous battre, je vous
+donne des coups de b�ton : tout cela est dans les formes ; et vous
+�tes trop honn�te homme pour ne pas approuver mon proc�d�.
+
+- Sganarelle -
+
+        (� part.)
+
+Quel diable d'homme est-ce ci ?
+
+- Alcidas -
+
+        (lui pr�sente encore deux �p�es.)
+
+Allons, Monsieur, faites les choses galamment, et sans vous faire
+tirer l'oreille.
+
+- Sganarelle -
+
+Encore ?
+
+- Alcidas -
+
+Monsieur, je ne contrains personne ; mais il faut que vous vous
+battiez, ou que vous �pousiez ma soeur.
+
+- Sganarelle -
+
+Monsieur, je ne puis faire ni l'un ni l'autre, je vous assure.
+
+- Alcidas -
+
+Assur�ment ?
+
+- Sganarelle -
+
+Assur�ment.
+
+- Alcidas -
+
+Avec votre permission, donc...
+
+        (Alcidas lui donne encore des coups de b�ton.)
+
+- Sganarelle -
+
+Ah ! ah ! ah !
+
+- Alcidas -
+
+Monsieur, j'ai tous les regrets du monde d'�tre oblig� d'en user ainsi
+avec vous ; mais je ne cesserai point, s'il vous pla�t, que vous
+n'ayez promis de vous battre, ou d'�pouser ma soeur.
+
+        (Alcidas l�ve le b�ton.)
+
+- Sganarelle -
+
+Eh bien, j'�pouserai, j'�pouserai.
+
+- Alcidas -
+
+Ah ! Monsieur, je suis ravi que vous vous mettiez � la raison, et que
+les choses se passent doucement. Car enfin vous �tes l'homme du monde
+que j'estime le plus, je vous jure ; et j'aurais �t� au d�sespoir que
+vous m'eussiez contraint � vous maltraiter. Je vais appeler mon p�re,
+pour lui dire que tout est d'accord.
+
+        (Il va frapper � la porte d'Alcantor.)
+
+
+-----------
+
+Sc�ne XVII. - Alcantor, Dorim�ne, Alcidas, Sganarelle.
+
+
+- Alcidas -
+
+Mon p�re, voil� Monsieur qui est tout � fait raisonnable. Il a voulu
+faire les choses de bonne gr�ce, et vous pouvez lui donner ma soeur.
+
+- Alcantor -
+
+Monsieur, voil� sa main ; vous n'avez qu'� donner la v�tre. Lou� soit
+le ciel ! m'en voil� d�charg�, et c'est vous d�sormais que regarde le
+soin de sa conduite. Allons nous r�jouir et c�l�brer cet heureux
+mariage.
+
+
+
+FIN DU MARIAGE FORC�.
+
+-------------------------------------------------------------------------
+
+Notes [from 1890 edition]
+
+-----------
+(1) "Mettez donc dessus", pour "mettez donc votre chapeau". Locution
+elliptique qui n'est plus d'usage, et dont nous avons d�j� vu un
+exemple dans l'"�cole des femmes", acte III, sc�ne IV.
+----------- 
+(2) Donner un "cadeau" signifiait autrefois "donner un repas". Le
+P. Bouhours fait venir ce mot de "cadendo", parce que, dit-il, les
+buveurs chancellent et tombent et que c'est ordinairement comme
+finissent les "cadeaux".
+----------- 
+(3) Tous les passages plac�s entre deux crochets ne se trouvent que
+dans l'�dition de 1682.
+-----------
+(4) Pancrace rassemble ici en une seule phrase deux expressions
+proverbiales qu'�rasme a recueillies dans ses "Adages", l'une de
+T�rence, "tota errare via" ; l'autre de Macrobe, "toto coelo errare",
+et qui toutes deux veulent dire, donner dans la plus grande des
+erreurs, �tre � mille lieues de la v�rit�.  Rabelais a traduit
+litt�ralement "toto coelo errare" : "Qui aultrement la nomme erre par
+tout le ciel". (A.)
+-----------
+(5) Des poings, des pieds, des ongles et du bec.
+-----------
+(6) Cet appel � la s�v�rit� des magistrats fait allusion aux efforts
+s�rieux de l'Universit� pour obtenir la confirmation de l'arr�t de 1624,
+lequel condamnait au banissement les nomm�s Villon, Bitault et de Claves,
+pour avoir pens� autrement qu'Aristote.
+-----------
+(7) "Fieff�", vient de "Fief". Il se dit de ceux qui ont quelques vices.
+Dans ce sens, il signifie "achev�", comme qui dirait un homme � qui
+il ne manque rien d'un tel vice ; de la m�me fa�on qu'il ne manque rien
+pour poss�der un fief � celui qui l'a re�u de son seigneur. (Caseneuve.)
+-- Les pr�cieuses prenaient ce mot en bonne part, et disaient d'un amant
+bien accueilli des dames, que c'�tait "un galant fieff�".
+-----------
+(8) Le vide existe dans le nature.
+-----------
+(9) C'est-�-dire, si elle a pour objet la "perception", le "jugement",
+et le "raisonnement", ou ce dernier seulement.
+-----------
+(10) Les cat�gories �taient un moyen de classer toutes les pens�es
+de l'entendement humain. Aristote en comptait dix.
+-----------
+(11) Il s'agit de savoir "si l'essence d'un bien se trouve dans ce
+qu'on d�sire ou dans ce qui convient."
+-----------
+(12) Cette question est aussi inintelligible que les pr�c�dentes sont
+ridicules. En recueillant toutes ces subtilit�s scolastiques, Moli�re
+voulait se moquer du faux savoir, et devenait le vengeur du bon go�t,
+apr�s l'avoir �t� du bon sens.
+-----------
+(13) "L'indice et le miroir de l'�me". C'est ce que Pancrace traduit
+encore par les mots de "truchement" et d'"image". (A.)
+-----------
+(14) "Arcanes", mot latin francis� ; il signifie secret myst�rieux.
+Plus bas, "ratiociner", pour "raisonner", terme de logique qui n'a
+jamais �t� en usage que dans les �coles.
+-----------
+(15) Point d"ambages", c'est-�-dire, point d'embarras de paroles.
+-----------
+(16) La jurisprudence se composait de deux corps de droit, l'eccl�siastique
+et le civil. "In utroque jure" veut dire, dans l'un et l'autre droit. Un
+docteur "In utroque jure" �tait donc celui qui professait le droit civil
+et le droit canon.
+-----------
+(17) Par tous les cas et les modes imaginables.
+-----------
+(18) Art d'interpr�ter les songes.
+-----------
+(19) Mesure de la terre.
+-----------
+(20) "Sp�culoire" et "sp�culatoire". -- La "sp�culatoire" est l'art
+d'interpr�ter les �clairs, le tonnerre, les com�tes, et autres
+m�t�ores ou ph�nom�nes semblables. La "sp�culoire" est la partie de
+l'art divinatoire qui consiste � faire voir dans un miroir les
+personnes ou les choses que l'on d�sire conna�tre. (A.)
+-----------
+(21) Art de conjecturer le sort d'une personne par l'inspection des
+traits de son visage. Cardan a fait un volume in-folio fort curieux
+sur cette science chim�rique.
+-----------
+(22) "Chiromancie", divination par l'inspection des lignes de la main.
+-- "G�omancie", art de deviner, soit par des lignes qu'on trace au
+hasard sur la terre, soit par les fentes naturelles qu'on remarque �
+sa surface. (A.)
+-----------
+(23) C'est � dire une pi�ce "� la croix", par allusion � la croix
+repr�sent�e sur certaine pi�ce de monnaie.
+-----------
+
+
+
+
+*** END OF THE Tamil Bookshelf EBOOK, LE MARIAGE FORCE ***
+
+This file should be named 8marf10.txt or 8marf10.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 8marf11.txt
+VERSIONS based on separate sources get new LETTER, 8marf10a.txt
+
+Tamil Bookshelf eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Tamil Bookshelf eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://tamilbookshelf.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+tamilbookshelf, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Tamil Bookshelf Newsletter.
+
+http://www.ibiblio.org/tamilbookshelf/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/tamilbookshelf/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Tamil Bookshelf (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Tamil Bookshelf is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Tamil Bookshelf Literary Archive Foundation has been created
+to secure a future for Tamil Bookshelf into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Tamil Bookshelf Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Tamil Bookshelf Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.tamilbookshelf.net/donation.html
+
+
+***
+
+If you can't reach Tamil Bookshelf,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this Tamil Bookshelf-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT Tamil Bookshelf-TM EBOOKS
+This Tamil Bookshelf-tm eBook, like most Tamil Bookshelf-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Tamil Bookshelf Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "Tamil Bookshelf" trademark.
+
+Please do not use the "Tamil Bookshelf" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

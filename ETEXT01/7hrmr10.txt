@@ -1,0 +1,6320 @@
+Tamil Bookshelf Etext Herodes und Mariamne by Friedrich Hebbel
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+Dieses Buch wurde uns freundlicherweise vom "tamilbookshelf Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://tamilbookshelf.aol.de erreichbar.
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Tamil Bookshelf to get Etexts, and
+further information is included below.  We need your donations.
+
+Presently, contributions are only being solicted from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to:
+
+Tamil Bookshelf Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+Title:  Herodes und Mariamne
+
+Author:  Friedrich Hebbel
+
+Release Date: October, 2001  [Etext #2887]
+
+Edition:  10
+
+Tamil Bookshelf Etext Herodes und Mariamne by Friedrich Hebbel
+******This file should be named 7hrmr10.txt or 7hrmr10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, 7hrmr11.txt
+VERSIONS based on separate sources get new LETTER, 7hrmr10a.txt
+
+This etext was prepared by Michael Pullen,
+globaltraveler5565@yahoo.com.
+
+Tamil Bookshelf Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Tamil Bookshelf Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://tamilbookshelf.net/pg
+http://promo.net/pg
+
+Those of you who want to download our Etexts before announcment
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Tamil Bookshelf Newsletter.
+
+http://metalab.unc.edu/pub/docs/books/tamilbookshelf/etext01
+or
+ftp://metalab.unc.edu/pub/docs/books/tamilbookshelf/etext01
+
+Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+Information about Tamil Bookshelf (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Tamil Bookshelf is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+Something is needed to create a future for Tamil Bookshelf for
+the next 100 years.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicted from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states.
+
+All donations should be made to the Tamil Bookshelf Literary
+Archive Foundation and will be tax deductible to the extent
+permitted by law.
+
+Mail to:
+
+Tamil Bookshelf Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655  [USA]
+
+We are working with the Tamil Bookshelf Literary Archive
+Foundation to build more stable support and ensure the
+future of Tamil Bookshelf.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.tamilbookshelf.net/donation.html
+
+***
+
+You can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+Example command-line FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/tamilbookshelf
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g.,
+GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+**The Legal Small Print**
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this Tamil Bookshelf-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT Tamil Bookshelf-TM ETEXTS
+This Tamil Bookshelf-tm etext, like most Tamil Bookshelf-tm
+etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Tamil Bookshelf Association (the "Project").
+Among other things, this means that no one owns a United States
+copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "Tamil Bookshelf" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a Tamil Bookshelf-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "Tamil Bookshelf-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Tamil Bookshelf,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Tamil Bookshelf Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions of money, time,
+public domain etexts, and royalty free copyright licenses.
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen,
+globaltraveler5565@yahoo.com.
+
+
+
+
+
+Friedrich Hebbel
+Herodes und Mariamne
+
+Eine Tragoedie in fuenf Akten
+
+
+
+Personen:
+
+Koenig Herodes
+Mariamne, seine Gemahlin
+Alexandra, ihre Mutter
+Salome, Schwester des Koenigs
+Soemus, Statthalter von Galilaea
+Joseph, Vizekoenig in Abwesenheit von Herodes
+Sameas, ein Pharisaeer
+Titus, ein roemischer Hauptmann
+Joab, ein Bote
+Judas, ein juedischer Hauptmann
+Artaxerxes, ein Diener
+Moses und Jehu desgleichen, sowie noch einige andere Diener
+Silo, ein Buerger
+Serubabel und sein Sohn Philo, Galilaeer
+Ein roemischer Bote
+Aaron und fuenf andere Richter
+Drei Koenige aus dem Morgenlande,
+    von der christlichen Kirche spaeter die heiligen zubenannt
+
+
+Ort: Jerusalem
+
+Zeit: Um Christi Geburt
+
+
+
+
+Erster Akt
+
+Burg Zion. Grosser Audienzsaal.
+
+Joab. Sameas. Serubabel und sein Sohn. Titus. Judas und viele andere.
+Herodes tritt ein.
+
+
+
+
+Erste Szene
+
+Joab (tritt dem Koenig entgegen).
+Ich bin zurueck!
+
+Herodes.                 Dich spreche ich nachher!
+Das Wichtigste zuerst!
+
+Joab (zuruecktretend, fuer sich). Das Wichtigste!
+Ich daechte doch, das waere, zu erfahren,
+Ob unser Kopf noch fest sitzt oder nicht.
+
+Herodes (winkt Judas).
+Wie steht es mit dem Feuer?
+
+Judas.
+                  Mit dem Feuer?
+So weisst du schon, was ich zu melden kam?
+
+Herodes.
+Um Mitternacht brach's aus. Ich war der erste,
+Der es bemerkte und die Wache rief.
+Irr ich mich nicht, so weckte ich dich selbst!
+
+Judas.
+Es ist geloescht! (Fuer sich.) So ist es also wahr,
+Dass er verkleidet durch die Gassen schleicht,
+Wenn andre schlafen! Hueten wir die Zunge,
+Sie koennte seinem Ohr einmal begegnen.
+
+Herodes.
+Ich sah, als alles schon in Flammen stand,
+Ein junges Weib durchs Fenster eines Hauses,
+Das ganz betaeubt schien. Ward dies Weib gerettet?
+
+Judas.
+Sie wollte nicht!
+
+Herodes.                     Sie wollte nicht?
+
+Judas.
+
+Beim Himmel
+Sie wehrte sich, als man sie mit Gewalt
+Hinwegzubringen suchte, schlug mit Haenden
+Und Fuessen um sich, klammerte am Bett,
+Auf dem sie sass, sich fest und schrie, sie habe
+Mit eigner Hand sich eben toeten wollen,
+Nun komme ihr ein Tod von ungefaehr!
+
+Herodes.
+Sie wird verrueckt gewesen sein!
+
+Judas.
+                          Wohl moeglich,
+Dass sie's in ihrem Schmerz geworden ist!
+Ihr Mann war augenblicks zuvor gestorben,
+Der Leichnam lag noch warm in seinem Bett.
+
+Herodes (fuer sich).
+Das will ich Mariamnen doch erzaehlen
+Und ihr dabei ins Auge schaun! (Laut.) Dies Weib
+Hat wohl kein Kind gehabt! Waer' es der Fall,
+So sorg ich fuer das Kind! Sie selber aber
+Soll reich und Fuersten gleich bestattet werden,
+Sie war vielleicht der Frauen Koenigin!
+
+Sameas (tritt zu Herodes).
+Bestattet werden? Geht doch wohl nicht an!
+Zum wenigsten nicht in Jerusalem!
+Es steht geschrieben--
+
+Herodes.
+    Kenne ich dich nicht?
+
+Sameas.
+Du hast mich einmal kennenlernen koennen;
+Ich war die Zunge des Synedriums,
+Als es vor dir verstummte!
+
+Herodes.
+            Sameas,
+Ich hoffe doch, du kennst mich auch! Du hast
+Den Juengling hart verfolgt, du haettest gern
+Mit seinem Kopf dem Henker ein Geschenk
+Gemacht; der Mann und Koenig hat vergessen,
+Was du getan: Du traegst den deinen noch!
+
+Sameas.
+Wenn ich ihn darum, weil du mir ihn liessest,
+Nicht brauchen soll, so nimm ihn hin; das waere
+Ja schlimmer, als ihn eingebuesst zu haben.
+
+Herodes.
+Weswegen kamst du? Niemals sah ich dich
+Bis jetzt in diesen Mauern.
+
+Sameas.
+                            Deshalb eben
+Siehst du mich heut! Du hast vielleicht geglaubt,
+Dass ich dich fuerchtete! Ich fuercht dich nicht!
+Auch jetzt nicht, wo dich mancher fuerchten lernte,
+Der dich bisher, ich meine, bis zum Tode
+Des Aristobolus, nicht fuerchtete!
+Und nun sich die Gelegenheit mir beut,
+Dir zu beweisen, dass ich dankbar bin,
+Nehm ich sie wahr und warne dich mit Ernst
+Vor einer Handlung, die der Herr verdammt.
+Die Knochen dieses Weibes sind verflucht,
+Sie hat die Rettung heidnisch abgewehrt,
+Das ist, als haette sie sich selbst getoetet,
+Und da--
+
+Herodes.
+        Ein andermal! (Zu Serubabel.) Aus Galilaea!
+Und Serubabel, der mich--Sei gegruesst!
+Du selbst bist schuld, dass ich dich jetzt erst sah!
+
+Serubabel.
+Viel Ehre, Koenig, dass du mich noch kennst!
+        (Deutet auf seinen Mund.)
+Nun freilich, diese beiden grossen Zaehne,
+Die mich zum Vetter eines Ebers machen--
+
+Herodes.
+Mein eigenes Gesicht vergess ich eher,
+Als das des Mannes, der mir treu gedient!
+Du warst, als ich bei euch die Raeuber jagte,
+Mein bester Spuerhund. Was bringst du mir jetzt?
+
+Serubabel (winkt seinem Sohn).
+Nicht eben viel! Den Philo, meinen Sohn!
+Du brauchst Soldaten, ich, ich brauche keine,
+Und dieser ist ein Roemer, aus Versehn
+Durch ein ebraeisch Weib zur Welt gebracht!
+
+Herodes.
+Aus Galilaea kommt mir nichts, als Gutes!
+Ich lasse dich noch rufen.
+
+(Serubabel tritt mit seinem Sohn zurueck.)
+
+Titus (tritt vor).
+                            Ein Betrug,
+Den ich entdeckte, zwingt mich--
+
+Herodes.
+                                Deck ihn auf!
+
+Titus.
+Die Stummen reden!
+
+Herodes.
+                  Deutlich!
+
+Titus.
+                           Dein Trabant,
+Der dir mit einem meiner Zenturionen
+Die letzte Nacht das Schlafgemach bewachte,--
+
+Herodes (fuer sich).
+Den Alexandra, meine Schwiegermutter,
+In meinen Dienst gebracht--
+
+Titus.
+                           Er ist nicht stumm,
+Wie alle Welt von ihm zu glauben scheint;
+Er hat im Traum gesprochen, hat geflucht!
+
+Herodes.
+Im Traum?
+
+Titus.
+           Er war im Stehen eingeschlafen,
+Mein Zenturione weckte ihn nicht auf;
+Er glaubte die Verpflichtung nicht zu haben,
+Weil er nicht mit in der Kohorte dient,
+Doch sah er scharf auf ihn, um, wenn er fiele,
+Ihn aufzufangen, dass er dich nicht stoere,
+Denn frueh noch war es, und du lagst im Schlaf.
+Wie er das tut, faengt dieser Stumme ploetzlich
+Zu murmeln an, spricht deinen Namen aus
+Und fuegt den fuerchterlichsten Fluch hinzu!
+
+Herodes.
+Der Zenturione hat sich nicht getaeuscht?
+
+Titus.
+Dann muesst' er selber eingeschlafen sein
+Und waer' ein schlimmres Zeichen fuer die Zukunft
+Der ew'gen Stadt, als jener Blitz, der juengst
+Die Woelfin auf dem Capitol versehrt!
+
+Herodes.
+Ich danke dir! Und nun--
+        (Er verabschiedet alle bis auf Joab.)
+
+                        Ja, ja, so steht's!
+Verrat im eignen Hause, offner Trotz
+Im Pharisaeerpoebel, um so kecker,
+Als ich ihn gar nicht strafen kann, wenn ich
+Nicht aus den Narren Maert'rer machen will;
+Bei jenen Galilaeern etwas Liebe,
+Nein, eigennuetzige Anhaenglichkeit,
+Weil ich der Popanz bin mit blankem Schwert,
+Der aus der Ferne ihr Gesindel schreckt;
+Und--dieser Mensch bringt sicher schlechte Botschaft,
+Er war zu eilig, mir sie zu verkuenden.
+Denn der sogar, obgleich mein eigner Knecht,
+Tut gern, was mich, verdriesst, wenn er nur weiss,
+Dass ich mich stellen muss, als merkt' ich's nicht!
+        (Zu Joab.)
+Wie steht's in Alexandrien?
+
+Joab.
+                            Ich sprach Antonius!
+
+Herodes.
+Ein wunderlicher Anfang!
+Du sprachst Antonius? Ich bin's gewohnt,
+Dass meine Boten vorgelassen werden;
+Du bist der erste, der es noetig findet,
+Mir zu versichern, dass ihm das gelang.
+
+Joab.
+Es ward mir schwer gemacht! Man wies mich ab,
+Hartnaeckig ab!
+
+Herodes (fuer sich).   So steht er mit Octav
+Noch besser, als ich dachte! (Laut.) Das beweist,
+Dass du die rechte Stunde nicht gewaehlt!
+
+Joab.
+Ich waehlte jede von den vierundzwanzig,
+Woraus der Tag besteht; wie man auch trieb,
+Ich wich nicht von der Stelle, nicht einmal,
+Als die Soldaten mir den Imbiss boten,
+Und, da ich ihn verschmaehte, spotteten:
+Er isst nur, was die Katze vorgekostet
+Und was der Hund zerlegt hat mit dem Maul!
+Am Ende glueckte mir--
+
+Herodes.
+                     Was einem Kluegern
+Sogleich geglueckt waer'--
+
+Joab.
+                       Bei ihm vorzukommen!
+Doch war's schon Nacht, und anfangs musst' ich glauben,
+Er haett' mich rufen lassen, um den Spass
+Der hoehnenden Soldaten fortzusetzen;
+Denn, wie ich eintrat, fand ich einen Kreis
+Von Trinkern vor, die sich auf Polstern streckten,
+Er aber fuellte selbst mir einen Becher
+Und rief mir zu: Den leere auf mein Wohl!
+Und als ich des mich hoeflich weigerte,
+Da sprach er: Wenn ich den da toeten wollte,
+So brauchte ich ihn nur acht Tage lang
+An meinen Tisch zu ziehn und den Tribut,
+Den Erd' und Meer mir zollen, draufzustellen,
+Er wuerde muessig sitzen und verhungern
+Und noch im Sterben schwoeren, er sei satt.
+
+Herodes.
+Ja, ja, sie kennen uns! Das muss sich aendern!
+Was Moses bloss gebot, um vor dem Rueckfall
+In seinen Kaelberdienst dies Volk zu schuetzen,
+Wenn er kein Narr war, das befolgt dies Volk,
+Als haett' es einen Zweck an sich, und gleicht
+Dem Kranken, der nach der Genesung noch
+Das Mittel, das ihn heilte, fort gebraucht,
+Als waeren Arzenei und Nahrung eins!
+Das soll--Fahr fort!
+
+Joab.
+                     Doch ueberzeugte ich
+Mich bald, dass ich mich irrte, denn er tat
+Beim Trinken alle Staatsgeschaefte ab,
+Ernannte Magistrate, ordnete
+Dem Zeus das Opfer an, vernahm Auguren
+Und sprach die Boten, wie sie eben kamen,
+Nicht mich allein. Es sah besonders aus.
+Ein Sklav' stand hinter ihm, das Ohr gespitzt,
+Die Tafel und den Griffel in der Hand,
+Und zeichnete mit laecherlichem Ernst
+Das auf, was ihm in trunknem Mut entfiel.
+Die Tafel liest er dann, wie ich vernahm,
+Am naechsten Morgen durch im Katzenjammer
+Und haelt so treu an ihren Inhalt sich,
+Dass er, dies soll er juengst geschworen haben,
+Sich selbst mit eigner Faust erdrosseln wuerde,
+Wenn er die Welt, die ihm gehoert, am Abend
+Im Rausch verschenkt und sich dabei des Rechts
+Auf einen Platz darin begeben haette.
+Ob er dann auch im Zickzack geht, wie nachts,
+Wenn er sein Lager sucht, ich weiss es nicht,
+Doch daeucht mir eins dem andern voellig gleich.
+
+Herodes.
+Du siegst, Octavian! Es fragt sich bloss,
+Ob frueher oder spaeter. Nun?
+
+Joab.
+                            Als endlich
+An mich die Reihe kam, und ich den Brief
+Ihm ueberreichte, den ich fuer ihn hatte,
+Da warf er ihn, anstatt ihn zu eroeffnen,
+Veraechtlich seinem Schreiber hin und liess
+Ein Bild durch seinen Mundschenk bringen; dieses
+Sollt' ich betrachten und ihm sagen,
+Ob ich es aehnlich faende oder nicht.
+
+Herodes.
+Das war das Bild--
+
+Joab (haemisch).
+                  Des Aristobolus,
+Des Hohenpriesters, der so rasch ertrank.
+Es war ihm laengst durch deine Schwiegermutter,
+Durch Alexandra, die mit ihm verkehrt,
+Schon zugeschickt, doch er verschlang's mit Gier,
+Als haette er es niemals noch erblickt.
+Ich stand verwirrt und schweigend da. Er sprach,
+Als er dies sah: Die Lampen brennen wohl
+Zu duester hier! und griff nach deinem Brief,
+Steckt' ihn in Brand und liess ihn vor dem Bild
+Langsam verflackern, wie ein weisses Blatt.
+
+Herodes.
+Kuehn! Selbst fuer ihn! Doch--es geschah im Rausch!
+
+Joab.
+Ich rief: Was machst du da? Du hast ihn ja
+Noch nicht gelesen! Er erwiderte:
+Ich will Herodes sprechen! Das bedeutet's!
+Er ist bei mir verklagt auf Tod und Leben!
+Nun sollt' ich sagen, wie der Hohepriester
+Gestorben sei. Und als ich ihm erzaehlte,
+Beim Baden hab' der Schwindel ihn gepackt,
+Da fuhr er drein: Gepackt! Ja, ja, das ist
+Das rechte Wort; der Schwindel hatte Faeuste!
+Und ich vernahm--verzeihst du's, wenn ich's melde?
+Dass man in Rom nicht glaubt, der Juengling sei
+Ertrunken, sondern dass man dich bezichtigt,
+Du habest ihn durch deine Kaemmerer
+Ersticken lassen in dem tiefen Fluss.
+
+Herodes.
+Dank, Alexandra, Dank!
+
+Joab.
+                      Jetzt winkt' er mir
+Zu gehen, und ich ging. Doch rief er mich
+Noch einmal um und sprach: Du bist die Antwort
+Auf meine erste Frage mir noch schuldig,
+Drum wiederhol ich sie. Gleicht dieses Bild
+Dem Toten? Und als ich gezwungen nickte:
+Gleicht Mariamne denn auch ihrem Bruder?
+Gleicht sie dem Juengling, der so schmaehlich starb?
+Ist sie so schoen, dass jedes Weib sie hasst?
+
+Herodes.
+Und du?
+
+Joab.
+        Erst hoere, was die andern sagten,
+Die sich erhoben hatten und das Bild
+Mit mir umstanden. Lachend riefen sie,
+Zweideut'ge Mienen mit Antonius wechselnd:
+Sprich ja! wenn dich der Tote je beschenkte,
+Dann siehst du ihn auf jeden Fall geraecht!
+Ich aber sprach: ich wuesste nichts davon,
+Denn niemals anders, als verschleiert, haett' ich
+Die Koenigin gesehn, und das ist wahr!
+
+Herodes (fuer sich).
+Ha, Mariamne! Aber--dazu lach ich;
+Denn davor werd' ich mich zu schuetzen wissen,
+So oder so, es komme, wie es will!--
+(Zu Joab.) Und welchen Auftrag gab er dir fuer mich?
+
+Joab.
+Gar keinen! Wenn ich einen Auftrag haette,
+So haett' ich dir dies alles nicht erzaehlt!
+Nun schien's mir noetig!
+
+Herodes.
+                        Wohl'--Du gehst sogleich
+Zurueck nach Alexandrien mit mir
+Und darfst die Koenigsburg nicht mehr verlassen!
+
+Joab.
+Ich werd auch in der Burg mit keinem reden!
+
+Herodes.
+Ich glaub's! Wer stirbt den Tod am Kreuz auch gern,
+Besonders, wenn die Feige eben reift!
+Mein Stummer wird erwuergt und sollt' er fragen
+Warum, so sagt man: Weil du fragen kannst!
+(Fuer sich.) Nun weiss ich's denn, durch wen die alte Schlange
+So oft erfuhr, was ich--Ein boeses Weib!
+(Zu Joab.) Besorge das! Ich muss den Kopf noch sehn,
+Ich will ihn meiner Schwiegermutter schicken!
+(Fuer sich.) Sie braucht ein Warnungszeichen, wie es scheint.
+
+Joab.
+Sogleich!
+
+Herodes.
+         Noch eins! Der junge Galilaeer
+Tritt fuer ihn ein, der Sohn des Serubabel.
+Den will ich auch noch sprechen, eh' wir ziehn!
+
+(Joab ab.)
+
+
+
+
+Zweite Szene
+
+Herodes (allein).
+Nun gilt's! Noch einmal! haett' ich bald gesagt,
+Allein ich seh kein Ende ab. Ich gleiche
+Dem Mann der Fabel, den der Loewe vorn,
+Der Tiger hinten packte, dem die Geier
+Mit Schnaebeln und mit Klau'n von oben drohten,
+Und der auf einem Schlangenklumpen stand.
+Gleichviel! Ich wehre mich, so gut ich kann,
+Und gegen jeden Feind mit seiner Waffe,
+Das sei von jetzt mir Regel und Gesetz.
+Wie lang es dauern wird, mich soll's nicht kuemmern,
+Wenn ich nur bis ans Ende mich behaupte
+Und nichts verliere, was ich mein genannt,
+Dies Ende komme nun, sobald es will!
+
+
+
+
+Dritte Szene
+
+Ein Diener (tritt ein).
+Die Koenigin!
+
+(Mariamne folgt ihm auf dem Fuss.)
+
+Herodes (geht ihr entgegen) Du kommst mir nur zuvor!
+Ich wollte--
+
+Mariamne.
+            Doch nicht in Person den Dank
+Fuer deine wunderbaren Perlen holen?
+Ich wies dich zweimal ab, es noch einmal
+Versuchen, ob ich meinen Sinn gewendet,
+Das waer' fuer einen Mann zuviel gewesen
+Und ganz gewiss zuviel fuer einen Koenig.
+O nein, ich kenne meine Pflicht, und da du
+Seit meines muntren Bruders jaehem Tod
+Mich jeden Tag so reich beschenkst, als wuerbest
+Du neu um mich, so komme ich auch endlich
+Und zeige dir, dass ich erkenntlich bin!
+
+Herodes.
+Ich sehe es!
+
+Mariamne.
+            Zwar weiss ich nicht, wie du
+Es mit mir meinst. Du schickst fuer mich den Taucher
+Hinunter in das dunkle Meer, und wenn
+Sich keiner findet, der um blanken Lohn
+Des Leviathans Ruhe stoeren will,
+So tust du deine Kerker auf und gibst
+Dem Raeuber den verwirkten Kopf zurueck,
+Damit er dir die Perlen fischt fuer mich.
+
+Herodes.
+Und scheint dir das verkehrt? Ich liess wohl auch
+Den Moerder schon vom Kreuz herunternehmen,
+Als es ein Kind aus einer Feuersbrunst
+Zu retten galt, und sagte ihm: Wenn du's
+Der Mutter wiederbringst, so gilt mir das,
+Als haettest du dem Tod die Schuld bezahlt.
+Er stuerzte auch hinein--
+
+Mariamne.
+                         Und kam er wieder
+Heraus?
+
+Herodes.
+Es war zu spaet! Sonst haett' ich ihm
+Mein Wort gehalten und ihn als Soldat
+Nach Rom geschickt, wo Tiger noetig sind.
+Man soll mit allem wuchern, denke ich,
+Warum nicht mit verfallnem Menschenleben?
+Es kommen Faelle, wo man's brauchen kann!
+
+Mariamne (fuer sich).
+Oh, dass er nicht die blut'gen Haende haette!
+Ich sag ihm nichts! Denn, was er auch getan,
+Spricht er davon, so scheint es wohl getan,
+Und schrecklich waer' es doch, wenn er mich zwaenge,
+Den Brudermord zu finden, wie das andre,
+Notwendig, unvermeidlich, wohl getan!
+
+Herodes.
+Du schweigst?
+
+Mariamne.
+             So soll ich reden? Wohl von Perlen!
+Wir sprachen ja bis jetzt von Perlen nur,
+Von Perlen, die so rein sind und so weiss,
+Dass sie sogar in blut'gen Haenden nicht
+Den klaren Glanz verlieren! Nun, du haeufst
+Sie sehr bei mir!
+
+Herodes.
+                  Verdriesst es dich?
+
+Mariamne.
+                                    Mich nicht!
+Du kannst mir dadurch nimmer eine Schuld
+Bezahlen wollen, und mir daeucht, ich habe
+Als Weib und Koenigin ein volles Recht
+Auf Perlen und Kleinodien. Ich darf
+Vom Edelstein, wie Cleopatra, sagen:
+Er ist mein Diener, dem ich es verzeihe,
+Dass er den Stern so schlecht bei mir vertritt,
+Weil er dafuer die Blume uebertrifft!
+Doch hast du eine Schwester, Salome--
+
+Herodes.
+Und diese--
+
+Mariamne.
+           Nun, wenn sie mich morden soll,
+So fahr nur fort, das Meer fuer mich zu pluendern,
+Sonst--gib dem Taucher endlich Ruh! Ich stehe
+Schon hoch genug in ihrer Schuld! Du siehst
+Mich zweifelnd an? Doch! Doch! Als ich vor'm Jahr
+Im Sterben lag, da hat sie mich gekuesst.
+Es war das erste und das einz'ge Mal,
+Ich dachte gleich: Das ist dein Lohn dafuer,
+Dass du von hinnen gehst! So war es auch,
+Ich aber taeuschte sie, denn ich genas.
+Nun hab ich ihren Kuss umsonst, und das
+Vergass sie nicht. Ich fuerchte sehr, sie koennte
+Sich dran erinnern, wenn ich sie besuchte,
+Die Wunderperlen um den Hals, durch die
+Du mir zuletzt gezeigt, wie du mich liebst!
+
+Herodes. (fuer sich).
+Es fehlt nur noch, dass meine linke Hand
+Sich gegen meine rechte kehrt!
+
+Mariamne.
+                              Ich wuerde
+Zum wenigsten den Willkommstrunk verschmaehn!
+Und boete sie mir statt gewuerzten Weins
+Auch im Kristall unschuld'ges Wasser dar,
+Ich liesse selbst dies Wasser unberuehrt!
+Zwar wuerde das nichts heissen! Nein! Es waere
+Auch so natuerlich; denn das Wasser ist
+Mir jetzt nicht mehr, was es mir sonst gewesen ist:
+Ein mildes Element, das Blumen traenkt
+Und mich und alle Welt erquickt, es floesst
+Mir Schauder ein und fuellt mich mit Entsetzen,
+Seit es den Bruder mir verschlungen hat,
+Ich denke stets: im Tropfen wohnt das Leben,
+Doch in der Welle wohnt der bittre Tod!
+Dir muss es noch ganz anders sein!
+
+Herodes.
+                                 Warum?
+
+Mariamne.
+Weil du durch einen Fluss verleumdet wirst,
+Der seine eigne, grausam-tueck'sche Tat
+Dir aufzubuerden wagt! Doch fuercht ihn nicht,
+Ich widersprech ihm!
+
+Herodes.
+                    In der Tat?
+
+Mariamne.
+                               Ich kann's!
+Die Schwester lieben und den Bruder toeten,
+Wie waer' das zu vereinen?
+
+Herodes.
+                         Doch vielleicht!
+Wenn solch ein Bruder selbst aufs Toeten sinnt,
+Und man nur dadurch, dass man ihm begegnet,
+Ja ihm zuvorkommt, sich erhalten kann!
+Wir sprechen hier vom Moeglichen! Und weiter!
+Wenn er, an sich zwar arglos, sich zur Waffe
+In Feindeshaenden machen laesst, zur Waffe,
+Die toedlich treffen muss, wenn man sie nicht
+Zerbricht, bevor sie noch geschwungen wird.
+Wir sprechen hier vom Moeglichen! Und endlich!
+Wenn diese Waffe nicht ein Einzelhaupt,
+Nein, wenn sie eines Volkes Haupt bedroht!
+Und eins, das diesem Volk so noetig ist,
+Wie irgendeinem Rumpf das seinige.
+Wir sprechen hier vom Moeglichen, doch denk ich,
+In allen diesen Faellen wird die Schwester,
+Als Weib aus schuld'ger Liebe zum Gemahl,
+Als Tochter ihres Volks aus heil'ger Pflicht,
+Als Koenigin aus beiden sagen muessen:
+Es ist geschehn, was ich nicht schelten darf!
+        (Er fasst Mariamnens Hand.)
+Wenn eine Ruth mich auch nicht fassen mag,
+Wie haette sie's gelernt beim aehrenlesen,
+Die Makkabaeerin wird mich verstehn!
+Du konntest mich in Jericho nicht kuessen,
+Du wirst es koennen in Jerusalem!
+        (Er kuesst sie.)
+Und wenn der Kuss dich doch gereuen sollte,
+So hoere, was dich mir versoehnen wird:
+Ich habe ihn zum Abschied mir genommen,
+Und dieser Abschied kann fuer ewig sein!
+
+Mariamne.
+Fuer ewig?
+
+Herodes.
+         Ja! Antonius laesst mich rufen,
+Doch, ob auch wiederkehren, weiss ich nicht!
+
+Mariamne.
+Du weisst es nicht?
+
+Herodes.
+Weil ich nicht weiss, wie hart
+Mich meine--deine Mutter bei ihm verklagte!
+
+(Mariamne will reden.)
+
+Herodes.
+Gleichviel! Ich werd's erfahren. Eins nur muss ich
+Aus deinem Munde wissen, wissen muss ich,
+Ob ich und wie ich mich verteid'gen soll.
+
+Mariamne.
+Ob du--
+
+Herodes.
+       O Mariamne, frage nicht!
+Du kennst den Zauber, der mich an dich knuepft,
+Du weisst, dass jeder Tag ihn noch verstaerkte,
+Du musst es ja empfinden, dass ich jetzt
+Nicht fuer mich kaempfen kann, wenn du mir nicht
+Versicherst, dass dein Herz noch fuer mich schlaegt!
+Oh, sag mir, wie, ob feurig oder kalt,
+Dann werde ich dir sagen, ob Antonius
+Mich Bruder nennen, oder ob er mich
+Zum Hungertod im unterird'schen Kerker,
+In dem Jugurtha starb, verdammen wird!
+Du schweigst; Oh, schweige nicht! Ich fuehl es wohl,
+Dass dies Bekenntnis keinem Koenig ziemt;
+Er sollte nicht dem allgemeinen Los
+Der Menschheit unterworfen, sollte nicht
+Im Innern an ein Wesen ausser sich,
+Er sollte nur an Gott gebunden sein!
+Ich bin es nicht! Als du vor einem Jahr
+Im Sterben lagst, da ging ich damit um,
+Mich selbst zu toeten, dass ich deinen Tod
+Nur nicht erlebte, und--dies weisst du nun,
+Ein and'res wisse auch! Wenn ich einmal,
+Ich selbst, im Sterben laege, koennt' ich tun,
+Was du von Salome erwartest, koennte
+Ein Gift dir mischen und im Wein dir reichen,
+Damit ich dein im Tod noch sicher sei!
+
+Mariamne.
+Wenn du das taetest, wuerdest du genesen!
+
+Herodes.
+O nein! o nein! Ich teilte ja mit dir!
+Du aber sprich--ein uebermass von Liebe,
+Wie dieses waere, koenntest du's verzeihn?
+
+Mariamne.
+Wenn ich nach einem solchen Trunk auch nur
+Zu einem letzten Wort noch Odem haette,
+So flucht' ich dir mit diesem letzten Wort!
+(Fuer sich.) Ja, um so eher taet' ich das, je sichrer
+Ich selbst, wenn dich der Tod von hinnen riefe,
+In meinem Schmerz zum Dolche greifen koennte:
+Das kann man tun, erleiden kann man's nicht!
+
+Herodes.
+Im Feuer dieser Nacht hat sich ein Weib
+Mit ihrem toten Mann verbrannt; man wollte
+Sie retten, doch sie straeubte sich. Dies Weib
+Verachtest du, nicht wahr?
+
+Mariamne.
+                          Wer sagt dir das?
+Sie liess ja nicht zum Opfertier sich machen,
+Sie hat sich selbst geopfert, das beweist,
+Dass ihr der Tote mehr war, als die Welt!
+
+Herodes.
+Und du? Und ich?
+
+Mariamne.
+                Wenn du dir sagen darfst,
+Dass du die Welt mir aufgewogen hast,
+Was sollte mich wohl in der Welt noch halten?
+
+Herodes.
+Die Welt! Die Welt hat manchen Koenig noch,
+Und keiner ist darunter, der mit dir
+Den Thron nicht teilte, der nicht deinetwegen
+Die Braut verliesse und das Weib verstiesse,
+Und waer's am Morgen nach der Hochzeitsnacht!
+
+Mariamne.
+Ist Cleopatra tot, dass du so sprichst?
+
+Herodes.
+Du bist so schoen, dass jeder, der dich sieht,
+An die Unsterblichkeit fast glauben muss,
+Mit welcher sich die Pharisaeer schmeicheln,
+Weil keiner fasst, dass je in ihm dein Bild
+Erloeschen kann; so schoen, dass ich mich nicht
+Verwundern wuerde, wenn die Berge ploetzlich
+Ein edleres Metall, als Gold und Silber,
+Mir lieferten, um dich damit zu schmuecken,
+Das sie zurueckgehalten, bis du kamst;
+So schoen, dass--Ha! Und wissen, dass du stirbst,
+Sobald ein andrer starb, aus Liebe stirbst,
+Um dem, der dir voranging, nachzueilen,
+Und dich in einer Sphaere, wo man ist
+Und nicht mehr ist, ich stell mir das so vor,
+Als letzter Hauch zum letzten Hauch zu mischen--
+Das waer' freiwill'gen Todes wert, das hiesse
+Jenseits des Grabes, wo das Grauen wohnt,
+Noch ein Entzuecken finden: Mariamne,
+Darf ich dies hoffen, oder muss ich fuerchten,
+Dass du--Antonius hat nach dir gefragt!
+
+Mariamne.
+Man stellt auf Taten keinen Schuldschein aus,
+Viel weniger auf Schmerzen und auf Opfer,
+Wie die Verzweiflung zwar, ich fuehl's, sie bringen,
+Doch nie die Liebe sie verlangen kann!
+
+Herodes.
+Leb wohl!
+
+Mariamne.
+         Leb wohl! Ich weiss, du kehrst zurueck
+Dich toetet (sie zeigt gen Himmel) der allein!
+
+Herodes.
+                So klein die Angst?
+
+Mariamne.
+So gross die Zuversicht!
+
+Herodes.
+                       Die Liebe zittert!
+Sie zittert selbst in einer Heldenbrust!
+
+Mariamne.
+Die meine zittert nicht!
+
+Herodes.
+                        Du zitterst nicht!
+
+Mariamne.
+Nun fang ich an! Kannst du nicht mehr vertrauen,
+Seit du den Bruder mir--Dann wehe mir
+Und wehe dir!
+
+Herodes.
+             Du haeltst das Wort zurueck,
+Das schlichte Wort, wo ich auf einen Schwur
+Von dir gehofft: worauf noch soll ich baun?
+
+Mariamne.
+Und leistete ich den, was buergte dir,
+Dass ich ihn hielte? Immer nur ich selbst,
+Mein Wesen, wie du's kennst. Drum denke ich,
+Du faengst, da du mit Hoffnung und Vertraun
+Doch enden musst, sogleich mit beiden an!
+Geh! Geh! Ich kann nicht anders! Heut noch nicht! (Ab.)
+
+
+
+
+Vierte Szene
+
+Herodes.
+Heut nicht! Doch morgen, oder uebermorgen!--
+Sie will mir nach dem Tode Gutes tun!
+Spricht so ein Weib? Zwar weiss ich's, dass sie oft,
+Wenn ich sie schoen genannt, ihr Angesicht
+Verzog, bis sie es nicht mehr war. Auch weiss ich's,
+Dass sie nicht weinen kann, dass Kraempfe ihr,
+Was andern Traenenguesse sind! Auch weiss ich's,
+Dass sie mit ihrem Bruder kurz vorher,
+Eh' er im Bad den Tod fand, sich entzweit
+Und dann die Unversoehnliche gespielt,
+Ja, obendrein, als er schon Leiche war'
+Noch ein Geschenk von ihm erhalten hat,
+Das er beim Gang ins Bad fuer sie gekauft.
+Und doch! Spricht so ein Weib in dem Moment,
+Wo sie den, den sie liebt, und wenigstens
+Doch lieben soll--Sie kehrt nicht wieder um,
+Wie einst, als ich--Sie liess kein Tuch zurueck,
+Das ihr als Vorwand--Nein, sie kann es tragen,
+Dass ich mit diesem Eindruck--Wohl, es sei!
+Nach Alexandria--ins Grab--Gleichviel!
+Doch eins zuvor! Eins! Erd' und Himmel, hoert's!
+Mir schwurst du nichts, dir will ich etwas schwoeren:
+Ich stell dich unters Schwert. Antonius,
+Wenn er mich deinetwegen fallen laesst,
+Und deiner Mutter wegen tut er's nicht!
+Soll sich betruegen, sei's auch zweifelhaft,
+Ob mir das Kleid, das mich im Sterben deckt,
+Mit in die Grube folgt, weil mir ein Dieb
+Es ja noch stehlen kann, du sollst mir folgen!
+Das steht nun fest! Wenn ich nicht wiederkehre,
+So stirbst du! Den Befehl lass ich zurueck!
+Befehl! Da stoesst ein boeser Punkt mir auf:
+Was sichert mich, dass man mir noch gehorcht,
+Wenn man mich nicht mehr fuerchtet? Oh, es wird
+Sich einer finden, denk ich, der vor ihr
+Zu zittern hat!
+
+
+
+
+Fuenfte Szene
+
+Ein Diener.
+              Dein Schwaeher!
+
+Herodes.
+                            Ist willkommen!
+Das ist mein Mann! Dem reiche ich mein Schwert
+Und hetz ihn dann durch Feigheit in den Mut
+So tief hinein, bis er es braucht, wie ich!
+
+Joseph (tritt ein).
+Ich hoere, dass du gleich nach Alexandrien
+Zu gehen denkst, und wollte Abschied nehmen!
+
+Herodes.
+Abschied! Vielleicht auf Nimmerwiedersehn!
+
+Joseph.
+Auf Nimmerwiedersehn?
+
+Herodes.
+        Es koennte sein!
+
+Joseph.
+Ich sah dich nie, wie jetzt!
+
+Herodes.
+                            Das sei dir Buerge,
+Dass es noch nie so mit mir stand, wie jetzt!
+
+Joseph.
+Wenn du den Mut verlierst--
+
+Herodes.
+                           Das werd' ich nicht,
+Denn, was auch kommt, ich trag es, doch die Hoffnung
+Verlaesst mich, dass was Gutes kommen kann.
+
+Joseph.
+So wollte ich, ich waere blind gewesen
+Und haette Alexandras Heimlichkeiten
+Nie aufgespuert!
+
+Herodes.
+               Das glaube ich dir gern!
+
+Joseph.
+Denn haette ich das Bildnis nicht entdeckt,
+Das sie vom Aristobolus geheim
+Fuer den Antonius malen liess, und haett' ich
+Ihr Botensenden an Cleopatra
+Nicht ausgespaeht, und noch zuletzt den Sarg,
+Der sie und ihren Sohn verbarg, im Hafen
+Nicht angehalten und die Flucht verhindert,
+Die schon begonnen war--
+
+Herodes.
+                        Dann haette sie
+Dir nichts zu danken, und mit Ruhe koenntest
+Du ihre Tochter auf dem Throne sehn,
+Den sie, die kuehne Makkabaeerin,
+Gewiss besteigt, wenn ich nicht wiederkehre,
+Und wenn vor ihr kein andrer ihn besetzt.
+
+Joseph.
+So mein ich's nicht. Ich meine, manches waer'
+Dann unterblieben!
+
+Herodes.
+Manches! Allerdings!
+Doch manches andre waer' dafuer gekommen.
+Das gilt nun gleich.--Du zaehltest vieles auf,
+Eins hast du noch vergessen!
+
+Joseph.
+                            Und das waere?
+
+Herodes.
+Du warst doch mit im Bade, als--
+
+Joseph.
+                                Ich war's!
+
+Herodes.
+Du rangst doch auch mit ihm?
+
+Joseph.
+                            Im Anfang. Ja.
+
+Herodes.
+Nun denn!
+
+Joseph.
+         In meinen Armen hat der Schwindel
+Ihn nicht erfasst und waere es geschehn,
+So haett' ich ihn gerettet, oder er
+Mich mit hinabgezogen in den Grund.
+
+Herodes.
+Ich zweifle nicht daran. Doch wirst du wissen,
+Dass keiner, der dabei war, anders spricht,
+Und da der boese Zufall will, dass du
+Ihn nicht bloss hinbegleitet, sondern auch
+Mit ihm gerungen hast--
+
+Joseph.
+                       Was haeltst du ein?
+
+Herodes.
+Mein Joseph, du und ich, wir alle beide
+Sind hart verklagt!
+
+Joseph.
+Ich auch?
+
+Herodes.
+         Mein Schwaeher freilich
+Nicht bloss, auch mein vertrauter Freund bist du!
+
+Joseph.
+Des schmeichl' ich mir!
+
+Herodes.
+                       Oh, waerst du's nie gewesen,
+Haett' ich, wie Saul, den Spiess nach dir geworfen,
+Koenntst du durch Todeswunden das beweisen,
+Dir waere besser, die Verleumdung haette
+Kein glaeubig Ohr gefunden, und du wuerdest
+Fuer eine Bluttat, die du nicht begingst,
+Auch nicht enthauptet werden!
+
+Joseph.
+                             Ich? Enthauptet?
+
+Herodes.
+Das ist dein Los, wenn ich nicht wiederkehre
+Und Mariamne--
+
+Joseph.
+              Aber ich bin schuldlos!
+
+Herodes.
+Was hilft es dir? Der Schein ist gegen dich!
+Und sind denn nicht, gesetzt, dass man dir glaubte,
+Die vielen, vielen Dienste, die du mir
+Erwiesen hast, in Alexandras Augen
+So viel Verbrechen gegen sie? Wird sie
+Nicht denken: Haette der mich fliehen lassen,
+So lebte noch, der jetzt im Grabe liegt?
+
+Joseph.
+Wahr! Wahr!
+
+Herodes.
+           Kann sie denn nicht mit einer Art
+Von Recht dein Leben fuer ein andres fodern,
+Das sie durch deine Schuld verloren glaubt,
+Und wird sie's nicht durch ihre Tochter tun?
+
+Joseph.
+O Salome! Das kommt von jenem Gang
+Zum Maler! Jahr fuer Jahr will sie von mir
+Ein neues Bild!
+
+Herodes.
+               Ich weiss, wie sie dich liebt!
+
+Joseph.
+Ach, waer' es weniger, so stuend' es besser!
+Haett' ich das Bild des Aristobolus
+Entdeckt, wenn ich--Nun kann sie denn ja bald
+Mein letztes haben, ohne Kopf!
+
+Herodes.
+                              Mein Joseph,
+Den Kopf verteidigt man!
+
+Joseph.
+                        Wenn du den deinen
+Verloren gibst?
+
+Herodes.
+                Das tu ich doch nur halb,
+Ich werd' ihn dadurch noch zu retten suchen,
+Dass ich ihn selbst, freiwillig, in den Rachen
+Des Loewen stecke!
+
+Joseph.
+                 Einmal glueckt' es dir!
+Als dich die Pharisaeer--
+
+Herodes.
+                        Jetzt steht's schlimmer,
+Doch, was mit mir auch werde, dein Geschick
+Will ich in deine eignen Haende legen:
+Du warst schon stets ein Mann, sei jetzt ein Koenig!
+Ich haenge dir den Purpurmantel um
+Und reiche dir den Zepter und das Schwert,
+Halt's fest und gib es nur an mich zurueck!
+
+Joseph.
+Versteh ich dich?
+
+Herodes.
+                  Und dass du den Besitz
+Des Throns dir und mit ihm dein Leben sicherst,
+So toete Mariamne, wenn du hoerst,
+Dass ich nicht wiederkehre.
+
+Joseph.
+                          Mariamne?
+
+Herodes.
+Sie ist das letzte Band, das Alexandra
+Noch mit dem Volk verknuepft, seit ihr der Fluss
+Den Sohn erstickte, ist der bunte Helmbusch,
+Den die Empoerung tragen wird, wenn sie
+Sich gegen dich erhebt--
+
+Joseph.
+                        Doch Mariamne!
+
+Herodes.
+Du staunst, dass ich--Ich will nicht heucheln, Joseph!
+Mein Rat ist gut, ist gut f&uuml;r dich, bedarf's
+Der Worte noch? Doch geb ich dir ihn freilich
+Nicht deinetwegen bloss--Grad aus, ich kann's
+Nicht tragen, dass sie einem andern jemals--
+Das waer' mir bittrer, als--Sie ist zwar stolz--
+Doch nach dem Tod--Und ein Antonius--
+Und dann vor allem diese Schwiegermutter,
+Die Toten gegen Toten hetzen wird--
+Du musst mich fassen!
+
+Joseph.
+                    Aber--
+
+Herodes.
+                          Hoer mich aus!
+Sie liess mich hoffen, dass sie selbst den Tod
+Sich geben wuerde, wenn ich--Eine Schuld
+Darf man doch einziehn lassen, wie?--Man darf
+Selbst mit Gewalt--Was meinst du?
+
+Joseph.
+
+Nun, ich glaube!
+
+Herodes.
+Versprich mir denn, dass du sie toeten willst,
+Wenn sie sich selbst nicht toetet! uebereil's nicht,
+Doch saeum auch nicht zu lange! Geh zu ihr,
+Sobald mein Bote, denn ich schicke einen,
+Dir meldet, dass es mit mir aus ist, sag's ihr
+Und sieh, ob sie zu einem Dolche greift,
+Ob sie was andres tut. Versprichst du's?
+
+Joseph.
+                                        Ja!
+
+Herodes.
+Ich lasse dich nicht schwoeren, denn man liess
+Noch keinen schwoeren, dass er eine Schlange
+Zertreten wolle, die den Tod ihm droht.
+Er tut's von selbst, wenn er bei Sinnen bleibt,
+Da er das Essen und das Trinken eher
+Gefahrlos unterlassen kann, als dies.
+        (Joseph macht eine Bewegung.)
+Ich kenn dich ja! Und dem Antonius
+Werd' ich dich als den einzigen empfehlen,
+Dem er vertrauen darf. Du wirst ihm das
+Dadurch beweisen, dass die Blutsverwandte
+Dir nicht zu heilig ist, um sie zu opfern,
+Wenn es Empoerung zu ersticken gilt.
+Denn dies ist der Gesichtspunkt fuer die Tat,
+Aus dem du ihm sie zeigen musst. Ihr wird
+Ein Strassenauflauf folgen, und du meldest
+Ihm, dass ein Aufruhr ihr vorhergegangen,
+Und nur durch sie bezwungen worden sei.
+Was dann das Volk betrifft, so wird es schaudern,
+Wenn es dein blut'ges Schwert erblickt, und mancher
+Wird sprechen: Diesen kannt' ich doch nur halb!
+Und jetzt--
+
+Joseph.
+           Ich seh dich noch! Und nicht bloss heut,
+Ich weiss gewiss, du kehrst, wie sonst, zurueck.
+
+Herodes.
+Unmoeglich ist es nicht, darum noch eins!--
+        (Lange Pause.)
+Ich schwur jetzt etwas in bezug auf dich!
+        (Er schreibt und siegelt.)
+Hier steht's! Nimm dieses Blatt versiegelt hin!
+Du siehst, die Aufschrift lautet--
+
+Joseph.
+                                  An den Henker!
+
+Herodes.
+Ich halte dir, was ich dir drin versprach,
+Wenn du vielleicht ein Stueck von einem Koenig
+Erzaehlen solltest, der--
+
+Joseph.
+                        Dann gib mir auf,
+Dies Blatt dem Henker selbst zu ueberreichen! (Ab.)
+
+
+
+
+Sechste Szene
+
+Herodes (allein).
+Nun lebt sie unterm Schwert! Das wird mich spornen,
+Zu tun, was ich noch nie getan; zu dulden,
+Was ich noch nie geduldet, und mich troesten,
+Wenn es umsonst geschieht! Nun fort!--(Ab.)
+
+
+
+
+
+Zweiter Akt
+
+Burg Zion. Alexandras Gemaecher.
+
+
+
+
+Erste Szene
+
+Alexandra und Sameas.
+
+Alexandra.
+Dies weisst du nun!
+
+Sameas.
+Es ueberrascht mich nicht!
+Nein, vom Herodes ueberrascht mich nichts!
+Denn, wer als Juengling dem Synedrium
+Schon Krieg erklaert, wer mit der blanken Waffe
+Vor seinen Richter hintritt und ihn mahnt,
+Dass er der Henker ist, und dass der Henker
+Kein Todesurteil an sich selbst vollzieht,
+Der mag als Mann--Ha, ich erblick ihn noch,
+Wie er, dem Hohenpriester gegenueber,
+Sich an die Saeule lehnte und, umringt
+Von seinen Soeldnern, die im Raeuberfangen
+Sich selbst in Raeuber umgewandelt hatten,
+Uns alle ueberzaehlte, Kopf fuer Kopf,
+Als stuende er vor einem Distelbeet
+Und saenne nach, wie es zu saeubern sei.
+
+Alexandra.
+Ja, ja, es war ein Augenblick fuer ihn,
+An den er sich mit Stolz erinnern mag!
+Ein junger Tollkopf, der die Zwanzig kaum
+Erreicht, wird vors Synedrium gestellt,
+Weil er in frevelhaftem uebermut
+Sich einen Angriff aufs Gesetz erlaubt,
+Weil er ein Todesurteil, das von euch
+Noch nicht gesprochen ward, vollzogen hat.
+Des Toten Witwe tritt ihm an der Schwelle
+Mit ihrem Fluch entgegen, drinnen sitzt,
+Was alt und grau ist in Jerusalem.
+Doch weil er nicht im Sack kommt und mit Asche
+Sein Haupt bestreut, so wird's euch schwach zumut;
+Ihr denkt nicht mehr daran, ihn zu bestrafen,
+Ihr denkt nicht einmal dran, ihn zu bedraeuen,
+Ihr sagt ihm nichts, er lacht euch aus und geht!
+
+Sameas.
+Ich sprach!
+
+Alexandra.
+           Als es zu spaet war!
+
+Sameas.
+                              Haett' ich's eher
+Getan, so waere es zu frueh gewesen,
+Ich schwieg aus Ehrfurcht vor dem Hohenpriester,
+Dem stand das erste Wort zu, mir das letzte,
+Er war der Alteste, der Juengste ich!
+
+Alexandra.
+Gleichviel! Wenn ihr in jenem Augenblick
+Den schlichten Mut der Pflicht bewiesen haettet,
+So wuerde jetzt kein groessrer noetig sein!
+Doch nun seht zu, ob ihr--Ei was, euch bleibt
+Auch wohl ein andrer Ausweg noch! Wenn ihr
+Mit ihm nicht kaempfen wollt, und in der Tat,
+Es waer' gewagt, ich rat euch ab, so braucht
+Ihr mit dem Loewen oder mit dem Tiger
+Den Kampf nur einzugehn, den er befiehlt!
+
+Sameas.
+Was redest du?
+
+Alexandra.               Du kennst die Fechterspiele
+      Der Roemer doch?
+
+Sameas.
+    Gott Lob, ich kenn sie nicht!
+Ich halt es fuer Gewinn, nichts von den Heiden
+Zu wissen, als was Moses uns erzaehlt;
+Ich mache jedesmal die Augen zu,
+Wenn mir ein roemischer Soldat begegnet,
+Und segne meinen Vater noch im Grabe,
+Dass er mich ihre Sprache nicht gelehrt.
+
+Alexandra.
+So weisst du nicht, dass sie die wilden Tiere
+Aus Afrika zu Hunderten nach Rom
+Hinueberschaffen?
+
+Sameas.
+                Nein, ich weiss es nicht!
+
+Alexandra.
+Dass sie sie dort in steinerner Arena
+Zusammentreiben, dass sie ihnen Sklaven
+Entgegenhetzen, die auf Tod und Leben
+Mit ihnen kaempfen muessen, waehrend sie
+Im Kreis herum auf hohen Baenken sitzen
+Und jubeln, wenn die Todeswunden klaffen,
+Und wenn das rote Blut den Sand bespritzt?
+
+Sameas.
+Das hat der wildeste von meinen Traeumen
+Mir nicht gezeigt, doch freut's mich in der Seele,
+Wenn sie es tun, es schickt sich wohl fuer sie!
+        (Mit erhobenen Haenden.)
+Herr, du bist gross! Wenn du dem Heiden auch
+Das Leben goennst, so muss er dir dafuer
+Doch einen graesslichen Tribut bezahlen,
+Du strafst ihn durch die Art, wie er es braucht!
+Die Spiele moecht' ich sehn!
+
+Alexandra.
+                           Der Wunsch wird dir
+Erfuellt, sobald Herodes wiederkehrt,
+Er denkt sie einzufuehren!
+
+Sameas.
+                         Nimmermehr!
+
+Alexandra.
+Ich sagt' es dir! Warum auch nicht? Wir haben
+Der Loewen ja genug! Der Berghirt wird
+Sich freuen, wenn sich ihre Zahl vermindert,
+Er spart dann manches Rind und manches Kalb.
+
+Sameas.
+Vom uebrigen noch abgesehn, wo faende
+Er Kaempfer? Sklaven gibt es nicht bei uns,
+Die ihm auf Tod und Leben pflichtig sind.
+
+Alexandra.
+Den ersten--seh ich vor mir!
+
+Sameas.
+                            Wie?
+
+Alexandra.
+                                Gewiss!
+Du wirst, wie jetzt, dein Angesicht verziehn,
+Du wirst vielleicht sogar die Faeuste ballen,
+Die Augen rollen und die Zaehne fletschen,
+Wenn du den grossen Tag erlebst, an dem
+Er feierlich, wie Salomo den Tempel,
+Die heidnische Arena weihen wird.
+Das wird ihm nicht entgehn, und des zum Lohn
+Wird er den Wink dir geben, einzutreten
+Und allem Volk zu zeigen, was du kannst,
+Wenn du dem Loewen gegenueberstehst,
+Der tagelang vorher gehungert hat.
+Denn, da es uns an Sklaven fehlt, so sollen
+Die todeswuerdigen Verbrecher sie
+Ersetzen, und wer waer' noch todeswuerdig,
+Wenn der nicht, der dem Koenig offen trotzt!
+
+Sameas.
+Er koennte--
+
+Alexandra.
+           Zweifle nicht! Es waere schlimm
+Wenn ihm zu frueh der Kopf genommen wuerde,
+Es wuerden Plaene mit ihm untergehn,
+Die selbst Pompejus, der doch heidenkeck
+Ins Allerheiligste zu treten wagte,
+Vielleicht--
+
+Sameas (ausbrechend).
+            Antonius, wenn du ihn packst,
+So will ich dich ein Jahr lang nicht verfluchen!
+Und tust du's nicht, so--Nun, wir sind bereit!
+
+Alexandra.
+Er meint, wenn unser Volk sich mit den andern
+Nicht mischen sollte, wuerden wir den Erdball
+Von Gott fuer uns allein erhalten haben!
+
+Sameas.
+Meint er?
+
+Alexandra.
+         Da dem nun aber nicht so sei,
+So tu es not, die Daemme zu durchstechen,
+Die uns, wie einen stehnden See vom Meer,
+Von allen uebrigen noch immer trennten,
+Und das geschehe dadurch, dass wir uns
+In Brauch und Sitte ihnen anbequemten.
+
+Sameas.
+In Brauch und--(Gen Himmel.) Herr! wenn ich nicht rasen soll,
+So zeig mir an, wie dieser sterben wird!
+Zeig mir den Tod, der jedem andern Tod
+Die Schrecken abborgt und verkuende mir,
+Dass es Herodes ist, fuer den er's tut!
+
+Alexandra.
+Mach du den Todesengel!
+
+Sameas.
+                       Wenn an ihm nicht,
+So an mir selbst! Ich schwoer's! Wenn ich den Greuel
+Nicht hindern kann, so will ich meine Ohnmacht
+Durch Selbstmord strafen,
+        (Mit einer Bewegung gegen die Brust)
+
+                         eh' der Tag noch kommt,
+Den er zum ersten Mal beflecken soll!
+Das ist ein Schwur, der eine Missetat
+Mir abdringt, wenn ich einer Heldentat
+Nicht faehig bin. wer schwur noch Groesseres?
+
+Alexandra.
+Wohl! Nur vergiss nicht: wenn der eigne Arm
+Nicht stark genug ist, um den Feind zu stuerzen,
+So muss man einen fremden nicht verschmaehn!
+
+Samea.
+Und diesen fremden?
+
+Alexandra.
+Waffnest du dir leicht!
+
+Sameas.
+Sprich deutlicher
+
+Alexandra.
+                   Wer setzte den Herodes
+Zum Koenig ein?
+
+Sameas.
+                Antonius! Wer sonst?
+
+Alexandra.
+Weswegen tat er's?
+
+Sameas.
+                  Weil er ihm gefiel!
+Vielleicht auch bloss, weil er uns nicht gefiel!
+Wann hat ein Heide einen bessern Grund?
+
+Alexandra.
+Und weiter! Was erhaelt ihn auf dem Thron?
+
+Sameas.
+Des Volkes Segen nicht! Vielleicht sein Fluch!
+Wer kann es sagen?
+
+Alexandra.
+Ich! Nichts, als der Pfiff,
+Den Zins, den wir dem Roemer zahlen muessen,
+Alljaehrlich vorm Verfalltag einzuschicken
+Und ihn sogar freiwillig zu verdoppeln,
+Wenn sich ein neuer Krieg entzuendet hat.
+Der Roemer will nur unser Gold, nicht mehr,
+Er laesst uns unsern Glauben, unsern Gott,
+Er wuerde ihn sogar mit uns verehren,
+Und neben Jupiter und Ops und Isis
+Ihm auf dem Capitol den Winkel goennen,
+Der unbesetzt geblieben ist bis heut,
+Waer' er nur auch, wie die, von Stein gemacht.
+
+Sameas.
+Wenn dem so ist, und leider ist es so,
+Was hast du von Antonius zu hoffen?
+In diesem Punkt, du selber sprachst es aus,
+Versaeumt Herodes nichts. Noch jetzt--ich habe
+Ihn ziehen sehn! Dem einen Maultier brach
+Der Rueckgrat, eh' es noch das Tor erreichte!
+Fuer jeden Tropfen Bluts in seinen Adern
+Bringt er ihm eine Unze Goldes dar:
+Glaubst du, er weist es deinethalb zurueck?
+
+Alexandra.
+Gewiss nicht, fuehrt' ich meine Sache selbst!
+Allein das tut Cleopatra fuer mich,
+Und hoffentlich tut's Mariamne auch.
+Du staunst? Versteh mich recht! Nicht in Person,
+Da kehrt sie sich wohl eher gegen mich,
+Nur durch ihr Bild, und nicht einmal durch das,
+Nein, durch ein andres, das ihr freilich gleicht.
+Denn wie ein wilder Wald nicht bloss den Loewen
+Beherbergt, auch den Tiger, seinen Feind,
+So nistet auch in dieses Roemers Herzen
+Ein ganzes Wurmgeschlecht von Leidenschaften,
+Die um die Herrschaft miteinander ringen,
+Und wenn Herodes auf die erste baut,
+Ich baue auf die zweite, und ich glaube,
+Dass die der andern ueberlegen ist.
+
+Sameas.
+Du bist--
+
+Alexandra.
+         Kein Hirkan, wenn auch seine Tochter!
+Doch, dass du nicht missdeutest, was ich tat:
+Ich bin auch Mariamne nicht! Und wenn
+Antonius den Gemahl, der sie besitzt,
+Vertilgt, um sich den Weg zu ihr zu bahnen:
+Sie bleibt die Herrin ihrer selbst und kann
+Sich huellen in ein ew'ges Witwenkleid.
+Des aber halt ich mich gewiss, schon hat er
+Die Hand ans Schwert gelegt, und wenn er's noch
+Nicht zog, so hielt ihn nur die Ruecksicht ab,
+Dass dieser glueckliche Soldat Herodes
+Den Roemern fuer den Ring von Eisen gilt,
+Der alles hier bei uns zusammenhaelt.
+Schaff du ihm den Beweis des Gegenteils,
+Erreg Empoerung, stoer den schlaffen Frieden,
+So wird er's ziehn!
+
+Sameas.
+                   Den schaffe ich ihm leicht!
+Schon schlug das Volk ihn in Gedanken tot,
+Es wird erzaehlt--
+
+Alexandra.
+                 Drueck du dein Siegel drauf,
+Und dann eroeffne rasch sein Testament!
+Den Inhalt kennst du jetzt, die Fechterspiele
+Stehn obenan, und wenn ein jeder sich
+Durch seinen Tod um hundert Rutenstreiche
+Verkuerzt glaubt, oder um das Marterkreuz,
+So glaubt ein jeder, was er glauben darf.
+Denn Dinge stehen Israel bevor,
+Die manchem Herzen den Verzweiflungswunsch
+Abdringen werden, dass das Rote Meer
+Das ganze Volk, die heiligen zwoelf Staemme,
+Verschlungen haett', und Moses selbst zuerst.
+
+Sameas.
+Ich geh! Und eh' der Mittag kommt--
+
+Alexandra.
+                                   Ich weiss,
+Was du vermagst, wenn du den Sack ergreifst
+Und Wehe! rufend, durch die Gassen ziehst,
+Als waer' dein Vorfahr Jonas wieder da.
+Es wird sich zeigen, dass es nuetzlich ist,
+Zuweilen bei dem Fischer vorzusprechen,
+Und mit dem Herrn Gevatter zu verzehren,
+Was er sich selbst goennt, weil es niemand kaeuft.
+
+Sameas.
+Es wird sich zeigen, dass wir Pharisaeer
+Die Schmach, die wir erlitten, nicht vergassen,
+Wie du zu meinen scheinst. Vernimm denn jetzt,
+Was du erst durch die Tat erfahren solltest:
+Wir sind schon laengst verschworen gegen ihn,
+Wir haben ganz Judaea unterwuehlt,
+Und in Jerusalem,--damit du siehst,
+Wie fest wir auf das Volk zu zaehlen haben,--
+Ist selbst ein Blinder mit in unserm Bund!
+
+Alexandra.
+Was nuetzt euch der?
+
+Sameas.
+Nichts! Und er weiss es selbst!
+Doch ist er so von Hass und Grimm erfuellt,
+Dass er das Unternehmen mit uns teilen
+Und lieber sterben, als in dieser Welt,
+Wenn es misslingt, noch laenger leben will.
+Ich denke doch, dass dies ein Zeichen ist! (Ab.)
+
+
+
+
+Zweite Szene
+
+Alexandra (allein).
+Schon schlug das Volk ihn in Gedanken tot!
+Ich weiss! Ich weiss! Und daran kann ich sehn,
+Wie sehr man's wuenscht, dass er nicht wiederkehrt.
+Es traf sich gut, dass ihn der Heuschreckschwarm.
+Bedeckte, als er fortzog, denn das gilt
+Als Omen, dass man's nicht vergebens wuenscht.
+Auch ist es moeglich, dass er wirklich jetzt
+Schon ohne Kopf--Das nicht! Sprich, wie du denkst,
+Der Pharisaeer lauscht nicht vor der Tuer!
+Antonius ist zwar Antonius,
+Doch auch ein Roemer, und ein Roemer faellt
+Das Urteil langsam, wie er's schnell vollzieht.
+Gefangner mag er sein, wenn er auch nicht
+Im Kerker sitzt! Und wenn man das benutzt,
+Kann's weiter fuehren. Darum ist es gut,
+Wenn jetzt ein Aufstand kommt, obgleich ich weiss,
+Was es an sich bedeutet, und nicht minder,
+Was es fuer Folgen haben wird, wenn er
+Doch noch zurueckkehrt. Wenn! Es kann geschehn,
+Bedenk es wohl! Er schickte, als er ging,
+Dir einen abgeschlagnen Kopf zum Abschied,
+Das zeigt dir--pfui, ich sprech ja, wie mein Vater!
+Es zeigt mir, dass er rasch ist, wie Tyrannen
+Es sind, und auch, dass er mich schrecken moechte.
+Das eine wusst' ich laengst, das andre soll
+Ihm nicht gelingen! Wenn das Schlimmste kaeme,
+Wenn alles mir missglueckte, und wenn er,
+Trotz seiner Leidenschaft fuer Mariamne,
+Die eher steigt, als faellt, und die mich schuetzt,
+Sobald sie selbst nur will, das aergste wagte--
+Was waer's? Um Rache setzt' ich alles ein,
+Und Rache wuerde mir im Tode noch,
+Rache an ihm, der's taete, und an ihr,
+Die es geschehen liesse, nimmer saehe
+Das Volk, und nimmer Rom, geduldig zu.
+Und was mich selbst betrifft, so wuerde ich
+In diesem blut'gen Fall nur um so besser
+Zu meinen Ahnen passen! Mussten doch
+Die meisten meines Stamms, die aeltermuetter,
+Wie aeltervaeter, ohne Kopf die Welt
+Verlassen, weil sie ihn nicht beugen wollten,
+Ich teilte dann ihr Los, was waer' es mehr?
+
+
+
+
+Dritte Szene
+
+Mariamne tritt ein.
+
+Alexandra (fuer sich).
+Sie kommt! Ja, waer' sie von ihm abzuziehn
+Und zu bewegen, mir nach Rom zu folgen,
+Dann--Doch, sie hasst und liebt ihn jetzt zugleich!
+Wag ich noch einen letzten Sturm? Es sei!
+        (Sie eilt auf Mariamne zu.)
+Du suchst den Trost, wo er zu finden ist!
+Komm an mein Herz!
+
+Mariamne.
+                  Den Trost?
+
+Alexandra.
+                            Brauchst du ihn nicht?
+Dann hab ich dich verkannt! Doch hatt' ich Grund,
+Dich fuer ein Weib, wie du keins bist, zu halten,
+Du warst bei mir verleumdet!
+
+Mariamne.
+                            Ich? Bei dir?
+
+Alexandra.
+Man sprach mir von Umarmungen und Kuessen,
+Die du dem brudermoerdrischen Gemahl
+Gleich nach dem Mord--Verzeih, ich haette es
+Nicht glauben sollen.
+
+Mariamne.
+                     Nicht?
+
+Alexandra.
+                           Nein! Nimmermehr!
+Aus mehr als einem Grund nicht! Haettest du
+Dem blut'gen Schatten deines Bruders auch
+Das schwesterliche Opfer einer Rache
+Herzlos entziehen koennen, die du nicht
+Durch Judiths Schwert und nicht durch Rahabs Nagel,
+Nein, einzig durch ein Wenden deines Mundes
+Und durch ein stilles Kreuzen deiner Arme
+Dir nehmen und dem Toten weihen solltest:
+Er selbst, der Moerder, haette nicht gewagt,
+Sich dir zu naehern, denn du gleichst dem Toten,
+Du waerst ihm vorgekommen, wie der Leichnam
+Des Aristobolus, den man geschminkt,
+Er haett' sich schaudernd von dir abgewandt.
+
+Mariamne.
+Er tat das eine nicht, noch ich das andre!
+
+Alexandra.
+So sei--Doch nein! Vielleicht blieb dir ein Zweifel
+An seiner Schuld noch. Willst du den Beweis?
+
+Mariamne.
+Ich brauch ihn nicht!
+
+Alexandra.
+                     Du brauchst--
+
+Mariamne.
+                                  Er gilt mir nichts!
+
+Alexandra.
+Dann--Doch ich halt den Fluch auch jetzt zurueck,
+Es hat dich ja ein andrer schon getroffen!
+Du gehst noch in den Ketten einer Liebe,
+Die niemals ruhmvoll war--
+
+Mariamne.
+                          Ich daechte doch,
+Ich haett' mir den Gemahl nicht selbst gewaehlt,
+Ich haette mich nur in das Los gefuegt,
+Das du und Hirkan ueber mich, die Tochter
+Und Enkelin, mit Vorbedacht verhaengt.
+
+Alexandra.
+Ich nicht, mein feiger Vater schloss den Bund.
+
+Mariamne.
+So tat er, was dir nicht gefiel?
+
+Alexandra.
+                                Das nicht!
+Sonst waere ich zuvor mit dir entflohn,
+Mir stand die Freistatt in aegypten offen,
+Ich sag nur, der Entschluss ging aus von ihm,
+Dem ersten Hohenpriester ohne Mut,
+Und ich bekaempfte bloss den Widerwillen,
+Mit dem ich anfangs ihn vernahm. Allein
+Ich tat es, denn ich fand des Feiglings Handel
+In kurzem gut, und gab fuer Edoms Schwert
+Die Perle Zions, als er draengte, hin!
+Ja, waer' die Schlange, die Cleopatra
+Um jene Zeit gestochen, eine gift'ge
+Gewesen, oder waer' Antonius
+Auch nur auf seinem Zug hieher gekommen,
+Ich haette nein gesagt! Nun sagt' ich ja!
+
+Mariamne.
+Und dennoch--
+
+Alexandra.
+             Ich erwartete von dir,
+Dass du den Kaufpreis nicht vertaendeln wuerdest,
+Und dass du den Herodes--
+
+Mariamne.
+                        Oh, ich weiss!
+Ich haette mir von ihm fuer jeden Kuss
+Im voraus einen Kopf, der dir missfiel,
+Bedingen und zuletzt, wenn keiner dir
+Mehr trotzte, als sein eigner, ihn zum Selbstmord
+Bewegen, oder auch, wenn das nicht ging,
+An ihm in stiller Nacht die Katzentat
+Der Judith listig wiederholen sollen,
+Dann haettst du mich mit Stolz dein Kind genannt!
+
+Alexandra.
+Mit groesserem, als jetzt, ich leugn' es nicht.
+
+Mariamne.
+Ich zog es vor, dem Mann ein Weib zu sein,
+Dem du mich zugefuehrt, und ueber ihn
+Die Makkabaeerin so zu vergessen,
+Wie er den Koenig ueber mich vergass.
+
+Alexandra.
+Du schienst dich doch in Jericho auf sie
+Noch einmal zu besinnen, wenigstens
+Warst du die erste, die mit einer Klage
+Hervortrat, als ich selbst sie noch zurueckhielt,
+Um dich zu pruefen. War's nicht so?
+
+Mariamne.
+                                  In Jericho
+Verwirrte mich das graessliche Ereignis,
+Es kam zu schnell, vom Tisch ins Bad, vom Bad
+Ins Grab, ein Bruder, ja, mir schwindelte!
+Doch, wenn ich meinem Koenig und Gemahl
+Argwoehnisch und verstockt die Tuer verschloss,
+Bereu ich's jetzt, und kann's mir nur verzeihn,
+Weil es geschehn ist, wie in Fiebers Glut!
+
+Alexandra.
+In Fiebers Glut!
+
+Mariamne (halb fuer sich).
+                Auch haett' ich's nicht getan,
+Waer' er in Trauerkleidern nicht gekommen!
+Rot, dunkelrot haett' ich ihn sehen koennen,
+Doch--
+
+Alexandra.
+      Ja, die fand er rasch! Er hatte sie
+Voraus bestellt, wie andre Moerder sich,
+Wo moeglich, Wasser schoepfen, eh' sie morden--
+
+Mariamne.
+Mutter, vergiss nicht!
+
+Alexandra.
+                     Was? Dass du das Weib
+Des Moerders bist? Das bist du erst geworden,
+Und bist es nur so lange, als du willst,
+Ja, bist's vielleicht, wer weiss! schon jetzt nicht mehr;
+Des Toten Schwester aber warst du stets
+Und wirst es bleiben, wirst es dann sogar
+Noch sein, wenn du--du scheinst dazu geneigt--
+Ins Grab ihm nachrufst: Dir ist recht geschehn!
+
+Mariamne.
+Ich bin dir Ehrfurcht schuldig, und ich moechte
+Sie nicht verletzen, darum halte ein!
+Ich koennte sonst--
+
+Alexandra.
+                  Was koenntest du?
+
+Mariamne.
+                                  Mich fragen,
+Wer schuld ist an der Tat, ob der, der sie
+Vollbrachte, weil er musste, oder die,
+Die sie ihm abdrang! Lass den Toten ruhn!
+
+Alexandra.
+So sprich zu einer, die ihn nicht gebar!
+Ich trug ihn unterm Herzen, und ich muss
+Ihn raechen, da ich ihn nicht wecken kann,
+Dass er sich selber raeche!
+
+Mariamne.
+                         Raech ihn denn,
+Doch raech ihn an dir selbst! Du weisst recht gut,
+Dass es der Hohepriester war, der rings
+Vom Volk Umjauchzte, selbst schon Schwindelnde,
+Und nicht der Juengling Aristobolus,
+Der gegen sich hervorrief, was geschah.
+Wer trieb den Juengling nun, das sag mir an,
+Aus seiner Selbstzufriedenheit heraus?
+Es fehlt' ihm ja an bunten Roecken nicht,
+Die Blicke schoener Maedchen anzuziehn,
+Und mehr bedurft' er nicht zur Seligkeit.
+Was sollt' ihm Aarons Priestermantel noch,
+Den du zum ueberfluss ihm ueberhingst?
+Ihm kam von selbst ja kein Gedanke drin,
+Als der: wie steht er mir? Doch andre hielten
+Ihn seit dem Augenblick, dass er ihn trug,
+Fuers zweite Haupt von Israel, und dir
+Gelang es bald, ihn selbst so zu betoeren,
+Dass er sich fuer das erste, einz'ge hielt!
+
+Alexandra.
+Du laesterst ihn und mich!
+
+Mariamne.
+                         Ich tu es nicht!
+Wenn dieser Juengling, der geboren schien,
+Der Welt den ersten Gluecklichen zu zeigen,
+Wenn er so rasch ein dunkles Ende fand,
+Und wenn der Mann, der jeden andern Mann,
+Wie er sein Schwert nur zieht, zum Weibe macht,
+Wenn er--ich weiss nicht, ob er's tat, doch fuercht' ich's;
+Dann tragen Ehrsucht, Herrschgier, zwar die Schuld,
+Doch nicht die Ehrsucht, die der Tote hegte,
+Und nicht die Herrschgier, die den Koenig plagt!
+Ich will dich nicht verklagen, mir geziemt's nicht,
+Ich will dafuer, dass du uns ein Gespenst,
+Ein blut'ges, in die Ehekammer schicktest,
+Von dir nicht eine Reuetraene sehn,
+Obgleich wir nie jetzt mehr zu zweien sind,
+Und mir der Dritte so den Sinn verstoert,
+Dass ich verstumme, wenn ich reden sollte,
+Und dass ich rede, wenn zu schweigen waer';
+Ich will nicht einmal deinen Rachedurst
+Ersticken, will nicht fragen, was du raechst,
+Ob deine Plaene oder deinen Sohn:
+Tu, was du willst, geh weiter, halte ein,
+Nur sei gewiss, dass du, wenn du Herodes
+Zu treffen weisst, auch Mariamne triffst;
+Den Schwur, den ich zurueckhielt, als er scheidend
+Ihn foderte, den leist ich jetzt: Ich sterbe,
+Wenn er stirbt. Handle denn und sprich nicht mehr!
+
+Alexandra.
+So stirb! Und gleich! Denn--
+
+Mariamne.
+                            Ich verstehe dich
+Und deshalb glaubtest du, ich brauchte Trost?
+O nein! Du irrst! Es schreckt mich nicht,
+Wenn das Gesindel, das die Auserwaehlten
+Nur, weil sie menschlich-sterblich sind, ertraegt,
+Ihn mit dem Mund schon totgeschlagen hat.
+Was bleibt dem Sklaven uebrig, wenn der Koenig
+In Pracht und Herrlichkeit vorueberbraust,
+Als sich zu sagen: Er muss dran, wie ich!
+Ich goenn ihm das! Und wenn er an den Thron
+Ganz dicht ein Schlachtfeld rueckt mit tausend Graebern,
+So lob ich's, es erstickt in ihm den Neid!
+Doch, dass Herodes lebt und leben wird,
+Sagt mir mein Herz. Der Tod wirft einen Schatten,
+Und der faellt hier hinein!
+
+
+
+
+Vierte Szene
+
+Ein Diener.
+                          Der Vizekoenig!
+
+Alexandra.
+Gewiss bewaffnet, wie er immer ist,
+Wenn er zu uns kommt, seit es ihm misslang,
+Durch Schmeichelei den Sinn uns zu betoeren,
+Wie er's im Anfang zu versuchen schien.
+Weisst du, dass Salome in jener Zeit
+Vor Eifersucht verging?
+
+Mariamne.
+                       Sie tut's noch jetzt!
+Denn laechelnd und vertraulich sag ich ihm,
+Wenn sie dabei ist, stets die schlimmsten Dinge,
+Und da sie selbst nicht muede wird, zu spaehn,
+So werde ich nicht muede, sie zu strafen
+Fuer ihre Torheit!
+
+(Joseph tritt ein.)
+
+Alexandra (auf Josephs Waffen deutend).
+
+                 Siehst du?
+
+Mariamne.
+                           Mag er doch!
+Sein Weib verlangt's, damit sie traeumen kann,
+Sie habe einen kriegrischen Gemahl.
+
+Alexandra (zu Joseph).
+Ich bin noch da!
+
+Joseph.
+                 Ein seltsamer Empfang.
+
+Alexandra.
+Mein Sohn ist auch noch da! Er hat, wie einst,
+In eine Totenkiste sich versteckt.
+Jag ihn heraus, ich will's dafuer verzeihn,
+Dass du das einmal ungeheissen tatst.
+Du musst die Kiste aber diesmal nicht
+Auf einem Schiff, das nach aegypten segelt,
+Du musst sie suchen in des Kirchhofs Bauch.
+
+Joseph.
+Ich bin nicht der, der Tote wecken kann!
+
+Alexandra (mit Hohn gegen Mariamne).
+Wohl wahr! Sonst waerst du sicher mitgezogen,
+Um deinen Herrn, wenn ihn sein Knien und Flehn
+Vor dem Liktorenbeil nicht schuetzen sollte--
+
+Mariamne.
+Er kniet und fleht!
+
+Joseph (zu Mariamne).
+                   Ich kann dir zeigen wie!
+"Man hat mich des geziehn!" Ich raeum es ein.
+"Des aber nicht!" Ich fueg es gleich hinzu,
+Damit du alles weisst!--So wird er's machen.
+
+Alexandra.
+Prahlst du fuer ihn?
+
+Joseph.
+                   So hat er's schon gemacht!
+Ich stand dabei, da ihn die Pharisaeer
+Verklagen wollten beim Antonius.
+Er hatte es statt ihrer selbst getan,
+Vorausgeeilt ins Lager, wie er war,
+Und sagte, als sie kamen, Punkt fuer Punkt
+Die Rechnung wiederholend und ergaenzend:
+Sprecht, ob ich etwas ausliess oder nicht!
+Den Ausfall kennst du, mancher von den Klaegern
+Verlor den starren Kopf, als sie nicht wichen,
+Er trug des Roemers volle Gunst davon.
+
+Alexandra.
+Da waren beide juenger, wie sie jetzt sind.
+Des einen uebermut gefiel dem andern
+Und um so mehr; weil er auf fremde Kosten
+Geuebt ward, nicht auf eigne. Kann dem Roemer
+Der Pharisaeer denn was sein, des Zunge
+Bestaendig Aufruhr predigt gegen Rom?
+Wer dem den Bart rauft, kuerzt sein Ansehn! dachte
+Antonius und lachte, doch ich zweifle,
+Ob er das auch geschehn laesst an sich selbst!
+
+Joseph.
+Du sprichst, als wuenschtest du--
+
+Alexandra.
+                                Ob unsre Wuensche
+Zusammengehn, ob nicht, was kuemmert's dich?
+Halt du den deinen fest! Fuer dich ist's wichtig,
+Dass er zurueckkehrt!
+
+Joseph.
+                   Meinst du? Wenn fuer mich,
+So auch fuer dich!
+
+Alexandra.
+                 Ich wuesste nicht, warum?
+Es gab schon einmal eine Alexandra,
+Die eine Krone trug in Israel,
+Die zugriff, als sie frei geworden war,
+Und sie nicht liegen liess fuer einen Dieb.
+Es soll, bei Gott! nicht an der zweiten fehlen,
+Wenn's wirklich (zu Mariamne) Makkabaeerinnen gibt,
+Die kind'sche Schwuere halten!
+
+Joseph (aushorchend).
+                             Es ist wahr!
+Solch eine Alexandra gab's einmal,
+Doch, wer ihr Ziel erreichen will, der muss
+Ihr Beispiel ganz befolgen, nicht nur halb.
+Sie soehnte sich, als sie den Thron bestieg,
+Mit allen ihren Feinden aus, nun hatte
+Niemand von ihr zu fuerchten, nur zu hoffen,
+Kein Wunder, dass sie fest sass bis zum Tod!
+
+Mariamne.
+Das find ich klaeglich! Wozu einen Zepter,
+Wenn nicht, um Hass und Liebe zu befried'gen?
+Die Fliegen zu verscheuchen g'nuegt ein Zweig!
+
+Joseph.
+Sehr wahr!
+(Zu Alexandra.) Und du?
+
+Alexandra.
+                       Sie sah im Traum wohl nie
+Den Ahnherrn ihres Stamms, den grossen Judas,
+Sonst haett' sie wahrlich keinen Feind gescheut,
+Denn noch vom Grab aus schuetzt er seine Enkel,
+Weil er in keinem Herzen sterben kann.
+Wie sollt' er auch! Es kann ja niemand beten,
+Der sich nicht sagen muss: ich dank es ihm,
+Dass ich noch knieen darf vor meinem Gott
+Und nicht vor Holz, vor Erz und Stein!
+
+Joseph (fuer sich).
+                                      Der Koenig
+Hat recht gehabt! Ich muss die Tat vollbringen,
+Und zwar an beiden, oder sie erleiden.
+Ich muss mir auf das Haupt die Krone setzen,
+Wenn ich's vorm Beil des Henkers sichern will.
+Hier starrt mir eine Welt von Hass entgegen!
+Wohlan, sie sprachen sich das Urteil selbst;
+Ich hab sie jetzt zum letzten Mal geprueft,
+Und waere nur sein Bote da, ich wuerde
+Es mitleidslos den Augenblick vollziehn!
+Jedwede Vorbereitung ist getroffen.
+
+
+
+
+Fuenfte Szene
+
+Ein Diener.
+Der Hauptmann Titus bittet um Gehoer!
+
+Joseph.
+Sogleich! (Will gehen.)
+
+Alexandra.
+         Warum nicht hier?
+
+Der Diener.
+                          Da ist er schon!
+
+Titus (tritt ein; zu Joseph, heimlich).
+Was du befuerchtetest, geschieht, das Volk
+Empoert sich!
+
+Joseph.
+            Tu denn rasch, was ich befahl,
+Stell die Kohorte auf und ruecke aus!
+
+Titus.
+Das tat ich schon. Nun komm ich, dich zu fragen,
+Ob du Gefangne oder Tote willst?
+Mein Adler packt so gut, als er zerfleischt,
+Und du musst wissen, was dir besser frommt.
+
+Joseph.
+Blut darf nicht fliessen!
+
+Titus.
+                        Gut! So hau ich ein,
+Eh' sie die Steinigung begonnen haben,
+Sonst taet' ich's spaeter!
+
+Joseph.
+                        Sahst du Sameas?
+
+Titus.
+Den Pharisaeer, der sich einst die Stirn
+An meinem Schild fast einstiess, weil er stets
+Die Augen schliesst, sobald er mich erblickt?
+Den sah ich allerdings!
+
+Joseph.
+        Und wie? Sprich laut!
+
+Titus.
+Auf offnem Markt, von Tausenden umringt,
+Herodes laut verfluchend!
+
+Joseph (zu Alexandra).
+                         Sameas
+Ging erst vor einer Stunde fort von dir!
+
+Alexandra.
+Sahst du's?
+
+Titus. (zu Joseph).
+           Erscheinst du selbst?
+
+Joseph.
+                                Sobald ich kann!
+Einstweilen--
+
+Titus.
+              Wohl! Ich geh! (Will gehen.)
+
+Alexandra (ruft ihn um).
+                            Ein Wort noch, Hauptmann
+Warum entzogst du uns die Wache?
+
+Mariamne.
+                                Fehlt sie?
+
+Alexandra.
+Seit gestern abend. Ja!
+
+Joseph.
+                       Weil ich's gebot!
+
+Titus.
+Und weil der Koenig, als er ging, mir sagte:
+Dies ist der Mann, der meinen Willen weiss,
+Was er gebietet, das gebiet ich selbst! (Ab.)
+
+Alexandra (zu Joseph).
+Und du?
+
+Joseph.
+       Ich dachte, Judas Makkabaeus
+Waer' Schutz genug fuer dich und deine Tochter.
+Im uebrigen, du hoerst, wie's draussen steht:
+Ich brauche die Soldaten! (Fuer sich.) Wenn die Roemer
+So nahe waeren, koennt' es mir missgluecken!
+Heut schickt' ich Galilaeer!
+
+Alexandra (zu Mariamne).
+                           Meinst du noch,
+Mein Argwohn habe keinen Grund?
+
+Mariamne.
+                               Ich weiss nicht,
+Doch jetzt steckt er mich an. Dies find ich seltsam!
+Obgleich--Wenn aus der Wand ein Wurfspiess fuehre,
+Es kaeme mir nicht unerwarteter!
+
+Alexandra.
+Zwei Stoesse, und der Weg zum Thron ist frei;
+Denn, gibt es keine Makkabaeer mehr,
+So kommen die Herodianer dran.
+
+Mariamne.
+Ich wuerde dich noch, jetzt verlachen, waere
+Nicht Salome sein Weib!--Bei meinem Bruder,
+Ihr Kopf ist mein! Ich spreche zu Herodes:
+Wie du mich raechst an ihr, so liebst du mich!
+Denn sie, nur sie ist's! Der da nimmermehr!
+
+Alexandra.
+Du triumphierst zu frueh! Erst gilt's zu handeln,
+Und diesen Aufstand, daecht' ich, nutzten wir!
+
+Mariamne.
+Mit diesem Aufstand hab ich nichts zu schaffen,
+Denn wenn Herodes wiederkehrt, so bleibt
+Mir nichts zu fuerchten, und wenn nicht, so kommt
+Der Tod in jeglicher Gestalt mir recht!
+
+Alexandra.
+Ich geh! (Will ab.)
+
+Joseph (vertritt ihr den Weg).
+                   Wohin?
+
+Alexandra.
+                         Fuers erste auf die Zinne
+Und dann, wohin es mir gefallen wird!
+
+Joseph.
+Zur Zinne steht der Weg dir frei! Die Burg
+Ist abgesperrt!
+
+Alexandra.
+               So waeren wir Gefangne?
+
+Joseph.
+Solange, bis die Ruhe hergestellt ist,
+Muss ich dich bitten--
+
+Alexandra.
+                     Was erkuehnst du dich?
+
+Joseph.
+Ein Stein ist blind, ein roem'scher Wurfspiess auch,
+Sie treffen beide oft, was sie nicht sollen,
+Drum muss man ihnen aus dem Wege gehn!
+
+Alexandra (zu Mariamne).
+Ich steig hinauf und suche meinen Freunden
+Durch Zeichen kundzutun, wie's mit uns steht.
+
+Mariamne.
+Durch Zeichen--deinen Freunden--Mutter, Mutter!
+So bist du's wirklich selbst und nicht das Volk?
+Wenn du dir selbst nur nicht die Grube graebst!
+
+(Alexandra will gehen.)
+
+Joseph.
+Du wirst gestatten, dass dich mein Trabant
+Begleitet. Philo!
+
+Alexandra.
+                 Also offner Krieg?
+
+(Philo tritt ein.)
+
+Joseph (redet mit ihm, anfangs leise, dann laut).
+Du hast verstanden?
+
+Philo.
+                   Ja!
+
+Joseph.
+                      Im schlimmsten Fall!
+
+Philo.
+Den wart ich ab, dann--
+
+Joseph.
+                       Und mir buergt dein Kopf!
+(Fuer sich.) Mir daeucht, Herodes' Geist ist ueber mir!
+
+Alexandra (fuer sich).
+Ich gehe doch! Vielleicht ist der Soldat,
+Obgleich ein Galilaeer, zu gewinnen!
+Versuchen will ich es! (Ab.)
+
+(Philo folgt ihr.)
+
+Joseph (fuer sich).
+                            Ich kann nicht anders,
+Wie sehr es mich verdaecht'gen mag, der Aufruhr
+Zwingt mich zu diesem Schritt, ich darf sie jetzt
+Nicht aus den Augen lassen, wenn ich mir
+Die Tat nicht selbst unmoeglich machen will,
+Denn jede Stunde kann sein Bote kommen!
+Ihn selbst erwarte ich schon laengst nicht mehr.
+
+Mariamne.
+Wann starb Herodes?
+
+Joseph.
+                   Wann er starb?
+
+Mariamne.
+                                 Und wie?
+Du musst es wissen, da du so viel wagst!
+
+Joseph.
+Was wag ich denn? Du gibst mir Raetsel auf!
+
+Mariamne.
+Nichts, wenn du glaubst, ich finde keinen Schutz,
+Sobald die Roemer hoeren, dass mein Leben
+Bedroht ist, alles, wenn du darin irrst.
+
+Joseph.
+Und wer bedroht dein Leben?
+
+Mariamne.
+                           Fragst du noch?
+Du!
+
+Joseph.
+   Ich?
+
+Mariamne.
+       Kannst du das Gegenteil mir schwoeren?
+Kannst du's bei deines Kindes Haupt?--Du schweigst!
+
+Joseph.
+Du hast mir keine Schwuere abzufodern.
+
+Mariamne.
+Wer so verklagt wird, leistet sie von selbst.
+Doch weh dir, wenn Herodes wiederkehrt!
+Ich sag ihm zweierlei vorm ersten Kuss,
+Ich sag ihm, dass du sannst auf meinen Mord,
+Ich sag ihm, was ich schwur: ermiss nun selbst,
+Welch Schicksal dich erwartet, wenn er kommt!
+
+Joseph.
+Und was--was schwurst du? Wenn's mich schrecken soll,
+So muss ich's wissen.
+
+Mariamne.
+                    Hoer's zu deinem Fluch!
+Dass ich mit eigner Hand mich toeten will,
+Wenn er--Oh, haett' ich das geahnt! Nicht wahr?--
+Dann haette ich an einen kalten Gruss
+Mich nie gekehrt, ich haette fortgefahren,
+Wie ich begann, und alles stuende wohl!
+Denn anfangs warst du ein ganz andrer Mann!
+
+Joseph.
+Ich habe nichts zu fuerchten!
+
+Mariamne.
+                            Weil du meinst,
+Es sei unmoeglich, dass er wiederkehrt!
+Wer weiss! Und wenn! Ich halte meinen Schwur,
+Doch eher nicht, bis ich an dir mich raechte,
+Bis ich an dir, erzittre, so mich raechte,
+Wie er mich raechen wuerde! Zieh doch jetzt
+Sogleich dein Schwert! Du wagst es nicht? Ich glaub's!
+Und wie du mich auch hueten magst, ich finde
+Zum Hauptmann Titus sicher einen Weg!
+Verloren ist dein Spiel, seit ich's durchschaut.
+
+Joseph (fuer sich).
+Wahr, wahr! (Zu Mariamne.) Ich halte dich beim Wort! Du raechst
+Dich so, ganz so, wie er dich raechen wuerde!
+Das hast du mir gelobt! Vergiss es nicht!
+
+Mariamne.
+So spricht der Wahnwitz! Dass Herodes mich
+Mehr liebt, wie ich mich selber lieben kann,
+Wird keiner, wird nicht einmal Salome,
+Dein tueck'sches Weib, bezweifeln, wenn sie mich
+Auch eben darum doppelt hassen, wenn sie
+Auch eben darum dir den Mordgedanken
+Rachsuechtig eingegeben haben mag!
+Dass er von ihr kommt, weiss ich, und ich will
+Sie treffen, dass sie's fuehlt, ihr Schmerz um dich
+Soll meine letzte Lust auf Erden sein!
+
+Joseph.
+Du irrst dich! Doch gleichviel! Ich hab dein Wort!
+
+Mariamne.
+Du wiederholst es noch einmal? Verruchter,
+Welch einen Aufruhr naechtlicher Gedanken
+Weckst du mir in der Brust und welchen Argwohn!
+Du sprichst, als ob Herodes selber mich
+Zum Opfertier und dich zum Opferpriester
+Erkoren haette. Ist es so? Beim Abschied
+Entfiel ihm, mit Entsetzen denk ich dran,
+Ein dunkles Wort. Gib Antwort!
+
+Joseph.
+                              Diese geb ich
+Sobald es noetig ist, sobald ich weiss,
+Dass er--
+
+Mariamne.
+        Dich nicht mehr Luegen strafen kann,
+Wenn du ihn feig und schlecht des Schrecklichsten,
+Des Masslos-Ungeheuersten verklagtest,
+Bloss um dich selbst vor mir zu reinigen?
+Ich sage dir, ich hoere dich nur jetzt,
+Wo er vielleicht, eh' du noch endigtest,
+Schon in die Tuer tritt und dich niederstoesst!
+Schweig denn auf ewig, oder sprich sogleich!
+
+Joseph.
+Und wenn es waer'? Ich sag nicht, dass es ist!
+Doch wenn es waer'? Was wuerd' es anders sein,
+Als die Bestaet'gung dessen, was du fuehlst,
+Als ein Beweis, dass er dich liebt, wie nie
+Ein Mann sein Weib noch liebte?
+
+Mariamne.
+                               Was ist das?
+Mir deucht, schon einmal hab ich das gehoert!
+
+Joseph.
+Ich daechte doch, es koennte dir nur schmeicheln,
+Wenn ihm der Tod nicht halb so bitter waer',
+Als der Gedanke, dich--
+
+Mariamne.
+                       Was gilt die Wette,
+Ich selber bring es jetzt fuer dich zu Ende!
+Als der Gedanke, mich zurueckzulassen
+In einer Welt, wo ein Antonius lebt!
+
+Joseph.
+Nun ja! Ich sag nicht, dass er das gesagt--
+
+Mariamne.
+Er hat's gesagt! Er hat--Was hat er nicht!
+Oh, dass er endlich kaeme!
+
+Joseph.
+                        Mariamne!--(Fuer sich.)
+Wie hab ich mich verstrickt! Zwar tat ich nichts,
+Als was ich musste! Doch mich packt ein Grauen,
+Dass er--ich seh den Aristobolus.
+Verflucht die Tat, die einen Schatten wirft,
+Eh' sie ins Leben tritt!
+
+Mariamne.
+                        So war das mehr,
+Als eine tolle Blase des Gehirns,
+Wie sie zuweilen aufsteigt und zerplatzt,
+So war's--Von jetzt erst faengt mein Leben an,
+Bis heute traeumt' ich!
+
+
+
+
+Sechste Szene
+
+Ein Diener tritt ein; ihm folgt Salome.
+
+Salome (zum Diener).
+                      Ward's dir untersagt,
+Hier ungemeldet jemand einzulassen?
+Ich nehm's auf mich!
+
+Joseph.
+                    Du, Salome?
+
+Salome.
+                               Wer sonst?
+Kein boeser Geist! Dein Weib! Dein armes Weib,
+Um das du warbst, wie Jakob warb um Rahel,
+Und das du nun--(Zu Mariamne.) Verfluchte, war es dir
+Noch nicht genug, dass du das Herz des Bruders
+Mir abgewendet hast? Musst du mir jetzt
+Auch den Gemahl noch rauben? Tag und Nacht
+Denkt er an dich, als waerest du schon Witwe,
+Und ich noch weniger, als das! Bei Tage
+Folgt er auf Schritt und Tritt dir nach! Bei Nacht
+Traeumt er von dir, nennt aengstlich deinen Namen,
+Faehrt aus dem Schlummer auf--(Zu Joseph.) Hielt ich's dir nicht
+Noch diesen Morgen vor? Und heut sogar,
+Wo ganz Jerusalem in Aufruhr ist,
+Heut ist er nicht bei mir, nicht auf dem Markt,
+Wo ich, weil er nicht kam, ihn suchen liess,
+Er ist bei dir, und ihr--ihr seid allein!
+
+Mariamne.
+Die ist es sicher nicht! So ist er's selbst!
+Wenn noch ein Zweifel uebrigblieb, so hat
+Die bloede Eifersucht ihn jetzt erstickt!--
+Ich war ihm nur ein Ding und weiter nichts!
+
+Joseph (zu Salome).
+Ich schwoer dir--
+
+Salome.
+                Dass ich blind bin?
+Nein! Ich sehe!
+
+Mariamne.
+Der Sterbende, der seinen Feigenbaum
+Abhauen liesse, weil er seine Fruechte
+Nach seinem Tode keinem andern goennte,
+Der Sterbende waer' ruchlos, und er haette
+Den Baum vielleicht doch selbst gepflanzt und wuesste,
+Dass er den Dieb, dass er sogar den Moerder
+Erquicken muesste, der ihn schuettelte.
+Bei mir faellt beides weg! Und doch! Und doch!
+Das ist ein Frevel, wie's noch keinen gab.
+
+Salome (zu Joseph).
+Du sprichst umsonst! Ein Auftrag! Welch ein Auftrag?
+
+Mariamne.
+Ein Auftrag! Dies das Siegel!--Waer' es moeglich,
+Jetzt muesst' es doch am ersten moeglich sein!
+Allein es ist nicht moeglich! Keine Regung
+Unedler Art befleckt mein Innerstes,
+Wie es auch stuermt in meiner Brust! Ich wuerde
+Antonius in diesem Augenblick
+Dieselbe Antwort geben, die ich ihm
+An unsrem Hochzeitstag gegeben haette,
+Das fuehl ich, darum trifft's mich, wie's mich trifft,
+Sonst muesste ich's ertragen, ja verzeihn!
+
+Salome (zu Mariamne).
+Ich bin fuer dich nicht da, wie's scheint?
+
+Mariamne.
+
+                                         Doch! Doch!
+Du hast sogar die groesste Wohltat mir
+Erzeigt, ich, die ich blind war, sehe jetzt,
+Ich sehe hell und das allein durch dich!
+
+Salome.
+Verhoehnst du mich? Auch das sollst du mir buessen,
+Wenn nur mein Bruder wiederkehrt! Ich werde
+Ihm alles sagen--
+
+Mariamne.
+                 Was? Ja so! Das tu!
+Und hoert er drauf--Warum denn nicht? Was lach ich?
+Ist das denn noch unmoeglich?--Hoert er drauf,
+So nimm mein Wort: ich widersprech dir nicht!
+Ich liebe mich nicht mehr genug dazu!
+
+
+
+
+Siebente Szene
+
+Alexandra (stuerzt herein).
+Der Koenig!
+
+Joseph.
+          In der Stadt?
+
+Alexandra.
+                       Schon in der Burg!
+
+
+
+
+
+Dritter Akt
+
+Burg Zion. Alexandras Gemaecher.
+
+
+
+
+Erste Szene
+
+Alexandra. Joseph. Salome. Herodes tritt ein. Sein Gefolge. Soemus.
+
+Herodes.
+Da waer' ich wieder! (Zu Soemus.) Blutet's noch? Der Stein
+Hat mir gegolten, und er traf dich nur,
+Weil du gerade kamst, mir was zu sagen,
+Dein Kopf war diesmal deines Koenigs Schild!
+Waerst du geblieben, wo du warst--
+
+Soemus.
+                                 So haett' ich
+Die Wunde nicht, doch auch nicht das Verdienst,
+Wenn es ein solches ist. In Galilaea
+Wird hoechstens der gesteinigt, der es wagt,
+Sich dir und mir, der ich dein Schatten bin,
+Dein Sprachrohr, oder, was du immer willst,
+Zu widersetzen.
+
+Herodes.
+               Ja, da sind sie
+treu!
+Dem eignen Vorteil naemlich, und weil dieser
+Mit meinem Hand in Hand geht, meinem auch.
+
+Soemus.
+Wie sehr, das siehst du daran, dass du mich
+In deiner Hauptstadt findest.
+
+Herodes.
+                             In der Tat,
+Dich hier zu treffen, haett' ich nicht erwartet;
+Denn, wenn der Koenig fern ist, tun die Waechter
+Den stoerrigen Provinzen doppelt not!
+Was trieb dich denn von deinem Posten fort?
+Doch ganz gewiss was andres, als der Wunsch,
+Mir zu beweisen, dass er ungefaehrdet
+Verlassen werden koenne, und die Ahnung,
+Dass hier ein Steinwurf aufzufangen sei!
+
+Soemus.
+Ich kam herueber, um dem Vizekoenig
+Entdeckungen von wunderbarer Art
+In schuld'ger Eile muendlich mitzuteilen.
+Ich wollt' ihm melden, dass die Pharisaeer
+Sogar den starren Boden Galilaeas,
+Wenn auch umsonst, zu unterhoehlen suchen,
+Doch meine Warnung kam zu spaet, ich fand
+Jerusalem in Flammen vor und konnte
+Nur loeschen helfen!
+
+Herodes (reicht ihm die Hand).
+                   Und das tatest du
+Mit deinem Blut!--Sieh, Joseph, guten Tag!
+Dich haett' ich anderswo gesucht!--Schon gut!
+Jetzt aber geh und schaff den Sameas,
+Den Pharisaeer, den der Hauptmann Titus
+Auf Skythenart gefangenhaelt, hieher.
+Der starre Roemer schleppt ihn, an den Schweif
+Des Rosses, das er reitet, festgebunden,
+Mit sich herum, weil er im heil'gen Eifer
+Auf offnem Markt nach ihm gespieen hat.
+Nun muss er rennen, wie er niemals noch
+Gerannt sein mag, wenn er nicht fallen und
+Geschleift sein will. Ich haette ihn sogleich,
+Wie ich vorueberkam, erloesen sollen!
+Verdanke ich's doch sicher ihm allein,
+Dass ich jetzt alle Schlangen, die bisher
+Sich still vor mir verkrochen, kennenlernte!
+Nun kann ich sie zertreten, wann ich will!
+        (Joseph ab,--Herodes zu Alexandra.)
+Ich gruesse dich! Und vom Antonius
+Soll ich dir melden, dass man einen Fluss
+Nicht vor Gericht ziehn kann, und einen Koenig
+In dessen Land er fliesst, noch weniger,
+Weil er ihn nicht verschuetten liess! (Zu Soemus.) Ich waer'
+Laengst wieder hier gewesen, doch wenn Freunde
+Zusammenkommen, die sich selten sehn,
+So halten sie sich fest! Das wird auch dir,
+Ich sag es dir voraus, bei mir geschehn,
+Nun ich dich endlich einmal wieder habe.
+Du wirst mit mir die Feigen schuetteln muessen,
+So wie ich dem Antonius die Muraenen,
+Pfui, Schlemmerei! in Stroemen von Falerner
+Ersticken helfen und fuer manchen Schwank
+Aus unsrer fruehern Zeit ihm das Gedaechtnis
+Auffrischen musste! Mach dich nur gefasst,
+Mir gleichen Dienst zu leisten. Hab ich auch
+Vom Triumphator nicht genug in mir,
+Dass ich dich so zu mir entboten haette,
+Wie er mich selbst zu sich entbot, zum Schein
+Auf eine abgeschmackte Klage hoerend,
+Die Stirn, wie Caesar, runzelnd und den Arm
+Mit Blitz und Donnerkeil zugleich bewaffnend,
+Bloss um gewiss zu sein--dies war der Grund,
+Warum er's tat--dass ich auch wirklich kaeme,
+So mach ich mir den Zufall, der dich heute
+Mir in die Haende liefert, doch zunutz,
+Und sprech, wie er, wenn du von deinem Amt
+Zu reden anfaengst: Fuehrst du's, wie du sollst,
+So braucht es dich nicht jeden Augenblick!
+Du kommst so selten, dass es scheint, als waerst
+Du hier nicht gern,
+
+Soemus.
+                    Du tust mir unrecht, Herr,
+Doch hab ich Ursach', nicht zu oft zu kommen!
+
+Herodes (zu Salome).
+Auch du bist hier?--So lerntest du es endlich
+Dir einzubilden, wenn du Mariamnen
+Begegnest, dass du in den Spiegel siehst
+Und deinen eignen Widerschein erblickst?
+Oft riet ich's dir, wenn du ihr grolltest, niemals
+Gefiel der Rat dir! Nimm den Scherz nicht krumm!
+Man kann nichts uebles in der Stunde tun,
+Wo man sich wiedersieht! Doch, wo ist sie?
+Man sagte mir, sie sei bei ihrer Mutter,
+Drum kam ich her!
+
+Salome.
+Sie ging, als sie vernahm,
+Dass du dich naehertest!
+
+Herodes.
+                      Sie ging? Unmoeglich!
+Doch wohl! Sie tat es, weil die Einsamkeit
+Dem Wiedersehen ziemt!--(Fuer sich.) Willst du ihr zuernen
+Statt abzubitten, Herz?--Ich folge ihr,
+Denn ihr Gefuehl hat recht!
+
+Salome.
+                          Belueg dich nur,
+Und leg den Schreck, dich auferstehn zu sehn,
+Die Scham, an deinen Tod geglaubt zu haben,
+Die groessere, kaum Witwe mehr zu sein,
+Leg ihr das alles aus, als waer's die Scheu
+Des Maegdleins, das noch keinen Mann erkannt,
+Nicht die Verwirrung einer Suenderin!
+Sie ging aus Furcht!
+
+Herodes.
+                    Aus Furcht?--Sieh um dich her,
+Wir sind hier nicht allein!
+
+Salome.
+                           Das ist mir recht,
+Bring ich vor Zeugen meine Klage an,
+So wird sie um so sicherer gehoert,
+Und um so schwerer unterdrueckt!
+
+Herodes.
+                               Du stellst
+Dich zwischen mich und sie? Nimm dich in acht,
+Du kannst zertreten werden!
+
+Salome.
+                           Diesmal nicht,
+Obgleich ich weiss, was dir die Schwester gilt,
+Wenn's um die Makkabaeerin sich handelt,
+Diesmal--
+
+Herodes.
+         Ich sag dir eins! Waer' an dem Tag,
+An dem ich sie zum ersten Mal erblickte,
+Ein Klaeger aufgestanden wider sie,
+Er haett' nicht leicht Gehoer bei mir gefunden,
+Doch leichter noch, wie heut! Das warne dich!
+Ich bin ihr so viel schuldig, dass sie mir
+Nichts schuldig werden kann, und fuehl es tief!
+
+Salome.
+So hat sie einen Freibrief?
+
+Herodes.
+                           Jede Larve
+Zu tragen, die ihr gut scheint, dich zu taeuschen,
+Wenn sie sich Kurzweil mit dir machen will!
+
+Salome.
+Dann--ja, dann muss ich schweigen! Wozu spraech' ich!
+Denn, was ich dir auch sagen moechte, immer
+Waer' deine Antwort fertig: Mummerei!
+Nun diese Mummerei ist gut geglueckt,
+Sie hat nicht mich allein, sie hat die Welt
+Mit mir berueckt und kostet dir die Ehre,
+Wie mir die Ruh', ob du auch schwoeren magst,
+Dass Joseph nur getan, was er gesollt,
+Wenn er--Sieh zu, ob es ein Mensch dir glaubt!
+
+Herodes.
+Wenn er--Was unterdrueckst du? Endige!
+Doch nein--Noch nicht! (Zu einem Diener.) Ich lass die Koenigin
+Ersuchen zu erscheinen!--Ist es nicht,
+Als waer' die ganze Welt von Spinnen rein,
+Und alle nisteten in meinem Hause,
+Um, wenn einmal fuer mich der blaue Himmel
+Zu sehen ist, ihn gleich mir zu verhaengen
+Und Wolkendienst zu tun? Zwar--seltsam ist's,
+Dass sie nicht kommt! Sie haett' mich kuessen muessen,
+Der Allgewalt des Augenblicks erliegend,
+Und dann die Lippen sich zerbeissen moegen,
+Wenn das Gespenst denn noch nicht von ihr wich!
+(Zu Salome.) Weisst du, was du gewagt hast? Weisst du's, Weib?
+Ich freute mich! Verstehst du das? Und nun--
+Die Erde hat mir einmal einen Becher
+Mit Wein verschuettet, als ich durstig war,
+Weil sie zu zucken anfing, eh' ich ihn
+Noch leerte, ihr verzieh ich, weil ich musste,
+An dir koennt' ich mich raechen!
+
+
+
+
+Zweite Szene
+
+Mariamne tritt auf.
+
+Herodes.
+                             Wirf dich nieder
+Vor ihr, die du vor so viel Zeugen kraenktest,
+Dann tu' ich's nicht!
+
+Salome.
+                     Ha!
+
+Alexandra.
+                        Was bedeutet das?
+
+Herodes.
+Nun, Mariamne?
+
+Mariamne.
+              Was befiehlt der Koenig?
+Ich bin entboten worden und erschien!
+
+Alexandra.
+Ist dies das Weib, das schwur, sich selbst zu toeten,
+Wenn er nicht wiederkehrte?
+
+Herodes.
+                           Dies dein Gruss?
+
+Mariamne.
+Der Koenig liess mich rufen, ihn zu gruessen?
+Ich gruesse ihn! Da ist das Werk vollbracht!
+
+Alexandra.
+Du irrst dich sehr! Du stehst hier vor Gericht!
+
+Herodes.
+Man wollte dich verklagen! Eh' ich noch
+Die Klage angehoert, liess ich dich bitten,
+Hieherzukommen, aber wahrlich nicht,
+Dass du dich gegen sie verteidigtest,
+Nur, weil ich glaube, dass sie in sich selbst
+Ersticken wird vor deiner Gegenwart!
+
+Mariamne.
+Um das zu hindern, sollt' ich wieder gehn!
+
+Herodes.
+Wie, Mariamne? Nie gehoertest du
+Zu jenen Seelen jammervoller Art,
+Die, wie sie eben Antlitz oder Ruecken
+Des Feindes sehn, verzeihn und wieder grollen,
+Weil sie zu schwach fuer einen echten Hass
+Und auch zu klein fuer volle Grossmut sind.
+Was hat dich denn im Tiefsten so verwandelt,
+Dass du dich ihnen jetzt noch zugesellst?
+Du hast doch, als ich schied, ein Lebewohl
+Fuer mich gehabt; dies deucht mir, gab mir Anspruch
+Auf dein Willkommen und du weigerst das?
+Du stehst so da, als laegen Berg und Tal
+Noch zwischen uns, die uns so lange trennten?
+Du trittst zurueck, wenn ich mich naehern will?
+So ist dir meine Wiederkunft verhasst?
+
+Mariamne.
+Wie sollte sie? Sie gibt mir ja das Leben
+Zurueck!
+
+Herodes.
+       Das Leben? Welch ein Wort ist dies!
+
+Mariamne.
+Du wirst nicht leugnen, dass du mich verstehst!
+
+Herodes (fuer sich).
+Kann sie's denn wissen?
+(Zu Mariamne.)          Komm!
+(Da Mariamne nicht folgt.)   Lasst uns allein!
+(Zu Alexandra.)
+Du wirst verzeihn!
+
+Alexandra.
+                  Gewiss!
+
+(Ab. Alle andern folgen ihr.)
+
+Mariamne.
+                        So feig!
+
+Herodes.
+                                So feig?
+
+Mariamne.
+Und auch--Wie nenn ich's nur?
+
+Herodes.
+                             Und auch?--(Fuer sich.)
+Das waer'
+Entsetzlich! Nimmer loescht' ich's in ihr aus!
+
+Mariamne.
+Ob ihm sein Weib ins Grab freiwillig folgt,
+Ob sie des Henkers Hand hinunterstoesst--
+Ihm gleich, wenn sie nur wirklich stirbt! Er laesst
+Zum Opfertod ihr nicht einmal die Zeit!
+
+Herodes.
+Sie weiss es!
+
+Mariamne.
+            Ist Antonius denn ein Mensch,
+Wie ich bisher geglaubt, ein Mensch, wie du,
+Oder ein Daemon, wie du glauben musst,
+Da du verzweifelst, ob in meinem Busen
+Noch ein Gefuehl von Pflicht, ein Rest von Stolz
+Ihm widerstehen wuerde, wenn er triefend
+Von deinem Blut als Freier vor mich traete
+Und mich bestuermte, ihm die Zeit zu kuerzen,
+Die die aegypterin ihm uebriglaesst?
+
+Herodes.
+Doch wie? Doch wie?
+
+Mariamne.
+                   Er muesste dich ja doch
+Getoetet haben, eh' er werben koennte,
+Und wenn du selbst dich denn--ich haett' es nie
+Gedacht, allein ich seh's!--so nichtig fuehlst,
+Dass du verzagst, in deines Weibes Herzen
+Durch deines Maennerwertes Vollgehalt
+Ihn aufzuwaegen, was berechtigt dich,
+Mich so gering zu achten, dass du fuerchtest,
+Ich wiese selbst den Moerder nicht zurueck?
+O Doppelschmach!
+
+Herodes (ausbrechend).
+                Um welchen Preis erfuhrst
+Du dies Geheimnis? Wohlfeil war es nicht!
+Mir stand ein Kopf zum Pfand!
+
+Mariamne.
+                             O Salome,
+Du kanntest deinen Bruder!--Frage den,
+Der mir's verriet, was er empfangen hat,
+Von mir erwarte keine Antwort mehr! (Wendet sich.)
+
+Herodes.
+Ich zeig dir gleich, wie ich ihn fragen will!
+Soemus!
+
+
+
+
+Dritte Szene
+
+Soemus tritt ein.
+
+Herodes.
+         Ist mein Schwaeher Joseph draussen?
+
+Soemus.
+Er harrt mit Sameas.
+
+Herodes.
+                    Fuehr ihn hinweg!
+Ich gab ihm einen Brief! Er soll den Brief
+Alsbald bestellen! Du begleitest ihn
+Und sorgst, dass alles treu vollzogen wird,
+Was dieser Brief befiehlt!
+
+Soemus.
+                          Es soll geschehn! (Ab.)
+
+Herodes.
+Was du auch ahnen, denken, wissen magst,
+Du hast mich doch misskannt!
+
+Mariamne.
+                           Dem Brudermord
+Hast du das Siegel der Notwendigkeit,
+Dem man sich beugen muss, wie man auch schaudert,
+Zwar aufgedrueckt, doch es gelingt dir nie,
+Mit diesem Siegel auch den Mord an mir
+Zu stempeln, der wird bleiben, was er ist,
+Ein Frevel, den man hoechstens wiederholen,
+Doch nun und nimmer ueberbieten kann!
+
+Herodes. Ich wuerde nicht den Mut zur Antwort haben,
+Wenn ich, was ich auch immer wagen mochte,
+Des Ausgangs nicht gewiss gewesen waere,
+Das war ich aber, und ich war es nur,
+Weil ich mein alles auf das Spiel gesetzt!
+Ich tat, was auf dem Schlachtfeld der Soldat
+Wohl tut, wenn es ein Allerletztes gilt,
+Er schleudert die Standarte, die ihn fuehrt,
+An der sein Glueck und seine Ehre haengt,
+Entschlossen von sich ins Gewuehl der Feinde,
+Doch nicht, weil er sie preiszugeben denkt:
+Er stuerzt sich nach, er holt sie sich zurueck,
+Und bringt den Kranz, der schon nicht mehr dem Mut
+Nur der Verzweiflung noch erreichbar war,
+Den Kranz des Siegs, wenn auch zerrissen, mit.
+Du hast mich feig genannt. Wenn der es ist,
+Der einen Daemon in sich selber fuerchtet,
+So bin ich es zuweilen, aber nur,
+Wenn ich mein Ziel auf krummem Weg erreichen,
+Wenn ich mich ducken und mich stellen soll,
+Als ob ich der nicht waere, der ich bin.
+Dann aengstigt's mich, ich moechte mich zu frueh
+Aufrichten, und um meinen Stolz zu zaehmen,
+Der, leicht empoert, mich dazu spornen koennte,
+Knuepf ich an mich, was mehr ist, als ich selbst,
+Und mit mir stehen oder fallen muss.
+Weisst du, was meiner harrte, als ich ging?
+Kein Zweikampf und noch minder ein Gericht,
+Ein launischer Tyrann, vor dem ich mich
+Verleugnen sollte, aber sicher nicht
+Verleugnet haette, wenn--Ich dachte dein,
+Nun knirscht' ich nicht einmal--und was er auch
+Dem Mann und Koenig in mir bieten mochte,
+Von Schmaus zu Schmaus mich schleppend und den Freispruch
+Mir doch, unheimlich schweigend, vorenthaltend,
+Geduldig, wie ein Sklave, nahm ich's hin!
+
+Mariamne.
+Du sprichst umsonst! Du hast in mir die Menschheit
+Geschaendet, meinen Schmerz muss jeder teilen,
+Der Mensch ist, wie ich selbst, er braucht mir nicht
+Verwandt, er braucht nicht Weib zu sein, wie ich.
+Als du durch heimlich-stillen Mord den Bruder
+Mir raubtest, konnten die nur mit mir weinen,
+Die Brueder haben, alle andern mochten
+Noch trocknen Auges auf die Seite treten
+Und mir ihr Mitleid weigern. Doch ein Leben
+Hat jedermann und keiner will das Leben
+Sich nehmen lassen, als von Gott allein,
+Der es gegeben hat! Solch einen Frevel
+Verdammt das ganze menschliche Geschlecht,
+Verdammt das Schicksal, das ihn zwar beginnen
+Doch nicht gelingen liess, verdammst du selbst!
+Und wenn der Mensch in mir so tief durch dich
+Gekraenkt ist, sprich, was soll das Weib empfinden,
+Wie steh ich jetzt zu dir und du zu mir?
+
+
+
+
+Vierte Szene
+
+Salome (stuerzt herein).
+Entsetzlicher, was sinnst du? Meinen Gatten
+Seh ich von hinnen fuehren--er beschwoert mich,
+Dich um Erbarmung anzuflehn--ich zaudre,
+Weil ich ihm grolle und ihn nicht verstehe--
+Und nun--nun hoer ich grause Dinge fluestern--
+Man spricht--Man luegt, nicht wahr?
+
+Herodes.
+                                  Dein Gatte
+stirbt!
+
+Salome.
+Eh' er gerichtet wurde? Nimmermehr!
+
+Herodes.
+Er ist gerichtet durch sich selbst! Er hatte
+Den Brief, der ihn zum Tod verdammt, in Haenden,
+Eh' er sich gegen mich verging, er wusste,
+Welch eine Strafe ihn erwartete,
+Wenn er es tat; er unterwarf sich ihr
+Und tat es doch!
+
+Salome.
+                Herodes, hoere mich!
+Weisst du das denn gewiss? Ich habe ihn
+Verklagt, ich glaubte es mit Recht zu tun,
+Ich hatte Grund dazu--Dass er sie liebte,
+War offenbar, er hatte ja fuer mich
+Nicht einen Blick mehr, keinen Haendedruck--
+Er war bei Tage um sie, wann er konnte,
+Und nachts verrieten seine Traeume mir,
+Wie sehr sie ihn beschaeftigte--Das alles
+Ist wahr, und mehr--Doch folgt aus diesem allen
+Noch nicht, dass sie ihn wieder lieben musste,
+Noch weniger, dass sie--O nein! o nein!
+Mich riss die Eifersucht dahin--vergib!
+Vergib auch du. (Zu Mariamne.) Ich habe dich gehasst!
+O Gott, die Zeit vergeht! Man sprach--Soll ich
+Dich lieben, wie ich dich gehasst? Dann sei
+Nicht laenger stumm, sprich, dass er schuldlos ist
+Und bitt fuer ihn um Gnade, wie ich selbst!
+
+Mariamne.
+Er ist's!
+
+Herodes.
+         In ihrem Sinn--in meinem nicht!
+
+Mariamne.
+In deinem auch!
+
+Herodes.
+               Dann muesstest du nichts wissen!
+Jetzt kann ihn nichts entschuldigen! Und wenn ich
+Den Tod ihm geben lasse, ohne ihn
+Vorher zu hoeren, so geschieht's zwar mit,
+Weil ich dir zeigen will, dass ich von dir
+Nicht niedrig denke und das rasche Wort,
+Das mir im ersten Zorn entfiel, bereue,
+Doch mehr noch, weil ich weiss, dass er mir nichts
+Zu sagen haben kann!
+
+
+
+
+Fuenfte Szene
+
+Soemus.
+                    Das blut'ge Werk
+Ist abgetan! Doch ganz Jerusalem
+Steht starr und fragt, warum der Mann, den du
+Zu deinem Stellvertreter machtest, als du
+Von hinnen zogst, bei deiner Wiederkehr
+Den Kopf verlieren musste!
+
+Salome (taumelt).
+                         Wehe mir!
+(Mariamne will sie auffangen.)
+                                  Fort! Fort!
+(Zu Herodes.)
+Und die?
+
+Herodes.
+         Gib dich zufrieden, Schwester!
+Dein Gatte hat mich fuerchterlich betrogen--
+
+Salome.
+Und die?
+
+Herodes.
+        Nicht so, wie du es meinst--
+
+Salome.
+
+                                    Nicht so?
+Wie denn? Sie willst du retten? Wenn mein Gatte
+Dich fuerchterlich betrog, so tat sie's auch,
+Denn wahr ist, was ich sagte, und ein jeder
+Soll's wissen, der es noch nicht weiss! Du sollst
+In ihrem Blut dich waschen, wie in seinem,
+Sonst wirst du niemals wieder rein! Nicht so!
+
+Herodes.
+Bei allem, was mir heilig ist--
+
+Salome.
+                               So nenne
+Mir sein Verbrechen, wenn es das nicht war!
+
+Herodes.
+Wollt' ich es nennen, wuerde ich's vergroessern!
+Ich hatt' ihm ein Geheimnis anvertraut,
+An dem mein alles hing, und dies Geheimnis
+Hat er verraten, soll auch ich das tun?
+
+Salome.
+Elende Ausflucht, die mich schrecken wird!
+Meinst du, dass du mich taeuschen kannst? Du glaubst
+An alles, was ich sagte, doch du bist
+Zu schwach, um deine Liebe zu ersticken,
+Und ziehst es vor, die Schande zu verhuellen,
+Die du nicht tilgen magst. Doch wenn du mich,
+Die Schwester, nicht, wie meinen Gatten toetest,
+So wird dir das misslingen! (Zu Mariamne.) Er ist tot,
+Nun kannst du schwoeren, was du willst, er wird
+Nicht widersprechen! (Ab.)
+
+Herodes.
+                          Folg ihr nach, Soemus,
+Und such sie zu beguetigen! Du kennst sie,
+Und eh'mals hat sie gern auf dich gehoert!
+
+Soemus.
+Die Zeiten sind vorueber! Doch, ich geh! (Ab.)
+
+Mariamne (fuer sich).
+Fuer den, der mich ermorden wollte haett' ich
+Wohl nicht gebeten! Dennoch schaudre ich,
+Dass mir nicht einmal Zeit blieb, es zu tun!
+
+Herodes (fuer sich).
+Er musste doch daran! Im naechsten Krieg
+Haett' er den Platz des Urias bekommen!
+Und dennoch reut mich diese Eile jetzt!
+
+
+
+
+Sechste Szene
+
+Ein Bote (tritt auf).
+Mich schickt Antonius!
+
+Herodes.
+                      So weiss ich auch,
+Was du mir bringst. Ich soll mich fertigmachen,
+Der grosse Kampf, von dem er sprach, beginnt!
+
+Bote.
+Octavianus hat nach Afrika
+Sich eingeschifft, ihm eilt Antonius
+Entgegen, mit Cleopatra vereint,
+Um gleich bei Aktium ihn zu empfangen--
+
+Herodes.
+Und ich, Herodes, soll der Dritte sein!
+Schon gut! Ich zieh noch heut! Soemus kann,
+So schlecht es hier auch stehn mag, mich ersetzen.
+Gut, dass er kam!
+
+Mariamne.
+                Er zieht noch einmal
+fort!
+Dank, Ew'ger, Dank!
+
+Herodes (sie beobachtend).
+                   Ha!
+
+Bote.
+                      Grosser Koenig, nein!
+Er braucht dich nicht bei Aktium, er will,
+Dass du die Araber, die sich empoerten,
+Verhindern sollst, dem Feind sich anzuschliessen!
+Das ist der Dienst, den er von dir verlangt.
+
+Herodes.
+Er hat den Platz, wo ich ihm nuetzen kann,
+Mir anzuweisen!
+
+Mariamne.
+               Noch einmal! Das
+loest
+Ja alles wieder!
+
+Herodes (wie vorher).
+                Wie mein Weib sich freut!
+(Zum Boten.)
+Sag ihm--du weisst's ja schon!--
+(Fuer sich.)
+                               Die Stirn entrunzelt,
+Die Haende, wie zum Dankgebet, gefaltet--
+Das ist ihr Herz!
+
+Bote.
+                 Sonst hast du nichts fuer mich?
+
+Mariamne.
+Jetzt werd' ich's sehn, ob's bloss ein Fieber war,
+Das Fieber der gereizten Leidenschaft,
+Das ihn verwirrte, oder ob sich mir
+In klarer Tat sein Innerstes verriet!
+Jetzt werd' ich's sehn!
+
+Herodes (zum Boten).
+                       Nichts! Nichts!
+(Bote ab.--Herodes zu Mariamne.)      Dein Angesicht
+Hat sich erheitert! Aber hoffe nicht
+Zu viel! Man stirbt nicht stets in einem Krieg,
+Aus manchem kehrt' ich schon zurueck!
+
+Mariamne (will reden, unterbricht sich aber).
+                                    Nein! Nein
+
+Herodes.
+Zwar gilt es diesmal einen hitz'gern Kampf,
+Wie jemals, alle andern Kaempfe wurden
+Um etwas in der Welt gefuehrt, doch dieser
+Wird um die Welt gefuehrt, er soll entscheiden,
+Wer Herr der Welt ist, ob Antonius,
+Der Wuest--und Luestling, oder ob Octav,
+Der sein Verdienst erschoepft, sobald er schwoert,
+Dass er noch nie im Leben trunken war,
+Da wird es Streiche setzen, aber dennoch
+Ist's moeglich, dass dein Wunsch sich nicht erfuellt,
+Und dass der Tod an mir voruebergeht!
+
+Mariamne.
+Mein Wunsch! Doch wohl! Mein Wunsch! So ist es gut
+Halt an dich, Herz! Verrat dich nicht! Die Probe
+Ist keine, wenn er ahnt, was dich bewegt!
+Besteht er sie, wie wirst du selbst belohnt,
+Wie kannst du ihn belohnen! Lass dich denn
+Von ihm verkennen! Pruef ihn! Denk ans Ende
+Und an den Kranz, den du ihm reichen darfst,
+Wenn er den Daemon ueberwunden hat!
+
+Herodes.
+Ich danke dir! Du hast mir jetzt das Herz
+Erleichtert! Mag ich auch an deiner Menschheit
+Gefrevelt haben, das erkenn ich klar,
+An deiner Liebe frevelte ich nicht!
+Drum bettle ich denn auch bei deiner Liebe
+Nicht um ein letztes Opfer mehr, doch hoff ich,
+Dass du mir eine letzte Pflicht erfuellst.
+Ich hoffe das nicht meinetwegen bloss,
+Ich hoff es deinetwegen noch viel mehr,
+Du wirst nicht wollen, dass ich dich nur noch
+Im Nebel sehen soll, du wirst dafuer,
+Dass ich den Mund des Toten selbst verschloss,
+Den deinen oeffnen und es mir erklaeren,
+Wie's kam, dass er den Kopf an dich verschenkte,
+Du wirst es deiner Menschheit wegen tun,
+Du wirst es tun, weil du dich selber ehrst!
+
+Mariamne.
+Weil ich mich selber ehre, tu ich's nicht!
+
+Herodes.
+So weigerst du mir selbst, was billig ist?
+
+Mariamne.
+Was billig ist! So waer' es also billig,
+Dass ich, auf Knieen vor dir niederstuerzend,
+Dir schwuere: Herr, dein Knecht kam mir nicht nah!
+Und dass du's glauben kannst--denn auf Vertraun
+Hab ich kein Recht, wenn ich dein Weib auch bin--
+So hoer noch dies und das! O pfui! pfui!
+Herodes, nein! Fragt deine Neugier einst,
+So antwort ich vielleicht! Jetzt bin ich stumm!
+
+Herodes.
+Waer' deine Liebe gross genug gewesen,
+Mir alles zu verzeihn, was ich aus Liebe
+Getan, ich haett' dich niemals so gefragt!
+Jetzt, da ich weiss, wie klein sie ist, jetzt muss ich
+Die Frage wiederholen, denn die Buergschaft,
+Die deine Liebe mir gewaehrt, kann doch
+Nicht groesser sein, wie deine Liebe selbst,
+Und eine Liebe, die das Leben hoeher
+Als den Geliebten schaetzt, ist mir ein Nichts!
+
+Mariamne.
+Und dennoch schweig ich!
+
+Herodes.
+                        So verdamm ich mich,
+Den Mund, der mir, zu stolz, nicht schwoeren will,
+Dass ihn kein andrer kuesste, selbst nicht mehr
+Zu kuessen, bis er es in Demut tut;
+Ja, wenn's ein Mittel gaebe, die Erinnrung
+An dich in meinem Herzen auszuloeschen,
+Wenn ich, indem ich beide Augen mir
+Durchstaeche und die Spiegel deiner Schoenheit
+Vertilgte, auch dein Bild vertilgen koennte,
+In dieser Stunde noch durchstaech' ich sie.
+
+Mariamne.
+Herodes, maess'ge dich! Du hast vielleicht
+Gerade jetzt dein Schicksal in den Haenden
+Und kannst es wenden, wie es dir gefaellt!
+Fuer jeden Menschen kommt der Augenblick,
+In dem der Lenker seines Sterns ihm selbst
+Die Zuegel uebergibt. Nur das ist schlimm,
+Dass er den Augenblick nicht kennt, dass jeder
+Es sein kann, der vorueberrollt! Mir ahnt,
+Fuer dich ist's dieser! Darum halte ein!
+Wie du dir heut die Bahn des Lebens zeichnest,
+Musst du vielleicht sie bis ans Ende wandeln:
+Willst du das tun im wilden Rausch des Zorns?
+
+Herodes.
+Ich fuerchte sehr, du ahnst nur halb das Rechte,
+Der Wendepunkt ist da, allein fuer dich!
+Denn ich, was will ich denn? Doch nur ein Mittel,
+Womit ich boese Traeume scheuchen kann!
+
+Mariamne.
+Ich will dich nicht verstehn! Ich hab dir Kinder
+Geboren! Denk an die!
+
+Herodes.
+                     Wer schweigt, wie du,
+Weckt den Verdacht, dass er die Wahrheit nicht
+Zu sagen wagt und doch nicht luegen will.
+
+Mariamne.
+Nicht weiter!
+
+Herodes.
+             Nein, nicht weiter! Lebe
+wohl!
+Und wenn ich wiederkehre, zuerne drob
+Nicht allzusehr!
+
+Mariamne.
+                Herodes!
+
+Herodes.
+                        Sei gewiss,
+Ich werde dir nicht wieder so, wie heute,
+Den Gruss entpressen!
+
+Mariamne.
+                    Nein, es wird nicht wieder
+Vonnoeten sein! (Gen Himmel.) Lenk, Ewiger, sein Herz!
+Ich hatt' ihm ja den Brudermord verziehn,
+Ich war bereit, ihm in den Tod zu folgen,
+Ich bin es noch, vermag ein Mensch denn mehr?
+Du tatest, was du nie noch tatst, du waelztest
+Das Rad der Zeit zurueck, es steht noch einmal,
+Wie es vorher stand; lass ihn anders denn
+Jetzt handeln, so vergess ich, was geschehn;
+Vergess es so, als haette er im Fieber
+Mit seinem Schwert mir einen Todesstreich
+Versetzt und mich genesend selbst verbunden.
+(Zu Herodes.)
+Seh ich dich noch?
+
+Herodes.
+                  Wenn du mich kommen siehst,
+So ruf nach Ketten! Das sei dir Beweis,
+Dass ich verrueckt geworden bin!
+
+Mariamne.
+                              Du wirst
+Dies Wort bereun!--Halt an dich, Herz!--Du wirst! (Ab.)
+
+Herodes.
+Wahr ist's, ich ging zu weit. Das sagte ich
+Mir unterwegs schon selbst. Doch wahr nicht minder,
+Wenn sie mich liebte, wuerde sie's verzeihn!
+Wenn sie mich liebte! Hat sie mich geliebt?
+Ich glaub es. Aber jetzt--Wie sich der Tote
+Im Grabe noch zu raechen weiss! Ich schaffte
+Ihn fort, um meine Krone mir zu sichern,
+Er nahm, was mehr wog, mit hinweg: ihr Herz!
+Denn seltsam hat sie, seit ihr Bruder starb,
+Sich gegen mich veraendert, niemals fand
+Ich zwischen ihr und ihrer Mutter noch
+Die kleinste Spur von aehnlichkeit heraus,
+Heut glich sie ihr in mehr als einem Zug,
+Drum kann ich ihr nicht mehr vertraun, wie sonst!
+Das ist gewiss! Doch, muss es darum auch
+Sogleich gewiss sein, dass sie mich betrog?
+Die Buergschaft, die in ihrer Liebe lag,
+Ist weggefallen, aber eine zweite
+Liegt noch in ihrem Stolz, und wird ein Stolz,
+Der es verschmaeht, sich zu verteidigen,
+Es nicht noch mehr verschmaehn, sich zu beflecken?
+Zwar weiss sie's! Joseph! Warum kann der Mensch
+Nur toeten, nicht die Toten wieder wecken,
+Er sollte beides koennen, oder keins!
+Der raecht sich auch! Er kommt nicht! Dennoch seh ich
+Ihn vor mir! "Du befiehlst?"--Es ist unmoeglich!
+Ich will's nicht glauben! Schweig mir, Salome!
+Wie es auch kam, so kam es nicht! Vielleicht
+Frass das Geheimnis, wie verschlucktes Feuer,
+Von selbst sich bei ihm durch. Vielleicht verriet er's,
+Weil er mich fuer verloren hielt und nun
+Mit Alexandra sich versoehnen wollte,
+Bevor die Kunde kam. Wir werden sehn!
+Denn pruefen muss ich sie! Haett' ich geahnt,
+Dass sie's erfahren koennte, nimmer waer' ich
+So weit gegangen. Jetzt, da sie es weiss,
+Jetzt muss ich weiter gehn! Denn, nun sie's weiss,
+Nun muss ich das von ihrer Rache fuerchten,
+Was ich von ihrer Wankelmuetigkeit
+Vielleicht mit Unrecht fuerchtete, muss fuerchten,
+Dass sie auf meinem Grabe Hochzeit haelt!
+Soemus kam zur rechten Zeit. Er ist
+Ein Mann, der, waer' ich selbst nicht auf der Welt,
+Da stuende, wo ich steh. Wie treu er denkt,
+Wie eifrig er mir dient, beweist sein Kommen.
+Ihm geb ich jetzt den Auftrag! Dass sie nichts
+Aus ihm herauslockt, weiss ich, wenn sie ihn
+Auf Menschenart versucht!--Verraet er mich,
+So zahlt sie einen Preis, der--Salome,
+Dann hast du recht gehabt!--Es gilt die Probe! (Ab.)
+
+
+
+
+
+Vierter Akt
+
+Burg Zion. Mariamnens Gemaecher.
+
+
+
+
+Erste Szene
+
+Mariamne. Alexandra.
+
+Alexandra.
+Du gibst mir Raetsel auf. Zuerst der Schwur:
+Ich toete mich, wenn er nicht wiederkehrt!
+Dann bittre Kaelte, als er kam, ein Trotz,
+Der ihn empoeren musste, wie er mich
+Erfreute! Nun die tiefste Trauer wieder!
+Den moecht ich sehn, der dich begreifen kann.
+
+Mariamne.
+Wenn das so schwer ist, warum plagst du dich?
+
+Alexandra.
+Und dann die widerwillig-herbe Art,
+Mit der du den Soemus ferne haeltst!
+Man sieht's ihm an, er hat was auf dem Herzen--
+
+Mariamne.
+Meinst du?
+
+Alexandra.
+          Gewiss! Auch moecht' er's uns vertraun,
+Allein er wagt es nicht, er wuerde sich,
+Wenn er dich in den Jordan stuerzen saehe,
+Vielleicht bedenken, ob er dich vom Tod
+Auch retten duerfe, und er haette recht,
+Denn masslos schnoede bist du gegen ihn!
+
+Mariamne.
+Nicht wahr, Herodes wird nicht sagen koennen,
+Ich haette seinen Freund versucht, ich haette
+Ihm sein Geheimnis, wenn er eines hat,
+Mit Schmeicheln abgelistet. Nein, ich stell's
+Dem Himmel heim, ob ich's erfahren soll!
+Mir sagt's mein Herz, ich wage nichts dabei!
+
+
+
+
+Zweite Szene
+
+Sameas (tritt ein; er traegt Ketten an den Haenden).
+Der Herr ist gross!
+
+Mariamne.
+                  Er ist's!
+
+Alexandra.
+                           Du frei und doch
+In Ketten? Noch ein Raetsel!
+
+Sameas.
+                           Diese Ketten
+Leg ich nicht wieder ab! Jerusalem
+Soll Tag fuer Tag daran erinnert werden,
+Dass Jonas' Enkel im Gefaengnis sass!
+
+Alexandra.
+Wie kamst du denn heraus? Hast du die Hueter
+Bestochen?
+
+Sameas.
+          Ich? Die Hueter?
+
+Alexandra.
+                         Zwar, womit!
+Dein haerenes Gewand hast du noch an,
+Und dass sie fuer ein Nest voll wilder Bienen,
+Wie du's, mit jedem hohlen Baum vertraut,
+An sie verraten konntest, dich entliessen,
+Bezweifle ich, denn Honig gibt's genug!
+
+Sameas.
+Wie fragst du nur? Soemus selbst hat mir
+Die Pforten aufgemacht!
+
+Mariamne.
+                       Er haett's gewagt?
+
+Sameas.
+Was denn? Hast du es ihm denn nicht geboten?
+
+Mariamne.
+Ich?
+
+Sameas.
+    Nein? Mir deucht doch, dass er so gesagt!
+Ich kann mich irren, denn ich sagte just
+Rueckwaerts den letzten Psalm her, als er eintrat,
+Und hoerte nur mit halbem Ohr auf ihn!
+Nun wohl! So hat's der Herr getan, und ich
+Muss in den Tempel gehen, um zu danken,
+Und habe nichts in Davids Burg zu tun!
+
+Mariamne.
+Der Herr!
+
+Sameas.
+         Der Herr! Sass ich mit Recht im Kerker?
+
+Mariamne.
+Die Zeiten sind vorbei, worin der Herr
+Unmittelbar zu seinem Volke sprach.
+Wir haben das Gesetz. Das spricht fuer ihn!
+Die Dampf--und Feuersaeule ist erloschen,
+Durch die er unsern Vaetern in der Wueste
+Die Pfade zeichnete, und die Propheten
+Sind stumm, wie er!
+
+Alexandra.
+Das sind sie doch nicht ganz!
+Es hat erst kuerzlich einer einen Brand
+Vorhergesagt, und dieser traf auch ein!
+
+Mariamne.
+Jawohl, doch hatt' er selbst um Mitternacht
+Das Feuer angelegt.
+
+Sameas.
+                   Weib! Laestre nicht!
+
+Mariamne.
+Ich laestre nicht, ich sag nur, was geschehn!
+Der Mensch ist Pharisaeer, wie du selbst,
+Er spricht, wie du, er rast, wie du, der Brand
+Hat uns beweisen sollen, dass er wirklich
+Prophet sei und das Kuenftige durchschaue,
+Doch ein Soldat ertappt' ihn auf der Tat.
+
+Sameas.
+Ein roem'scher?
+
+Mariamne.
+               Ja!
+
+Sameas.
+Der log! Er war vielleicht
+Gedungen! War gedungen vom Herodes,
+Gedungen von dir selbst!
+
+Mariamne.
+                        Vergiss dich nicht!
+
+Sameas.
+Du bist sein Weib, du bist das Weib des Frevlers,
+Der sich fuer den Messias haelt, du kannst
+Ihn in die Arme schliessen und ihn kuessen,
+Drum kannst du auch was andres fuer ihn tun!
+
+Alexandra.
+Er hielte jetzt fuer den Messias sich?
+
+Sameas.
+Er tut's, er sagt' es mir ins Angesicht,
+Als er mich in den Kerker fuehren liess.
+Ich schrie zum Herrn, ich rief: Sieh auf dein Volk
+Und schicke den Messias, den du uns
+Verheissen fuer die Zeit der hoechsten Not,
+Die hoechste Not brach ein! Darauf versetzt' er
+Mit stolzem Hohn: Der ist schon lange da,
+Ihr aber wisst es nicht! Ich bin es selbst!
+
+Alexandra.
+Nun, Mariamne?
+
+Sameas.
+               Mit verruchtem Witz
+Bewies er dann, wir sei'n ein Volk von Irren
+Und er der einzige Verstaendige,
+Wir wohnten nicht umsonst am Toten Meer,
+Dem die Bewegung fehle, Ebb' und Flut,
+Und das nur darum alle Welt verpeste,
+Es sei ein treuer Spiegel unsrer selbst!
+Er aber wolle uns lebendig machen,
+Und muess' er uns auch Mosis dummes Buch--
+So ruchlos sprach er--mit Gewalt entreissen;
+Denn das allein sei schuld, wenn wir dem Jordan
+Nicht glichen, unserm klaren Fluss, der lustig
+Das Land durchhuepfe, sondern einem Sumpf!
+
+Alexandra.
+So ganz warf er die Larve weg?
+
+Sameas.
+                              Jawohl!
+Doch galt ich ihm, als er es tat, vielleicht
+Fuer einen Toten schon; denn meinen Tod
+Befahl er gleich nachher.
+
+Mariamne.
+                         Er war gereizt!
+Er fand den Aufruhr vor!
+
+Sameas.
+                        Dich mahn ich nun
+An deine Pflicht! Sag du dich los von ihm,
+Wie er sich losgesagt von Gott! Du kannst
+Ihn dadurch strafen, denn er liebt dich sehr!
+Als mich Soemus freiliess, musst' ich glauben,
+Du haettst es schon getan. Tust du es nicht,
+So schilt den Blitz, der aus den Wolken faehrt,
+Nicht ungerecht, wenn er dich trifft, wie ihn!
+Ich geh jetzt, um zu opfern!
+
+Alexandra.
+                            Nimm das Opfer
+Aus meinem Stall!
+
+Sameas.
+Ich nehm's, wo man's entbehrt!
+Das Lamm der Witwe und das Schaf des Armen!
+Was soll dein Rind dem Herrn! (Ab.)
+
+
+
+
+Dritte Szene
+
+Soemus (kommt).
+                             Verzeiht!
+
+Mariamne.
+
+                                      Ich wollte
+Dich eben rufen lassen! Tritt heran!
+
+Soemus.
+Das waer' zum ersten Mal geschehn!
+
+Mariamne.
+                                 Jawohl!
+
+Soemus.
+Du wichst mir aus bisher!
+
+Mariamne.
+                         Hast du mich denn
+Gesucht, und hast du was an mich zu suchen?
+Ich mag's nicht denken!
+
+Soemus.
+                       Wenigstens das eine:
+Sieh mich als deinen treusten Diener an!
+
+Mariamne.
+Das tat ich, doch ich tu's nicht mehr!
+
+Soemus.
+
+Nicht mehr?
+
+Mariamne.
+           Wie kannst du dem Empoerer, den Herodes
+Gefangensetzen liess, den Kerker oeffnen?
+Ist er noch Koenig, oder ist er's nicht?
+
+Soemus.
+Die Antwort ist so leicht nicht, wie du glaubst!
+
+Mariamne.
+Faellt sie dir schwer, so wirst du's buessen muessen!
+
+Soemus.
+Du weisst noch nichts von der verlornen Schlacht!
+
+Mariamne.
+Die Schlacht bei Aktium, sie waer' verloren?
+
+Soemus.
+Antonius fiel von seiner eignen Hand!
+Cleopatra desgleichen!
+
+Alexandra.
+                      Haette die
+Den Mut gehabt? Sie konnte sonst ein Schwert
+Nicht einmal sehn und schauderte vor seinem
+Zurueck, da er es ihr als Spiegel vorhielt!
+
+Soemus.
+Dem Hauptmann Titus ward es so gemeldet!
+Octavianus flucht, dass man es nicht
+Verhindert hat! Ich selber las den Brief!
+
+Mariamne.
+Dann hat der Tod auf lange Zeit sein Teil
+Und jedes Haupt steht fester, als es stand,
+Eh' das geschah!
+
+Soemus.
+                Meinst du?
+
+Mariamne.
+                          Du laechelst seltsam!
+
+Soemus.
+Du kennst, wie's scheint, Octavianus nicht!
+Der wird den Tod nicht fragen, ob ihn ekle,
+Er wird ihm aus den Freunden des Antonius
+Noch eine Mahlzeit richten, und auch die
+Wird nicht ganz arm an leckern Bissen sein!
+
+Mariamne.
+Gilt das Herodes?
+
+Soemus.
+Nun, wenn er das haelt,
+Was er sich vornahm--
+
+Mariamne.
+                     Was war das?
+
+Soemus.
+
+                                 Er sprach:
+Ich liebe den Antonius nicht mehr,
+Ich hasse ihn weit eher, doch ich werde
+Ihm beistehn bis zum letzten Augenblick,
+Obgleich ich fuerchte, dass er fallen muss.
+Ich bin's mir selber schuldig, wenn nicht ihm!
+
+Mariamne.
+Echt koeniglich!
+
+Soemus.
+               Gewiss! Echt koeniglich!
+Nur ist Octav der Mann nicht, der's bewundert,
+Und tut Herodes das--
+
+Mariamne.
+                     Wer wagt, zu zweifeln?
+
+Soemus.
+So ist er auch verloren, oder arg
+Hat man Octavian beleidigt, als man
+Die grosse Schlaechterei nach Caesars Tod
+Auf seine Rechnung setzte!
+
+Mariamne.
+                          Dass du fest
+An diesen Ausgang glaubst, dass du Herodes
+Schon zu den Toten zaehlst, ist klar genug,
+Sonst haettst du nicht gewagt, was du gewagt.
+Auch schaudert's mir, ich will es dir gestehn,
+Vor deiner Zuversicht, du bist kein Tor,
+Und wagst gewiss nicht ohne Grund so viel.
+Doch, wie's auch stehen moege, immer bin
+Ich selbst noch da, und ich, ich will dir zeigen,
+Dass ich ihm auch im Tode noch Gehorsam
+Zu schaffen weiss, es soll nicht ein Befehl,
+Den er gegeben, unvollzogen bleiben,
+Das soll sein Totenopfer sein!
+
+Soemus.
+                              Nicht einer?
+Ich zweifle, Koenigin!--(Fuer sich.) Jetzt falle, Schlag!
+
+Mariamne.
+So wahr ich Makkabaeerin, du schickst
+Den Sameas zurueck in seinen Kerker!
+
+Soemus.
+Wie du es willst, so wird's geschehn, und wenn
+Du mehr willst, wenn er sterben soll, wie's ihm
+Der Koenig drohte, sprich, und er ist tot!
+Doch nun gestatte eine Frage mir:
+Soll ich auch dich, damit das Totenopfer,
+Das du zu bringen denkst, vollkommen sei,
+Soll ich auch dich mit meinem Schwert durchstossen?
+Ich hab auch dazu den Befehl von ihm!
+
+Mariamne.
+Weh!
+
+Alexandra.
+    Nimmermehr!
+
+Mariamne.
+               So ist das Ende da!
+Und welch ein Ende! Eins, das auch den Anfang
+Verschlingt und alles! Die Vergangenheit
+Loest, wie die Zukunft, sich in nichts mir auf!
+Ich hatte nichts, ich habe nichts, ich werde
+Nichts haben! War denn je ein Mensch so arm!
+
+Alexandra.
+Welch eine Missetat du vom Herodes
+Mir auch berichten moechtest, jede glaubt' ich,
+Doch diese--
+
+Mariamne.
+            Zweifle nicht! Es ist gewiss!
+
+Alexandra.
+So sprichst du selbst?
+
+Mariamne.
+                      O Gott, ich weiss, warum!
+
+Alexandra.
+Dann wirst du wissen, was du tun musst!
+
+Mariamne.
+                                      Ja!
+(Sie zuckt den Dolch gegen sich.)
+
+Alexandra (sie verhindernd).
+Wahnsinnige, verdient er das? Verdient er's,
+Dass du den Henker an dir selber machst?
+
+Mariamne.
+Das war verkehrt! Ich danke dir! Dies Amt
+Ersah er fuer sich selbst!
+(Sie schleudert den Dolch weg.)
+
+                         Versucher, fort!
+
+Alexandra.
+Du wirst dich in der Roemer Schutz begeben!
+
+Mariamne.
+Ich werde keinen, dem an sich was liegt,
+Verhindern, das zu tun!--Ich selbst, ich gebe
+Zur Nacht ein Fest!
+
+Alexandra.
+                   Ein Fest?
+
+Mariamne.
+                            Und tanze dort!--
+Ja, ja, das ist der Weg!
+
+Alexandra.
+                        Zu welchem Ziel?
+
+Mariamne.
+He, Diener!
+        (Diener kommen.)
+           Schliesst die Prunkgemaecher auf
+Und ladet alles ein, was jubeln mag!
+Steckt alle Kerzen an, die brennen wollen,
+Pflueckt alle Blumen ab, die noch nicht welkten,
+Es ist nicht noetig, dass was uebrigbleibt!
+(Zu Moses.) Du hast uns einst die Hochzeit ausgerichtet,
+Heut gilt's ein Fest, das die noch uebertrifft,
+Drum spare nichts! (Sie tritt vor.) Herodes, zittre jetzt!
+Und wenn du niemals noch gezittert hast!
+
+Soemus (tritt zu ihr heran).
+Ich fuehle deinen Schmerz, wie du!
+
+Mariamne.
+                                 Dein Mitleid
+Erlass ich dir! Du bist kein Henkersknecht,
+Ich darf nicht zweifeln, denn du hast's gezeigt;
+Doch dafuer ein Verraeter, und Verraetern
+Kann ich nicht danken, noch sie um mich dulden,
+Wie nuetzlich sie auch sind auf dieser Welt.
+Denn das verkenn ich nicht! Waerst du der Mann
+Gewesen, der du schienst, so haette Gott
+Ein Wunder tun, so haette er der Luft
+Die Zunge, die ihr mangelt, leihen muessen,
+Das sah er gleich voraus, als er dich schuf,
+Drum macht' er zu der Heuchler erstem dich!
+
+Soemus.
+Der bin ich nicht! Ich war Herodes' Freund,
+Ich war sein Waffenbruder und Gefaehrte,
+Eh' er den Thron bestieg, ich war sein Diener,
+Sein treuster Diener, seit er Koenig ist.
+Doch war ich's nur, solange er in mir
+Den Mann zu ehren wusste und den Menschen,
+Wie ich in ihm den Helden und den Herrn.
+Das tat er, bis er, heuchlerisch die Augen
+Zum ersten Mal unwuerdig niederschlagend,
+Den Blutbefehl mir gab, durch den er mich
+Herzlos, wie dich, dem sichern Tode weihte,
+Durch den er mich der Rache deines Volks,
+Dem Zorn der Roemer und der eignen Tuecke
+Preisgab, wie dich der Spitze meines Schwerts.
+Da hatt' ich den Beweis, was ich ihm galt!
+
+Mariamne.
+Und druecktest du ihm deinen Abscheu aus?
+
+Soemus.
+Das tat ich nicht, weil ich dich schuetzen wollte!
+Ich uebernahm's zum Schein, ich heuchelte,
+Wenn dir's gefaellt, damit er keinem andern
+Den Auftrag gaebe und mich niederstaeche;
+Ein Galilaeer haett' die Tat vollbracht!
+
+Mariamne.
+Ich bitt dir ab. Du stehst zu ihm, wie ich,
+Du bist, wie ich, in deinem Heiligsten
+Gekraenkt, wie ich, zum Ding herabgesetzt!
+Er ist ein Freund, wie er ein Gatte ist.
+Komm auf mein Fest! (Ab.)
+
+Alexandra.
+                   So wartetest du auch auf deine Zeit,
+Wie ich!
+
+Soemus.
+        Auf meine Zeit? Wie meinst du das?
+
+Alexandra.
+Ich sah es immer mit Verwundrung an,
+Wie du vor diesem Koenig, der der Laune
+Des Roemers seine Hoheit dankt, dem Rausch
+Des Schwelgers, nicht dem Stamm und der Geburt,
+Den Ruecken bogst, als haettest du's, wie er,
+Vergessen, dass du seinesgleichen bist;
+Doch jetzt durchschau ich dich, du wolltest ihn
+Nur sicher machen!
+
+Soemus.
+                  Darin irrst du dich!
+Ich sprach in allem wahr. Fuer seinesgleichen
+Halt ich mich nicht und werd' es niemals tun!
+Ich weiss, wie manchen Wicht es gibt, der ihm
+Bloss darum, weil er nicht sein Enkel ist,
+Mit Murren dient; ich weiss, dass andre ihm
+Die Treu' nur Mariamnens wegen halten:
+Doch ich gehoere nicht zu dieser Schar,
+Die lieber einem Kinderschwert gehorcht,
+Wenn's nur ererbt ward, als dem Heldenschwert,
+Das aus dem Feuer erst geschmiedet wird.
+Ich sah den Hoehern immer schon in ihm
+Und hob dem Waffenbruder seinen Schild,
+Wenn er ihn fallen liess, so willig auf,
+Wie je dem Koenig seinen Herrscherstab!
+Die Krone, wie das erste Weib: ich goennte
+Ihm beides, denn ich fuehlte seinen Wert!
+
+Alexandra.
+Du bist doch auch ein Mann!
+
+Soemus.
+                           Dass ich das nicht
+Vergessen habe, das beweis ich jetzt!
+So gross ist keiner, dass er mich als Werkzeug
+Gebrauchen darf! Wer Dienste von mir fodert,
+Die mich, vollbracht und nicht vollbracht, wie's kommt,
+Schmachvoll dem sichern Untergange weihn,
+Der spricht mich los von jeder Pflicht, dem muss
+Ich zeigen, dass es zwischen Koenigen
+Und Sklaven eine Mittelstufe gibt,
+Und dass der Mann auf dieser steht!
+
+Alexandra.
+                                  Mir gilt
+Es gleich, aus welchem Grund: genug, du tratst
+Zu mir herueber!
+
+Soemus.
+               Fuerchte keinen Kampf mehr,
+Er ist so gut, als tot! Octavian
+Ist kein Antonius, der sich das Fleisch
+Vom Leibe hacken laesst und es verzeiht,
+Weil er die Hand bewundert, die das tut!
+Er sieht nur auf die Streiche.
+
+Alexandra.
+                              Was sagt Titus?
+
+Soemus.
+Der denkt, wie ich! Ich liess den Sameas
+Nur darum frei, weil ich zur Rechenschaft
+Gezogen werden wollte. Konnt' ich doch
+Nicht anders an die K&ouml;nigin gelangen!
+Jetzt weiss sie, was sie wissen muss, und ist
+Der Todesbotschaft, wenn sie kommt, gewachsen.
+Das war mein Zweck! Welch edles Weib! Die schlachten!
+Es waer' um ihre Traenen schad gewesen!
+
+Alexandra.
+Gewiss, ein zaertlicher Gemahl!--Such sie
+Nur zu bereden, dass sie sich dem Schutz
+Der Roemer uebergibt und komm aufs Fest,
+Durch das sie mit Herodes bricht, er mag
+Nun tot sein oder leben! (Ab.)
+
+Soemus (ihr folgend).
+                        Er ist tot!
+
+
+
+
+Vierte Szene
+
+Diener treten auf und ordnen das Fest an.
+
+Moses.
+Nun, Artaxerxes? Wieder in Gedanken?
+Flink! Flink! Du stellst bei uns die Uhr nicht vor!
+
+Artaxerxes.
+Haettst du das jahrelang getan, wie ich,
+So wuerd' es dir auch ganz so gehn, wie mir!
+Besonders, wenn du alle Naechte traeumtest,
+Du haettst das alte Amt noch zu versehn!
+Ich greif ganz unwillkuerlich mit der Rechten
+Mir an den Puls der Linken, zaehl und zaehle
+Und zaehle oft bis sechzig, eh' ich mich
+Besinne, dass ich keine Uhr mehr bin!
+
+Moses.
+Merk dir es endlich denn, dass du bei uns
+Die Zeit nicht messen sollst! Wir haben dazu
+Den Sonnenweiser und den Sand! Du selbst
+Sollst, wie wir andern, in der Zeit was tun!
+Faulenzerei, nichts weiter!
+
+Artaxerxes.
+                           Lass dir schwoeren!
+
+Moses.
+Schweig! Schweig! Beim Essen zaehltest du noch nie!
+Im uebrigen: man schwoert auch nicht bei uns,
+Und (fuer sich) waer' der Koenig nicht ein halber Heide,
+So haetten wir auch den fremden Diener nicht!
+Da kommen schon die Musikanten! Flink!
+(Geht zu den uebrigen.)
+
+Jehu.
+Du, ist das wirklich wahr, was man von dir
+Erzaehlt?
+
+Artaxerxes.
+        Wie sollt' es denn nicht wahr sein?
+Soll ich's vielleicht noch hundertmal beteuern?
+Am Hofe des Satrapen war ich Uhr
+Und hatt' es gut, viel besser, wie bei euch!
+Nachts ward ich abgeloest, dann war's mein Bruder,
+Und auch bei Tage, wenn's zum Essen ging.
+Ich dank es wahrlich eurem Koenig nicht,
+Dass er mich mit den andern Kriegsgefangnen
+Hiehergeschleppt! Zwar ward mein Dienst zuletzt
+Ein wenig schwer! Ich musste mit ins Feld,
+Und wenn man links und rechts die Pfeile fliegen,
+Die Menschen fallen sieht, verzaehlt man sich
+Natuerlich leichter als in einem Saal,
+Wo sie zusammenkommen, um zu tanzen.
+Ich schloss die Augen, denn ich bin kein Held,
+Wie es mein Vater war. Den traf ein Pfeil
+Auf seinem Posten--er war Uhr, wie wir,
+Ich und mein Bruder, alle waren Uhren--
+Er rief die Zahl noch ab und starb! Was sagst du?
+Das war ein Mann! Dazu gehoerte mehr,
+Als noetig war, den Pfeil ihm zuzuschicken!
+
+Jehu.
+Habt ihr denn keinen Sand bei euch zu Hause,
+Dass ihr das tun muesst?
+
+Artaxerxes.
+                     Wir? Wir keinen Sand?
+Genug, um ganz Judaea zu bedecken!
+Es ist ja nur, weil der Satrap bei uns
+Es besser haben soll, wie's andre haben!
+Der Puls des Menschen geht doch wohl genauer,
+Wenn er gesund ist und kein Fieber hat,
+Wie euer Sand durch seine Roehre laeuft?
+Und nuetzen euch die Sonnenweiser was,
+Wenn es der Sonne nicht gefaellt zu scheinen?
+(Zaehlt.) Eins--Zwei--
+
+Moses (kommt zurueck).
+                     Fort! Fort! Die Gaeste kommen schon!
+
+Artaxerxes.
+Das ist das Fest? Da sah ich andre Feste!
+Wo keine Frucht gegessen ward, die nicht
+Aus einem fremden Weltteil kam! Wo Strafe,
+Oft Todesstrafe, darauf stand, wenn einer
+Nur einen Tropfen Wasser trank. Wo Menschen,
+Die man mit Hanf umwickelt und mit Pech
+Betraeufelt hatte, in den Gaerten nachts
+Als Fackeln brannten--
+
+Moses.
+                      Hoere auf! Was hatten
+Die Menschen dem Satrapen denn getan?
+
+Artaxerxes.
+Getan? Gar nichts! Bei uns ist ein Begraebnis
+Viel praechtiger, wie eine Hochzeit hier!
+
+Moses.
+Vermutlich fresst ihr eure Toten auf!
+Es passte gut zum uebrigen!
+
+Artaxerxes.
+                         Dann ist's
+Auch wohl nicht wahr, dass eure Koenigin
+Im Wein einst eine Perle aufgeloest,
+Kostbarer, als das ganze Koenigreich,
+Und dass sie diesen Wein an einen Bettler
+Gegeben hat, der ihn, wie andern, soff?
+
+Moses.
+Das ist es nicht! Gott Lob!
+
+Artaxerxes (zu Jehu).
+                           Du sagtest's aber!
+
+Jehu.
+Weil es mir eine Ehre fuer sie schien,
+Und weil man's von der aegypterin erzaehlt!
+
+Moses.
+Hinweg!
+
+Artaxerxes (deutet auf die Rosen, die Jehu traegt).
+       Wirkliche Rosen! Die sind billig,
+Bei uns sind's silberne und goldene!
+Die soll man dahin schicken, wo die Blumen
+So kostbar sind, wie Gold und Silber hier!
+
+(Diener zerstreuen sich. Die Gaeste, unter ihnen Soemus, haben sich waehrend der letzten
+Haelfte dieser Szene versammelt. Musik. Tanz. Silo und Judas sondern sich von den uebrigen
+und erscheinen im Vordergrund.)
+
+Silo.
+Was soll das heissen?
+
+Judas.
+                    Was das heissen soll?
+Der Koenig kehrt zurueck! Und das noch heut!
+
+Silo.
+Meinst du?
+
+Judas.
+          Wie kannst du fragen! Gibt's denn wohl
+Noch einen andern Grund fuer solch ein Fest?
+ueb dich auf einen neuen Bueckling ein!
+
+Silo.
+Es hiess ja aber--
+
+Judas.
+                 Lug und Trug, wie immer,
+Wenn's hiess, ihm sei was Schlimmes widerfahren,
+Und ganz natuerlich, da's so viele gibt,
+Die ihm das Schlimme wuenschen! Wird getanzt
+In einem Haus, wo man um Tote klagt?
+
+Silo.
+Da wird denn bald viel Blut vergossen werden,
+Die Kerker stecken seit dem Aufruhr voll!
+
+Judas.
+Das weiss ich besser, als du's wissen kannst,
+Ich habe manchen selbst hineingeschleppt.
+Denn dieser Aufruhr war so unvernuenftig,
+Dass jeder, der nicht eben darauf sann,
+Sich selbst zu haengen, ihn bekaempfen musste.
+Du weisst, ich liebe den Herodes nicht,
+Wie tief ich mich auch immer vor ihm buecke,
+Doch darin hat er recht: die Roemer sind
+Zu maechtig gegen uns, wir sind nicht mehr,
+Als ein Insekt ist in des Loewen Rachen,
+Das soll nicht stechen, denn es wird verschluckt!
+
+Silo.
+Mir tut's nur leid um meines Gaertners Sohn,
+Der einen Stein nach einem roem'schen Adler
+Geworfen und ihn auch getroffen hat!
+
+Judas.
+Wie alt ist der?
+
+Silo.
+                Wie lange ist es doch,
+Dass ich den Fuss brach?--Da ward er geboren,
+Denn seine Mutter konnte mich nicht pflegen,
+Ja, richtig--zwanzig!
+
+Judas.
+                     Da geschieht ihm nichts!
+        (Mariamne und Alexandra erscheinen.)
+Die Koenigin! (Will gehen.)
+
+Silo.
+            Wie meinst du das? Ein Wort noch!
+
+Judas.
+Wohl! Im Vertraun denn! Weil er zwanzig ist,
+Geschieht ihm nichts! Doch wenn er neunzehn waer'
+Und einundzwanzig, ginge es ihm schlecht!
+Im kuenft'gen Jahr steht's anders!
+
+Silo.
+                                 Spasse nicht!
+
+Judas.
+Ich sage dir, so ist's! Und willst du wissen
+Warum? Der Koenig selbst hat einen Sohn
+Von zwanzig Jahren, doch er kennt ihn nicht!
+Die Mutter hat ihm, als er sie verliess,
+Das Kind entfuehrt und feierlich geschworen,
+Es zu verderben--
+
+Silo.
+                 Greuelhaftes Weib!
+Heidin?
+
+Judas.
+       Vermutlich! Zwar, ich weiss es nicht!--
+So zu verderben, dass er's toeten muesse,
+Verstehst du mich? Ich halt's fuer Raserei,
+Die sich gelegt hat nach der ersten Wut,
+Doch ihn macht's aengstlich, und kein Todesurteil
+Ward je an einem Menschen noch vollzogen,
+Der in dem Alter seines Sohnes stand.
+Troest deinen Gaertner! Doch behalt's fuer dich!
+
+(Verlieren sich wieder unter die uebrigen.)
+
+
+
+
+Fuenfte Szene
+
+Alexandra und Mariamne erscheinen im Vordergrund.
+
+Alexandra.
+So willst du dich nicht zu den Roemern fluechten?
+
+Mariamne.
+Wozu nur?
+
+Alexandra.
+         Um das Leben dir zu sichern!
+
+Mariamne.
+Das Leben! Freilich! Das muss man sich sichern!
+Der Schmerz hat keinen Stachel ohne das!
+
+Alexandra.
+So gib der Stunde wenigstens ihr Recht!
+Du gibst ein Fest, so zeig auch deinen Gaesten
+Ein festliches Gesicht, wie sich's gebuehrt!
+
+Mariamne.
+Ich bin kein Instrument und keine Kerze,
+Ich soll nicht klingen, und ich soll nicht leuchten,
+Drum nehmt mich, wie ich bin! Nein! Tut es nicht!
+Treibt mich, das Beil fuer meinen Hals zu wetzen,
+Was red ich, treibt mich, dass ich mit euch juble--
+Soemus, auf!
+        (Zu Salome, die eben eintritt und ihr entgegenschreitet.)
+
+
+            Du, Salome? Willkommen
+Vor allem mir, trotz deiner Trauerkleider!
+Das haett' ich kaum gehofft!
+
+
+
+
+Sechste Szene
+
+Salome.
+                           Ich muss ja wohl,
+Wenn ich erfahren will, wie's steht! Ich werde
+Zu einem Fest geladen, doch man sagt
+Mir nicht, warum das Fest gegeben wird!
+Zwar kann ich's ahnen, doch ich muss es wissen!
+Nicht wahr: Herodes kehrt zurueck? Wir werden
+Ihn heut noch sehn? Die Kerzen sagen ja,
+Die lustige Musik! Tu du es auch!
+Ich frag nicht meinetwegen! Doch du weisst--
+Nein, nein, du weisst es nicht, du hast's vergessen,
+Du hast vielleicht getraeumt, sie sei begraben,
+Sonst haettst du ihr die Kunde nicht verhehlt,
+Allein dein Traum hat dich getaeuscht, sie sitzt
+Noch immer in der Ecke, wo sie sass,
+Als sie dich segnete--
+
+Mariamne.
+                      Was redest du?
+
+Salome.
+Genug! Herodes hat noch eine Mutter,
+Die bangt um ihren Sohn und haermt sich ab.
+Und ich, ich bitt dich: lass sie das Verbrechen,
+Dass sie auch mich gebar, nicht laenger buessen,
+Gib ihr den Trost, nach dem ihr Herz verlangt!
+
+Mariamne.
+Ich hab fuer seine Mutter keinen Trost!
+
+Salome.
+Du hast Herodes heut nicht zu erwarten?
+
+Mariamne.
+Nichts weniger! Ich hoerte, er sei tot!
+
+Salome.
+Und feierst dieses Fest?
+
+Mariamne.
+                        Weil ich noch lebe!
+Soll man sich denn nicht freun, dass man noch lebt?
+
+Salome.
+Ich glaub dir nicht!
+
+Mariamne.
+Viel Dank fuer deinen Zweifel!
+
+Salome.
+Die Kerzen--
+
+Mariamne.
+            Sind sie nicht zum Leuchten da?
+
+Salome.
+Die Zimbeln--
+
+Mariamne.
+             Muessen klingen, weisst du's anders?
+
+Salome (deutet auf Mariamnens reiche Kleidung).
+Die Edelsteine--
+
+Mariamne.
+                Stuenden dir zwar besser--
+
+Salome.
+Das alles deutet--
+
+Mariamne.
+                  Auf ein Freudenfest!
+
+Salome.
+Das ueber einem Grabe--
+
+Mariamne.
+                      Es ist moeglich!
+
+Salome.
+Dann--Mariamne, hoer ein ernstes Wort!
+Ich hab dich stets gehasst, doch immer blieb mir
+Ein Zweifel, ob es auch mit Recht geschah,
+Und reuig hab ich oft mich dir genaehert,
+Um--
+
+Mariamne.
+    Mich zu kuessen! Einmal tatst du's gar!
+
+Salome.
+Jetzt aber seh ich, du bist--
+
+Mariamne.
+                             Schlecht genug,
+Dich stehnzulassen und mich in die Schar
+Zu mischen, welche dort den Tanz beginnt!
+Soemus!
+
+Soemus (reicht ihr den Arm).
+       Koenigin!
+
+Mariamne.
+So hat Herodes
+Mich ganz gewiss gesehen, als er dir
+Den blutigen Befehl gab. Wunderbar!
+Es ist nun wirklich alles so gekommen!
+        (Im Abgehen zu Salome.)
+Du siehst doch zu?
+
+(Von Soemus in den Hintergrund gefuehrt, wo sie beide nicht mehr gesehen werden.)
+
+Salome.
+Dies Weib ist noch viel schlechter,
+Als ich's mir dachte! Das will etwas sagen!
+Drum hat sie auch die bunte Schlangenhaut,
+Mit der sie alles koedert!--ja, sie tanzt!
+Nun, wahrlich, jetzt ist mein Gewissen ruhig,
+Der kann kein Mensch auf Erden unrecht tun!
+
+(Sie sieht Mariamnen zu.)
+
+
+
+
+
+Siebente Szene
+
+Alexandra kommt mit Titus.
+
+Alexandra.
+Titus, du siehst, wie meine Tochter trauert!
+
+Titus.
+Sie hat wohl neue Botschaft von Herodes?
+
+Alexandra.
+Die Botschaft, dass es mit ihm aus ist! Ja!
+
+Titus (sieht nach Mariamnen).
+Sie tanzt!
+
+Alexandra.
+          Als waere sie, statt Witwe, Braut!
+Titus, sie trug bis heute eine Maske,
+Und, merk dir das, sie tat es nicht allein!
+
+Titus.
+Sehr gut fuer sie! Dann bleibt sie, was sie ist!
+Gehoert sie zu den Feinden des Herodes,
+So wird sie nicht mit seinen Freunden buessen!
+
+Alexandra.
+Um das zu zeigen, gibt sie ja dies Fest!
+        (Entfernt sich von Titus.)
+
+Titus.
+Es schaudert mir vor diesen Weibern doch!
+Die eine haut dem Helden, den sie erst
+Durch heuchlerische Kuesse sicher machte,
+Im Schlaf den Kopf ab, und die andre tanzt,
+Um sich nur ja die Krone zu erhalten,
+Wie rasend, auf dem Grabe des Gemahls!
+Um das zu sehn, ward ich gewiss geladen
+        (Er sieht wieder nach Mariamnen.)
+Ja, ja, ich seh's und will's in Rom bezeugen--
+Doch trinke ich hier keinen Tropfen Wein!
+
+Salome.
+Was sagst du, Titus? Steht es mit dem Koenig
+So schlecht, dass die schon alles wagen darf?
+
+Titus.
+Wenn er nicht gleich sich zum Octavian
+Geschlagen und dem Marc Anton vorm Fall
+Den letzten Stoss noch mitgegeben hat,
+Und das bezweifle ich, so steht's nicht gut!
+
+Salome.
+O haett' er's doch getan!--Wenn die den Kopf
+Behaelt, so weiss ich nicht, warum der Herr
+Das Blut der uepp'gen Jesabel den Hunden
+Zu lecken gab! (Verliert sich unter die uebrigen.)
+
+Titus.
+              Sie tanzt noch fort! Doch scheint's
+Ihr nicht ganz leicht zu sein! Sie muesst' ergluehen,
+Doch sie erbleicht, als ob sie in Gedanken
+Was andres taete und nur unwillkuerlich
+Dem Reigen folgte! Nun, auch diese Judith
+Hat wohl nicht ohne Angst ihr Werk vollbracht!
+Und die da muss den letzten Kuss des Mannes,
+Den sie hier jetzt vor mir so feierlich
+Verleugnet, noch auf ihrer Lippe fuehlen,
+Auch sah sie ihn ja noch nicht tot!--Sie kommt!
+
+(Mariamne erscheint wieder. Alexandra und Soemus folgen ihr.)
+
+Alexandra (zu Mariamne).
+Ich sprach mit Titus!
+
+Mariamne (erblickt bei einer ploetzlichen Wendung ihr Bild im Spiegel).
+
+                     Ha!
+
+Alexandra.
+                        Was hast du denn?
+
+Mariamne.
+So hab ich mich ja schon im Traum gesehn!--
+Das also war's, was mich vorhin nicht ruhn liess,
+Bis der verlorene Rubin sich fand,
+Der jetzt auf meiner Brust so duester glimmt:
+Das Bild haett' eine Luecke ohne ihn!--
+Auf dieses folgt das letzte bald!
+
+Alexandra.
+                                 Komm zu dir!
+
+Mariamne.
+So lass mich doch!--Ein Spiegel, ganz, wie der!
+Zu Anfang angelaufen, wie vom Hauch
+Des Atmenden, dann, wie die Bilder, die
+Er nacheinander zeigte, sanft sich klaerend
+Und endlich leuchtend, wie geschliffner Stahl.
+Ich sah mein ganzes Leben! Erst erschien ich
+Als Kind, von zartem Rosenlicht umflossen,
+Das immer roeter, immer dunkler ward:
+Da waren mir die eignen Zuege fremd,
+Und bei der dritten Wandlung erst erkannt' ich
+Mich in dem gar zu jungen Angesicht.
+Nun kam die Jungfrau und der Augenblick,
+Wo mich Herodes in den Blumengarten
+Begleitete und schmeichelnd zu mir sprach:
+So schoen ist keine, dass sie deine Hand
+Nicht pfluecken duerfte!--Ha, er sei verflucht,
+Dass er's so ganz vergass! So ganz! Dann ward's
+Unheimlich, und ich musste wider Willen
+Die Zukunft schaun. Ich sah mich so und so,
+Und endlich, wie ich hier steh! (Zu Alexandra.) Ist es denn
+Nicht seltsam, wenn ein Traum ins Leben tritt?--
+Nun truebte sich der helle Spiegel wieder,
+Das Licht ward aschenfarbig, und ich selbst,
+Die kurz zuvor noch Bluehende, so bleich,
+Als haett' ich unter diesem Prachtgewand
+Schon laengst aus allen Adern still geblutet.
+Ein Schauder packte mich, ich rief: Jetzt komme
+Ich als Geripp, und das will ich nicht sehn!
+Da wandt' ich mich--
+(Sie wendet sich vom Spiegel ab.)
+
+Stimmen im Hintergrund. Der Koenig!
+
+(Allgemeine Bewegung.)
+
+Alexandra.
+                                  Wer?
+
+
+
+
+Achte Szene
+
+Herodes tritt ein, kriegerisch angetan. Joab. Gefolge.
+
+Mariamne.
+Der Tod! Der Tod! Der Tod ist unter uns!
+Unangemeldet, wie er immer kommt!
+
+Salome.
+Der Tod fuer dich! jawohl! So fuehlst du's selbst?
+Mein Bruder!
+        (Will Herodes umarmen, er draengt sie zurueck.)
+
+Herodes.
+            Mariamne! (Er naehert sich ihr.)
+
+Mariamne (weist ihn mit einer heftigen Gebaerde zurueck).
+                    Zieh das Schwert!
+Reich mir den Giftpokal! Du bist der Tod!
+Der Tod umarmt und kuesst mit Schwert und Gift!
+
+Herodes (kehrt sich nach Salome um).
+Was soll das heissen? Tausend Kerzen riefen
+Mir aus der Ferne durch die Nacht schon zu:
+Dein Bote ward nicht von den Arabern
+Ergriffen, er kam an, du wirst erwartet,
+Und jetzt--
+
+Salome.
+           Die Kerzen haben dich betrogen,
+Hier ward gejubelt ueber deinen Tod!
+Dein Bote kam nicht an, und deine Mutter
+Zerriss schon ihr Gewand um dich!
+
+(Herodes sieht um sich, bemerkt Titus und winkt ihm.)
+
+Titus (tritt heran).
+                                So ist's!
+Hier war kein Mensch darauf gefasst, ich selbst
+Nicht einmal ganz, dass du noch vor der Schlacht
+Bei Aktium den Antonius verlassen
+Und, wie's die Klugheit freilich riet, zum Caesar
+Hinuebergehen wuerdest! Dass du's tatest,
+Beweist mir deine Wiederkunft. Nun wohl!
+Ich--wuensch dir Glueck!
+
+Mariamne (tritt herzu).
+                      Und ich beklage dich,
+Dass die Gelegenheit sich dir nicht bot,
+Den Marc Anton mit eigner Hand zu schlachten.
+So haettst du deinem neuen Herrn am besten
+Gezeigt, dass dir am alten nichts mehr lag;
+Du haettst ihm deines Freundes Kopf gebracht,
+Er haett' ihn mit der Krone dir bezahlt!
+
+Herodes.
+Pfui, Titus, pfui! Auch du denkst so von mir?
+Ich zog hinunter nach Arabien,
+Wie mir's Antonius geboten hatte,
+Allein ich fand dort keinen Feind! Nun macht' ich
+Mich auf nach Aktium, und meine Schuld
+War's nicht, wenn ich zu spaet kam. Haett' er sich
+Gehalten, wie ich glaubte, dass er's wuerde,
+So haett' ich (gegen Mariamne) die Gelegenheit gesucht,
+Ihm mit dem Kopfe des Octavian
+Die Krone zu bezahlen! (Zu Titus.) Er tat's nicht!
+Er war schon tot, als ich erschien. Nun tat ihm
+Der Freund nicht weiter not, und ich begab
+Mich zum Octavian; zwar nicht als Koenig--
+Die Krone legt' ich ab--doch darum auch
+Als Bettler nicht. Ich zog mein Schwert und sprach:
+Dies wollt' ich brauchen gegen dich, ich haett' es
+Vielleicht mit deinem eignen Blut gefaerbt,
+Wenn's hier noch besser stuende. Das ist aus!
+Jetzt senke ich's vor dir und leg es ab!
+Erwaege du nun, welch ein Freund ich war,
+Nicht, wessen Freund; der Tote gab mich frei:
+Ich kann jetzt, wenn du willst, der deine sein!
+
+Titus.
+Und er?
+
+Herodes.
+       Er sprach "Wo hast du dien Krone?
+Ich setz noch einen Edelstein hinein,
+Nimm die Provinz hin, die dir fehlt bis heute,
+Du sollst es nur an meiner Grossmut fuehlen,
+Dass ich der Sieger bin, nicht Marc Anton,
+Er haett' sie Cleopatren nie genommen,
+Die sie bisher besass, ich schenk sie dir!
+
+Titus.
+Das--haett' ich nie gedacht. Auch preis ich nichts,
+Als deinen Stern!
+
+Herodes.
+                 Titus! O preis ihn nicht!
+Ich ward zu schwerem Werk gespart! Soemus!
+        (Soemus bleibt stehen, wo er steht und antwortet nicht.)
+Verrietst du mich? Du schweigst! Ich weiss genug!
+Oh! Oh! Hinweg mit ihm!
+
+Soemus (indem er abgefuehrt wird).
+                       Ich leugne nichts!
+Doch, dass ich dich fuer tot hielt, magst du glauben!
+Jetzt tu, was dir gefaellt! (Ab.)
+
+Herodes.
+                          Und nach dem Tode
+Hoert alles auf, nicht wahr? Ja! Ja! Mein Titus,
+Haettst du den Mann gekannt, wie ich--du wuerdest
+Nicht so gelassen, nicht so ruhig dastehn,
+Wie ich hier steh, du wuerdest schaeumen, knirschen
+Und wuetend sprechen: (Gegen Mariamne.) Weib, was tatst du alles,
+Um den so weit zu bringen?--Salome,
+Du hattest recht, ich muss mich waschen, waschen--
+Blut her! Sogleich beruf ich ein Gericht!
+(Gegen Mariamne.) Du schweigst? Du huellst dich noch in deinen Trotz?
+Ich weiss warum! Du hast's noch nicht vergessen,
+Was du mir warst! Auch jetzt noch riss' ich leichter
+Das Herz mir aus der Brust--Titus, so ist's!--
+Als (wieder zu Mariamne) dich mir aus dem Herzen! Doch ich tu's!
+
+Mariamne (wendet sich kurz).
+Ich bin Gefangne?
+
+Herodes.
+                 Ja!
+
+Mariamne (zu den Soldaten).
+                    So fuehrt mich ab!
+(Wendet sich. Auf Herodes' Wink folgt ihr Joab mit Soldaten.)
+Der Tod kann mein Gemahl nicht laenger sein! (Ab.)
+
+Herodes.
+Ha! Ha! Zu der hab ich einmal gesprochen:
+Zwei Menschen, die sich lieben, wie sie sollen,
+Koennen einander gar nicht ueberleben,
+Und wenn ich selbst auf fernem Schlachtfeld fiele:
+Man brauchte dir's durch Boten nicht zu melden,
+Du fuehltest es sogleich, wie es geschehn,
+Und stuerbest ohne Wunde mit an meiner!
+Titus, verlach mich nicht! So ist's! So ist's!
+Allein die Menschen lieben sich nicht so! (Ab.)
+
+
+
+
+
+Fuenfter Akt
+
+Grosser Audienzsaal, wie im ersten Akt.
+
+Man erblickt Thron und Richtertafel.
+
+
+
+
+Erste Szene
+
+Herodes und Salome.
+
+Herodes.
+Hoer auf, hoer auf! Ich habe das Gericht
+Bestellt und werde seinen Spruch vollziehn!
+Ich, der ich sonst vor jedem Fieber bebte,
+Wenn's auch nur ihre Kammerfrau befiel,
+Ich selbst bewaffne gegen sie den Tod!
+Das sei genug! Wenn dich dein Eifer noch
+Nicht ruhen laesst, wird er sein Ziel verfehlen,
+Ich werde denken, dass der Hass allein
+Aus deinem Munde spricht, und dich als Zeugin
+Verwerfen, wenn ich jede Kerze auch
+Als solche gelten lasse, die geflammt,
+Und jede Blume, die geduftet hat!
+
+Salome.
+Herodes! Leugnen will ich's nicht, ich habe
+Nach ihren Fehlern einst gespaeht und sie
+Vergroessert, wie du selbst die Tugenden,
+Die du an ihr entdecktest. War der Stolz,
+Womit sie mir und deiner Mutter immer
+Begegnete, war er ein Grund zur Liebe?
+Sie gab sich als ein Wesen hoehrer Art,
+Das niemals einen anderen Gedanken,
+Als den, in mir erregte: wozu ist
+Das dicke Buch, das von den Heldentaten
+Der Makkabaeer uns erzaehlt, nur da?
+Die traegt ja selbst die Chronik im Gesicht!
+
+Herodes.
+Du willst mich widerlegen und besiegelst
+Den Spruch, den ich gefaellt!
+
+Salome.
+                            Hoer mich nur aus!
+So war's, ich leugn' es nicht. Doch wenn ich jetzt
+Mehr sagte, als ich weiss und denk und fuehle,
+Ja, wenn ich nicht aus schwesterlichem Mitleid
+Die Haelfte dessen, was ich sagen koennte,
+Noch in der Brust verschloss, so soll mein Kind--
+Ich liebe es ja wohl?--so viele Jahre
+Erleben, als sein Scheitel Haare zaehlt,
+Und jeder Tag ihm so viel Schmerzen bringen,
+Als er Minuten, ja Sekunden hat!
+
+Herodes.
+Der Schwur ist fuerchterlich!
+
+Salome.
+                            Und dennoch faellt er
+Mir leichter, als das Wort: die Nacht ist schwarz!
+Mein Auge koennte krank sein, doch unmoeglich
+Ist mit dem Auge krank zugleich das Ohr,
+Ja, der Instinkt, das Herz und jegliches
+Organ, das meine Sinne unterstuetzt!
+Und alle stimmen diesmal so zusammen,
+Als koennten sie sich gar nicht widersprechen.
+Ja, haette Gott in jener Festesnacht
+Mir aus des Himmels Hoehen zugerufen:
+Von welchem uebel soll ich eure Erde
+Befrein, du hast die Wahl, so haett' ich nicht
+Die Pest, ich haett' dein boeses Weib genannt!
+Mir schauderte vor ihr, mir war zumut,
+Als haett' ich einem Daemon aus der Hoelle
+Im Finstern meine Menschenhand gereicht,
+Und er verhoehnte mich dafuer, er traete
+In seiner eignen schrecklichen Gestalt
+Aus dem gestohlnen Leib von Fleisch und Blut
+Hervor und grinste mich durch Flammen an.
+Auch schauderte mir nicht allein, der Roemer
+Sogar, der eh'rne Titus, war entsetzt!
+
+Herodes.
+Jawohl, und der wiegt schwerer, als du selbst,
+Denn, wie er keinen liebt, so hasst er keinen
+Und ist gerecht, wie Geister ohne Blut.
+Verlass mich jetzt, denn ich erwarte ihn!
+
+Salome.
+Nein, niemals werd' ich diesen Tanz vergessen,
+Bei dem sie nach dem Takte der Musik
+Den Boden trat, als wuesste sie's gewiss,
+Dass du darunter lagst! Bei Gott, ich wollte,
+Ich muesste das nicht sagen! Denn ich weiss,
+Wie tief es dich, der du ihr Mutter, Schwester,
+Und was nicht, opfertest, empoeren muss!
+Allein, so war es! (Ab.)
+
+
+
+
+Zweite Szene
+
+Herodes (allein).
+                  Titus sagte mir
+Das naemliche! Auch sah ich selbst genug!
+Und die hat recht! Ich habe ihr die Schwester
+Und fast die Mutter auch geopfert: woegen
+Die nicht den Bruder auf, den sie verlor?
+In ihren Augen nicht!
+
+
+
+
+Dritte Szene
+
+Titus tritt ein.
+
+Herodes.
+                     Nun, Titus, nun?
+Bekennt Soemus?
+
+Titus.
+               Was du weisst! Nicht mehr!
+
+Herodes.
+Nichts von--
+
+Titus.
+            O nein! Er fuhr, wie rasend, auf,
+Als ich von fern nur darauf deutete!
+
+Herodes.
+Ich konnte es erwarten!
+
+Titus.
+                       Niemals haette
+Ein Weib, wie deins, gelebt, und niemals sei
+Ein Mann des Kleinods, das ihm Gott beschieden,
+So wenig wert gewesen--
+
+Herodes.
+                       Als ich selbst!
+Ja, ja!--"Er wusste nicht, was Perlen sind,
+Drum nahm ich ihm sie weg!" So sprach der Dieb.
+Ich weiss nicht, half's ihm was?
+
+Titus.
+                               Ihr Herz sei edler
+Als Gold--
+
+Herodes.
+          So kennt er es? Er ist berauscht
+Und lobt den Wein! Ist das nicht ein Beweis,
+Dass er getrunken hat? Was schuetzte er
+Denn vor? Warum verriet er meinen Auftrag
+An sie?
+
+Titus.
+       Aus Abscheu, wie er sagt!
+
+Herodes.
+                                Aus Abscheu?
+Und diesen Abscheu sprach er mir nicht aus?
+
+Titus.
+Waer' das ihm wohl bekommen? Haettest du
+Den starren Diener leben lassen koennen,
+Der den Befehl einmal von dir empfing
+Und ihn zurueckwies?
+
+Herodes.
+                   War's in solchem Fall
+Denn nicht genug, ihn unvollfuehrt zu lassen?
+
+Titus.
+Gewiss! Doch wenn er weiter ging, so tat er's
+Vielleicht, weil du ihm schon verloren schienst,
+Und weil er nun die Gunst der Koenigin
+Auf deine Kosten sich erkaufen wollte,
+In deren Haenden seine Zukunft lag.
+
+Herodes.
+Nein, Titus, nein! Soemus war der Mann,
+In eigener Person den Griff zu wagen,
+Der uns die fremde Gunst entbehrlich macht!
+Nur darum uebertrug ich's ihm, ich dachte:
+Er tut's fuer sich, wenn er's fuer dich nicht tut!
+Ja, waer' er ein Geringrer, als er ist,
+Und haett' er nicht in Rom die vielen Freunde,
+So wollt' ich's glauben, aber jetzt--Nein, nein!
+Es gab nur einen Grund!
+
+Titus.
+                       Und dennoch raeumt
+Er den nicht ein!
+
+Herodes.
+                 Er waer' nicht, was er ist,
+Wenn er es taete, denn er weiss gar wohl,
+Was folgen wird, und hofft nun, durch sein Leugnen
+In meiner Brust noch einen letzten Zweifel
+Zu wecken, der, wenn nicht sein eignes Haupt,
+So doch das ihrige, vorm Tode schuetzt!
+Allein er irrt, dem Zweifel fehlt der Stachel,
+Denn haett' ich nichts zu strafen, was sie tat,
+So straft' ich, was sie ward, und was sie ist!
+Ha! Waer' sie je gewesen, was sie schien:
+Sie haette so sich nie verwandeln koennen,
+Und Rache nehm ich an der Heuchlerin!
+Ja, Titus, ja, ich schwoer es bei dem Schluessel
+Zum Paradies, den sie in Haenden haelt;
+Bei aller Seligkeit, die sie mir schon
+Gewaehrte und mir noch gewaehren kann;
+Ja, bei dem Schauder, der mich eben mahnt,
+Dass ich in ihr mich selbst vernichten werde:
+Ich mach ein Ende, wie's auch stehen mag!
+
+Titus.
+Es ist zu spaet, dir warnend zuzurufen:
+Gib den Befehl nicht! und ich kenne selbst
+Kein Mittel, das zur Klarheit fuehren kann,
+Drum wag ich nicht zu sagen: halte ein!
+
+
+
+
+Vierte Szene
+
+Joab tritt ein.
+
+Herodes.
+Sind sie versammelt?
+
+Joab.
+                    Laengst! Aus dem Gefaengnis
+Muss ich dir melden, was mir wichtig scheint!
+Man kann den Sameas nicht so weit bringen,
+Dass er sich selbst entleibt!
+
+Herodes.
+                            Ich gab Befehl,
+Dass man ihn martern soll, bis er es tut!
+        (Zu Titus.)
+Der hat geschworen, hoert' ich, sich zu toeten,
+Wenn er mich nicht zu seinesgleichen machen,
+Den Heidensinn in mir, wie er es nennt,
+Nicht brechen koenne. Da ihm das misslang,
+So zwinge ich ihn, seinen Schwur zu halten,
+Er hat den Tod wohl tausendfach verdient!
+
+Titus.
+Ich haette selbst auf seinen Tod gedrungen,
+Denn er hat mich beschimpft und Rom in mir,
+Und das kann ueberall verziehen werden,
+Nur hier nicht, wo das Volk so stoerrig ist!
+
+Herodes (zu Joab).
+Nun denn!
+
+Joab.
+         Man tat getreu nach deinen Worten,
+Allein es half zu nichts. Der Henker hat
+Fast jede Qual ihm angetan, er hat
+Ihm obendrein, ergrimmt ob seinem Trotz,
+Den er fuer Hohn nahm, Wunden beigebracht,
+Doch ist's, als haett' er einen Baum gegeisselt,
+Als haette er in Holz hineingeschnitten:
+Der Alte steht so da, als fuehlt' er nichts,
+Er singt, anstatt zu schrein und nach dem Messer
+Zu greifen, das ihm vorgehalten wird,
+Er singt den Psalm, den die drei Maenner einst
+Im feur'gen Ofen sangen, er erhebt
+Bei jedem neuen Schmerz die Stimme lauter
+Und, wenn er einhaelt, prophezeit er gar!
+
+Herodes (fuer sich).
+So sind sie! Ja!--Und wird sie anders sein?
+
+Joab.
+Dann ruft er aus, als haett' er fuer geheime
+Und wunderbare Dinge so viel Augen
+Bekommen, als er Wunden zaehlt, nun sei
+Die Zeit erfuellt, und in die Krippe lege
+Die Jungfrau-Mutter aus dem Stamme Davids
+In diesem heil'gen Augenblick ein Kind,
+Das Throne stuerzen, Tote wecken, Sterne
+Vom Himmel reissen und von Ewigkeit
+Zu Ewigkeit die Welt regieren werde.
+Das Volk indes, zu Tausenden versammelt,
+Harrt draussen vor den Toren, hoert das alles
+Und glaubt, dass sich Elias' Flammenwagen
+Herniedersenken wird, um ihn, wie den,
+Emporzutragen. Selbst ein Henkersknecht
+Erschrak und hielt, anstatt ihm neue Wunden
+Zu schlagen, ihm die alten zu!
+
+Herodes.
+                              Man soll
+Ihn auf der Stelle toeten, und dem Volk
+Ihn zeigen, wenn er tot ist!--Lass dann auch
+Die Richter kommen und--
+
+Joab.
+                        Die Koenigin! (Ab.)
+
+Herodes.
+Du, Titus, wirst an meiner Seite sitzen!
+Auch ihre Mutter habe ich geladen,
+Damit es ihr nicht an der Zeugin fehlt.
+
+
+
+
+Fuenfte Szene
+
+Aaron und die uebrigen fuenf Richter treten ein. Alexandra und Salome
+folgen. Joab erscheint gleich darauf.
+
+Alexandra.
+Mein Koenig und mein Herr, sei mir gegruesst!
+
+Herodes.
+Ich danke dir!
+
+(Er setzt sich auf seinen Thron. Titus setzt sich ihm zur Seite.
+Die Richter setzen sich dann auf seinen Wink im Halbkreis um die Tafel)
+
+Alexandra (waehrend dies geschieht). Vom Schicksal Mariamnens
+Scheid ich das meinige, und spare mich,
+Wie eine Fackel, fuer die Zukunft auf!
+
+(Sie setzt sich neben Salome.)
+
+Herodes (zu den Richtern).
+Ihr wisst, warum ich euch berufen liess!
+
+Aaron.
+In tiefstem Schmerz erschienen wir vor dir!
+
+Herodes.
+Nicht zweifl' ich! Mir und meinem Hause seid
+Ihr alle eng befreundet und verwandt,
+Was mich trifft, trifft euch mit! Euch wird es freun'
+Wenn ihr die Koenigin, die--(Er stockt.) Schenkt mir das!
+Euch wird es freun, wenn ihr sie nicht verdammen,
+Wenn ihr, anstatt nach Golgatha hinaus,
+Zurueck mir in das Haus sie schicken duerft,
+Doch werdet ihr auch vor dem aeussersten
+Nicht mutlos zittern, wenn' es noetig wird,
+Denn, wie ihr Glueck und Unglueck mit mir teilt,
+So teilt ihr Schmach und Ehre auch mit mir.
+Wohlan denn!
+
+(Er gibt Joab ein Zeichen. Joab geht ab. Dann erscheint er wieder mit
+Mariamne.--Es entsteht eine lange Pause.)
+
+                        Aaron!
+
+Aaron.
+          Koenigin! Uns ward
+Ein schweres Amt! Du stehst vor deinen Richtern!
+
+Mariamne.
+Vor meinen Richtern, ja, und auch vor euch!
+
+Aaron.
+Erkennst du dies Gericht nicht an?
+
+Mariamne.
+                                  Ich sehe
+Ein hoehres hier! Wenn das auf eure Fragen
+Die Antwort mir gestattet, werd' ich reden,
+Und schweigen werd' ich, wenn es sie verbeut!--
+Mein Auge sieht euch kaum! Denn hinter euch
+Stehn Geister, die mich stumm und ernst betrachten,
+Es sind die grossen Ahnen meines Stamms.
+Drei Naechte sah ich sie bereits im Traum,
+Nun kommen sie bei Tage auch, und wohl
+Erkenn ich, was es heisst, dass sich der Reigen
+Der Toten schon fuer mich geoeffnet hat
+Und dass, was lebt und atmet, mir erbleicht.
+Dort, hinter jenem Thron, auf dem ein Koenig
+Zu sitzen scheint, steht Judas Makkabaeus:
+Du Held der Helden, blicke nicht so finster
+Auf mich herab, du sollst mit mir zufrieden sein!
+
+Alexandra.
+Sei nicht zu trotzig, Mariamne!
+
+Mariamne.
+                               Mutter!
+Leb wohl!--(Zu Aaron.) Weswegen bin ich hier verklagt?
+
+Aaron.
+Du habest deinen Koenig und Gemahl
+Betrogen--(Zu Herodes.) Nicht?
+
+Mariamne.
+                              Betrogen? Wie? Unmoeglich!
+Hat er mich nicht gefunden, wie er mich
+Zu finden dachte? Nicht bei Tanz und Spiel?
+Zog ich, als ich von seinem Tode hoerte,
+Die Trauerkleider an? Vergoss ich Traenen?
+Zerrauft' ich mir das Haar? Dann haett' ich ihn
+Betrogen, doch ich hab es nicht getan
+Und kann es dartun. Salome, sprich du!
+
+Herodes.
+Ich fand sie, wie sie sagt. Sie braucht sich nicht
+Nach einem andern Zeugen umzusehn.
+Doch niemals, niemals haette ich's gedacht!
+
+Mariamne.
+Niemals gedacht? Und doch verlarvt den Henker
+Dicht hinter mich gestellt? Das kann nicht sein!
+Wie ich beim Scheiden stand vor seinem Geist,
+So hat er mich beim Wiedersehn gefunden,
+Drum muss ich leugnen, dass ich ihn betrog!
+
+Herodes. (in ein wildes Gelaechter ausbrechend).
+Sie hat mich nicht betrogen, weil sie nichts
+Getan, als was das Vorgefuehl, die Ahnung,
+Wie preis ich sie, die duestre Warnerin!
+Mich fuerchten liess--(Zu Mariamne.) Weib! Weib! Dies steht dir an!
+Doch baue nicht zu fest darauf, dass ich
+Mit Glueck und Ruhe auch die Kraft verlor,
+Mir blieb vielleicht ein Rest noch fuer die Rache,
+Und--schon als Knabe schoss ich einem Vogel
+Stets einen Pfeil nach, wenn er mir entflog.
+
+Mariamne.
+Sprich nicht von Vorgefuehl und Ahnung, sprich
+Von Furcht allein! Du zittertest vor dem,
+Was du verdientest! Das ist Menschenart!
+Du kannst der Schwester nicht mehr traun, seit du
+Den Bruder toetetest, du hast das aergste
+Mir zugefuegt und glaubst nun, dass ich's dir
+Erwidern, ja, dich ueberbieten muss!
+Wie, oder hast du stets, wenn du dem Tod
+In ehrlich-offnem Krieg entgegenzogst,
+Den Henker hinter mich gestellt? Du schweigst!
+Wohlan denn! Da du's selbst so tief empfindest,
+Was sich fuer mich geziemt, da deine Furcht
+Mich ueber meine Pflicht belehrt, so will
+Ich endlich diese heil'ge Pflicht erfuellen,
+Drum scheid ich mich auf ewig von dir ab!
+
+Herodes.
+Antwort! Bekennst du? Oder tust du's nicht?
+        (Mariamne schweigt.--Herodes zu den Richtern.)
+Ihr seht, das Eingestaendnis fehlt! Und auch
+Beweise hab ich nicht, wie ihr sie braucht!
+Doch habt ihr einmal einen Moerder schon
+Zum Tod verdammt, weil des Erschlagnen Kleinod
+Sich bei ihm fand. Es half ihm nichts, dass er
+Auf seine wohlgewaschnen Haende wies,
+Und nichts, dass er euch schwur, der Tote habe
+Es ihm geschenkt: Ihr liesst den Spruch vollziehn!
+Wohlan! So steht's auch hier! Sie hat ein Kleinod,
+Was mir bezeugt, unwidersprechlicher,
+Wie's irgendeine Menschenzunge koennte,
+Dass sie den Greul der Greul an mir beging.
+Ein Wunder haett' nicht bloss geschehn, es haette
+Sich wiederholen muessen, waer' es anders,
+Und Wunder wiederholten sich noch nie!
+        (Mariamne macht eine Bewegung.)
+Zwar wird sie sprechen, wie der Moerder sprach:
+Man habe ihr's geschenkt! Auch darf sie's wagen,
+Denn, wie ein Wald, ist eine Kammer stumm.
+Doch, waeret ihr versucht, ihr das zu glauben,
+So setz ich euch mein innerstes Gefuehl
+Und die Ergruendung aller Moeglichkeiten
+Entgegen, und verlange ihren Tod.
+Ja, ihren Tod! Ich will den Kelch des Ekels
+Nicht leeren, den der Trotz mir beut, ich will
+Nicht Tag fuer Tag mich mit dem Raetsel quaelen,
+Ob solch ein Trotz das widerwaertigste
+Gesicht der Unschuld, ob die frechste Larve
+Der Suende ist, ich will mich aus dem Wirbel
+Von Hass und Liebe, eh' er mich erstickt,
+Erretten, kost es, was es kosten mag!
+Darum hinweg mit ihr!--Ihr zoegert noch?
+Es bleibt dabei!--Wie?--Oder traf ich's nicht?
+Sprecht ihr! Ich weiss, das Schweigen ist an mir!
+Doch sprecht! Sprecht! Sitzt nicht da, wie Salomo
+Zwischen den Muettern mit den beiden Kindern!
+Der Fall ist klar! Ihr braucht nicht mehr zum Spruch,
+Als was ihr seht! Ein Weib, das dastehn kann,
+Wie sie, verdient den Tod, und waer' sie rein
+Von jeder Schuld! Ihr sprecht noch immer nicht?
+Wollt ihr vielleicht erst den Beweis, wie fest
+Ich ueberzeugt bin, dass sie mich betrog?
+Den geb ich euch durch des Soemus Kopf,
+Und das sogleich! (Er geht auf Joab zu.)
+
+Titus (erhebt sich).
+                 Dies nenn ich kein Gericht!
+Verzeih! (Er will gehen.)
+
+Mariamne.
+        Bleib, Roemer, ich erkenn es an!
+Wer will's verwerfen, wenn ich selber nicht!
+
+(Titus setzt sich wieder.--Alexandra steht auf. Mariamne tritt zu ihr
+heran, halblaut.)
+
+Du hast viel Leid mir zugefuegt, du hast
+Nach meinem Glueck das deine nie gemessen!
+Soll ich es dir verzeihn, so schweige jetzt!
+Du aenderst nichts, mein Entschluss ist gefasst.
+        (Alexandra setzt sich wieder.)
+Nun, Richter?
+
+Aaron (zu den uebrigen).
+             Wer von euch den Spruch des Koenigs
+Nicht fuer gerecht haelt, der erhebe sich!
+        (Alle bleiben sitzen.)
+So habt ihr alle auf den Tod erkannt!
+        (Er steht auf.)
+Du bist zum Tod verurteilt, Koenigin!--
+Hast du noch was zu sagen?
+
+Mariamne.
+                          Wenn der Henker
+Nicht zum voraus bestellt ist und auf mich
+Schon wartet mit dem Beil, so moechte ich
+Vorm Tode noch mit Titus ein Gespraech.
+        (Zu Herodes.)
+Man pflegt den Sterbenden die letzte Bitte
+Nicht abzuschlagen. Wenn du sie gewaehrst,
+So sei mein Leben deinem zugelegt!
+
+Herodes.
+Der Henker ist noch nicht bestellt--ich kann's!
+Und da du mir dafuer die Ewigkeit
+Als Lohn versprichst, so muss und will ich auch!
+    (Zu Titus.)
+Ist dieses Weib nicht fuerchterlich?
+
+Titus.
+                                   Sie steht
+Vor einem Mann, wie keine stehen darf!
+Drum endige!
+
+Salome (tritt heran).
+            O tu es! Deine Mutter
+Ist krank bis auf den Tod! Sie wird gesund,
+Wenn sie das noch erlebt,
+
+Herodes (zu Alexandra).
+                         Sprachst du nicht was?
+
+Alexandra.
+Nein!
+
+(Herodes sieht Mariamnen lange an. Mariamne bleibt stumm.)
+
+Herodes.
+    Stirb! (Zu Joab.) Ich leg's in deine Hand!
+
+(Schnell ab. Ihm folgt Salome.)
+
+Alexandra (ihm nachsehend).
+                                              Ich habe
+Noch einen Pfeil fuer dich! (Zu Mariamne.) Du wolltest's so!
+
+Mariamne.
+Ich danke dir!
+
+(Alexandra ab.)
+
+Aaron (zu den uebrigen Richtern). Versuchen wir nicht noch,
+Ihn zu erweichen? Mir ist dies entsetzlich!
+Es ist die letzte Makkabaeerin!
+Wenn wir nur kurzen Aufschub erst erlangten!
+Jetzt ging's nicht an, dass wir ihm widerstrebten,
+Bald wird er selbst ein andrer wieder sein.
+Und moeglich ist's, dass er uns dann bestraft,
+Weil wir ihm heut nicht Widerstand getan!
+Ihm nach! (Ab.)
+
+Joab (naehert sich Mariamnen).
+         Vergibst du mir? Ich muss gehorchen!
+
+Mariamne.
+Tu, was dein Herr gebot, und tu es schnell!
+Ich bin bereit, sobald du selbst es bist,
+Und Koeniginnen, weisst du, warten nicht!
+
+(Joab ab.)
+
+
+
+
+Sechste Szene
+
+Mariamne (tritt zu Titus).
+Nun noch ein Wort vorm Schlafengehn, indes
+Mein letzter Kaemmrer mir das Bette macht!
+Du staunst, ich seh es, dass ich dieses Wort
+An dich, und nicht an meine Mutter, richte,
+Allein sie steht mir fern und ist mir fremd.
+
+Titus.
+Ich staune, dass ein Weib mich lehren soll,
+Wie ich als Mann dereinst zu sterben habe!
+Ja, Koenigin, unheimlich ist dein Tun
+Und, ich verhehl's nicht, selbst dein Wesen mir,
+Allein ich muss den Heldensinn verehren,
+Der dich vom Leben scheiden laesst, als schiene
+Die schoene Welt dir auf dem letzten Gang
+Nicht einmal mehr des fluecht'gen Umblicks wert,
+Und dieser Mut versoehnt mich fast mit dir!
+
+Mariamne.
+Es ist kein Mut!
+
+Titus.
+Zwar hat man mir gesagt
+Dass eure finstern Pharisaeer lehren,
+Im Tode geh' das Leben erst recht an,
+Und dass, wer ihnen glaubt, die Welt verachtet,
+In welcher nur die Sonne ewig leuchtet
+Und alles uebrige in Nacht verlischt!
+
+Mariamne.
+Ich hoerte nie auf sie und glaub es nicht!
+O nein, ich weiss, wovon ich scheiden soll!
+
+Titus.
+Dann stehst du da, wie Caesar selber kaum,
+Als ihm von Brutus' Hand der Dolchstoss kam,
+Denn er, zu stolz, um seinen Schmerz zu zeigen,
+Und doch nicht stark genug, ihn zu ersticken,
+Verhuellte fallend sich das Angesicht;
+Du aber haeltst ihn in der Brust zurueck!
+
+Mariamne.
+Nicht mehr! Nicht mehr! Es ist nicht, wie du denkst!
+Ich fuehle keinen Schmerz mehr, denn zum Schmerz
+Gehoert noch Leben, und das Leben ist
+In mir erloschen, ich bin laengst nur noch
+Ein Mittelding vom Menschen und vom Schatten
+Und fass es kaum, dass ich noch sterben kann.
+Vernimm jetzt, was ich dir vertrauen will,
+Doch erst gelobe mir als Mann und Roemer,
+Dass du's verschweigst, bis ich hinunter bin,
+Und dass du mich geleitest, wenn ich geh.
+Du zoegerst? Fodre ich zuviel von dir?
+Es ist des Strauchelns wegen nicht! Und ob
+Du spaeter reden, ob du schweigen willst,
+Entscheide selbst. Ich binde dich in nichts
+Und halte meinen Wunsch sogar zurueck.
+Dich aber hab ich darum auserwaehlt,
+Weil du schon immer, wie ein eh'rnes Bild
+In eine Feuersbrunst, gelassen-kalt
+Hineingeschaut in unsre Hoelle hast.
+Dir muss man glauben, wenn du Zeugnis gibst,
+Wir sind fuer dich ein anderes Geschlecht,
+An das kein Band dich knuepft, du sprichst von uns,
+Wie wir von fremden Pflanzen und von Steinen,
+Parteilos, ohne Liebe, ohne Hass!
+
+Titus.
+Du gehst zu weit!
+
+Mariamne.
+                 Verweigerst du mir jetzt,
+Zu starr, dein Wort, so nehm ich mein Geheimnis
+Mit mir ins Grab und muss den letzten Trost
+Entbehren, den, dass eines Menschen Brust
+Mein Bild doch rein und unbefleckt bewahrt,
+Und dass er, wenn der Hass sein aergstes wagt,
+Den Schleier, der es deckt, aus Pflichtgefuehl
+Und Ehrfurcht vor der Wahrheit heben kann!
+
+Titus.
+Wohl! Ich gelob es dir!
+
+Mariamne.
+                       So wisse denn,
+Dass ich Herodes zwar betrog, doch anders,
+Ganz anders, als er waehnt! Ich war ihm treu,
+Wie er sich selbst. Was schmaeh ich mich? Viel treuer,
+Er ist ja laengst ein andrer, als er war.
+Soll ich das erst beteuern? Eher noch
+Entschliess ich mich, zu schwoeren, dass ich Augen
+Und Haend' und Fuesse habe. Diese koennt' ich
+Verlieren, und ich waer' noch, was ich bin,
+Doch Herz und Seele nicht!
+
+Titus.
+                          Ich glaube dir
+Und werde--
+
+Mariamne.
+           Halten, was du mir versprachst!
+Ich zweifle nicht! Nun frag dich, was ich fuehlte,
+Als er zum zweiten Mal, denn einmal hatte
+Ich's ihm verziehn, mich unters Schwert gestellt,
+Als ich mir sagen musste: eher gleicht
+Dein Schatten dir, als das verzerrte Bild,
+Das er im tiefsten Innern von dir traegt!
+Das hielt ich nicht mehr aus, und konnt' ich's denn?
+Ich griff zu meinem Dolch, und, abgehalten
+Vom rasch versuchten Selbstmord, schwur ich ihm:
+Du willst im Tode meinen Henker machen?
+Du sollst mein Henker werden, doch im Leben!
+Du sollst das Weib, das du erblicktest, toeten
+Und erst im Tod mich sehen, wie ich bin!--
+Du warst auf meinem Fest. Nun: Eine Larve
+Hat dort getanzt!
+
+Titus.
+                 Ha!
+
+Mariamne.
+                    Eine Larve stand
+Heut vor Gericht, fuer eine Larve wird
+Das Beil geschliffen, doch es trifft mich selbst!
+
+Titus.
+Ich steh erschuettert, Koenigin, auch zeih ich
+Dich nicht des Unrechts, doch ich muss dir sagen:
+Du hast mich selbst getaeuscht, du hast mich so
+Mit Grau'n und Abscheu durch dein Fest erfuellt,
+Wie jetzt mit schaudernder Bewunderung.
+Und, wenn das mir geschah, wie haette ihm
+Der Schein dein Wesen nicht verdunkeln sollen,
+Ihm, dessen Herz, von Leidenschaft bewegt,
+So wenig, wie ein aufgewuehlter Strom,
+Die Dinge spiegeln konnte, wie sie sind.
+Drum fuehl ich tiefes Mitleid auch mit ihm
+Und deine Rache finde ich zu streng!
+
+Mariamne.
+Auf meine eignen Kosten nehm ich sie!
+Und dass es nicht des Lebens wegen war,
+Wenn mich der Tod des Opfertiers empoerte,
+Das zeige ich, ich werf das Leben weg!
+
+Titus.
+Gib mir mein Wort zurueck!
+
+Mariamne.
+                         Und wenn du's braechest,
+Du wuerdest nichts mehr aendern. Sterben kann
+Ein Mensch den andern lassen; fortzuleben,
+Zwingt auch der Maechtigste den Schwaechsten nicht.
+Und ich bin muede, ich beneide schon
+Den Stein, und wenn's der Zweck des Lebens ist,
+Dass man es hassen und den ew'gen Tod
+Ihm vorziehn lernen soll, so wurde er
+In mir erreicht. Oh, dass man aus Granit,
+Aus nie zerbroeckelndem, den Sarg mir hoehlte
+Und in des Meeres Abgrund ihn versenkte,
+Damit sogar mein Staub den Elementen
+Fuer alle Ewigkeit entzogen sei!
+
+Titus.
+Wir leben aber in der Welt des Scheins!
+
+Mariamne.
+Das seh ich jetzt, drum gehe ich hinaus!
+
+Titus.
+Ich selbst, ich habe gegen dich gezeugt!
+
+Mariamne.
+Damit du's taetest, lud ich dich zum Fest!
+
+Titus.
+Wenn ich ihm sagte, was du mir gesagt--
+
+Mariamne.
+So riefe er mich um, ich zweifle nicht!
+Und folgte ich, so wuerde mir der Lohn,
+Dass ich vor einem jeden, der mir nahte,
+Von jetzt an schaudern und mir sagen muesste:
+Hab acht, das kann dein dritter Henker sein!
+Nein, Titus, nein, ich habe nicht gespielt,
+Fuer mich gibt's keinen Rueckweg. Gaeb' es den,
+Glaubst du, ich haett' ihn nicht entdeckt, als ich
+Von meinen Kindern ew'gen Abschied nahm?
+Wenn nichts, als Trotz mich triebe, wie er meint,
+Der Schmerz der Unschuld haett' den Trotz gebrochen:
+Jetzt machte er nur bittrer mir den Tod!
+
+Titus.
+Oh, fuehlt' er das und kaem' von selbst, und wuerfe
+Sich dir zu Fuessen!
+
+Mariamne.
+                  Ja! Dann haette er
+Den Daemon ueberwunden, und ich koennte
+Ihm alles sagen! Denn ich sollte nicht
+Unwuerdig mit ihm markten um ein Leben,
+Das durch den Preis, um den ich's kaufen kann,
+Fuer mich den letzten Wert verlieren muss,
+Ich sollte ihn fuer seinen Sieg belohnen,
+Und, glaube mir, ich koennt' es!
+
+Titus.
+                      Ahnst du nichts,
+Herodes?
+
+(Joab tritt geraeuschlos ein und bleibt schweigend stehen.)
+
+Mariamne.
+        Nein! Du siehst, er schickt mir den!
+        (Deutet auf Joab.)
+
+Titus.
+Lass mich--
+
+Mariamne.
+          Hast du mich nicht verstanden, Titus?
+Ist es in deinen Augen noch der Trotz,
+Der mir den Mund verschloss? Kann ich noch leben?
+Kann ich mit dem noch leben, der in mir
+Nicht einmal Gottes Ebenbild mehr ehrt?
+Und, wenn ich dadurch, dass ich schwieg, den Tod
+Heraufbeschwoeren und ihn waffnen konnte,
+Sollt' ich mein Schweigen brechen? Sollt' ich erst
+Den einen Dolch vertauschen mit dem andern?
+Und waer' es mehr gewesen?
+
+Titus.
+                         Sie hat recht!
+
+Mariamne (zu Joab).
+Bist du bereit?
+  (Joab verneigt sich.--Mariamne gegen Herodes' Gemaecher.)
+               Herodes, lebe wohl!
+        (Gegen die Erde.)
+Du, Aristobolus, sei mir gegruesst!
+Gleich bin ich bei dir in der ew'gen Nacht!
+
+(Sie schreitet auf die Tuer zu. Joab oeffnet. Man sieht Bewaffnete,
+die ehrerbietig Reihen bilden. Sie geht hinaus. Titus folgt ihr.
+Joab schliesst sich an. Feierliche Pause.)
+
+
+
+
+Siebente Szene
+
+Salome (tritt ein).
+Sie ging! Und dennoch schlaegt das Herz mir nicht!
+Ein Zeichen mehr, dass sie ihr Los verdient.
+So hab ich endlich meinen Bruder wieder
+Und meine Mutter ihren Sohn! Wohl mir,
+Dass ich nicht von ihm wich. Die Richter haetten
+Ihn sonst noch umgestimmt. Nein, Aaron, nein,
+Nichts von Gefangenschaft! Im Kerker bliebe
+Sie keinen Mond. Das Grab nur haelt sie fest,
+Denn nur zum Grabe hat er keinen Schluessel.
+
+
+
+
+Achte Szene
+
+Ein Diener.
+Drei Koen'ge aus dem Morgenland sind da,
+Mit koestlichen Geschenken reich beladen,
+Sie kommen an in diesem Augenblick,
+Und nie noch sah man fremdere Gestalten
+Und wundersamre Trachten hier, wie die!
+
+Salome.
+Fuehr sie herein!
+        (Diener ab.)
+                Die meld ich ihm sogleich.
+Solange die bei ihm sind, denkt er nicht
+An sie! Und bald ist alles aus mit ihr!
+        (Sie geht zu Herodes hinein.)
+
+(Der Diener fuehrt die drei Koenige herein. Sie sind fremdartig gekleidet und so,
+dass sie sich in allem voneinander unterscheiden. Ein reiches Gefolge, von dem dasselbe gilt,
+begleitet sie. Gold, Weihrauch und Myrrhen. Herodes tritt mit Salome gleich nachher ein.)
+
+Erster Koenig.
+Heil, Koenig, dir!
+
+Zweiter Koenig.
+                 Gesegnet ist dein Haus!
+
+Dritter Koenig.
+Gebenedeit in alle Ewigkeit!
+
+Herodes.
+Ich dank euch! Doch fuer diese Stunde duenkt
+Der Gruss mir seltsam!
+
+Erster Koenig.
+                     Ward dir nicht ein Sohn
+Geboren?
+
+Herodes.
+         Mir? O nein! Mir starb mein Weib!
+
+Erster Koenig.
+So ist hier unsers Bleibens nicht!
+
+Zweiter Koenig.
+                                  So gibt's
+Hier einen zweiten Koenig noch!
+
+Herodes.
+                              Dann gaebe
+Es keinen hier.
+
+Dritter Koenig.
+               So gibt's hier ausser deinem
+Noch einen zweiten koeniglichen Stamm!
+
+Herodes.
+Warum?
+
+Erster Koenig.
+      So ist es!
+
+Zweiter Koenig.
+                Ja, so muss es sein!
+
+Herodes.
+Auch davon weiss ich nichts!
+
+Salome (zu Herodes).
+                           In Bethlehem
+Hat sich vom Stamme Davids noch ein Zweig
+Erhalten!
+
+Dritter Koenig.
+         David war ein Koenig?
+
+Herodes.
+                             Ja!
+
+Erster Koenig.
+So ziehen wir nach Bethlehem hinab!
+
+Salome (faehrt fort zu Herodes).
+Allein er pflanzt sich nur in Bettlern fort!
+
+Herodes.
+Das glaub ich! Sonst--
+
+Salome.
+                      Ich sprach einst eine Jungfrau
+Aus Davids Haus, Maria, glaub ich, hiess sie,
+Die fand ich schoen genug fuer ihre Abkunft,
+Doch war sie einem Zimmermann verlobt
+Und schlug die Augen gegen mich kaum auf,
+Als ich sie nach dem Namen fragte!
+
+Herodes.
+                                  Hoert ihr's?
+
+Zweiter Koenig.
+Gleichviel! Wir gehn!
+
+Herodes.
+                     Ihr werdet mir doch erst
+Verkuenden, was euch hergefuehrt?
+
+Erster Koenig.
+                               Die Ehrfurcht
+Vorm Koenig aller Koenige!
+
+Zweiter Koenig.
+                        Der Wunsch,
+Ihm noch vorm Tod ins Angesicht zu schaun!
+
+Dritter Koenig.
+Die heil'ge Pflicht, ihm huldigend zu Fuessen
+Zu legen, was auf Erden kostbar ist!
+
+Herodes.
+Wer aber sagte euch von ihm?
+
+Erster Koenig.
+                            Ein Stern!
+Wir zogen nicht zusammen aus, wir wussten
+Nichts voneinander, unsre Reiche liegen
+Im Osten und im Westen, Meere fliessen
+Dazwischen, hohe Berge scheiden sie--
+
+Zweiter Koenig.
+Doch hatten wir denselben Stern gesehn,
+Es hatte uns derselbe Trieb erfasst,
+Wir wandelten denselben Weg und trafen
+Zuletzt zusammen an demselben Ziel--
+
+Dritter Koenig.
+Und ob des Koenigs, ob des Bettlers Sohn,
+Das Kind, dem dieser Stern ins Leben leuchtet,
+Wird hoch erhoehet werden, und auf Erden
+Kein Mensch mehr atmen, der sich ihm nicht beugt!
+
+Herodes (fuer sich).
+So spricht das alte Buch ja auch! (Laut.) Darf ich
+Nach Bethlehem euch einen Fuehrer geben?
+
+Erster Koenig (deutet gen Himmel).
+Wir haben einen!
+
+Herodes.
+                Wohl!--Wenn ihr das Kind
+Entdeckt, so werdet ihr es mir doch melden,
+Damit ich es, wie ihr, verehren kann?
+
+Erster Koenig.
+Wir werden's tun! Nun fort! nach Bethlehem!
+
+(Alle ab.)
+
+Herodes.
+Sie werden's nicht tun!
+        (Joab und Titus treten auf. Alexandra folgt ihnen.)
+
+                       Ha!
+
+Joab.
+                          Es ist vollbracht!
+
+(Herodes bedeckt sich das Gesicht.)
+
+Titus.
+Sie starb. Jawohl. Ich aber habe jetzt
+Ein noch viel fuerchterlicheres Geschaeft,
+Als der, der deinen blut'gen Spruch vollzog:
+Ich muss dir sagen, dass sie schuldlos war.
+
+Herodes.
+Nein, Titus, nein!
+        (Titus will sprechen. Herodes tritt dicht vor ihn hin.)
+
+Denn, waere das, so haettest
+Du sie nicht sterben lassen.
+
+Titus.
+                            Niemand konnte
+Das hindern, als du selbst!--Es tut mir weh,
+Dass ich dir mehr, als Henker, werden muss,
+Doch, wenn es heil'ge Pflicht ist, einen Toten,
+Wer er auch immer sein mag, zu bestatten,
+So ist die Pflicht noch heil'ger, ihn von Schmach
+Zu reinigen, wenn er sie nicht verdient,
+Und diese Pflicht gebeut mir jetzt allein!
+
+Herodes.
+Ich seh aus allem, was du sprichst, nur eins:
+Ihr Zauber war ihr selbst im Tode treu!
+Was groll ich dem Soemus noch! Wie sollt' er
+Der Blendenden im Leben widerstehn!
+Dich hat sie im Erloeschen noch entflammt!
+
+Titus.
+Geht Eifersucht selbst uebers Grab hinaus?
+
+Herodes.
+Wenn ich mich taeuschte, wenn aus deinem Mund
+Jetzt, etwas andres, als ein Mitleid spraeche,
+Das viel zu tief ist, um nicht mehr zu sein:
+Dann muesst' ich dich doch mahnen, dass dein Zeugnis
+Sie mit verdammen half, und dass es Pflicht
+Fuer dich gewesen waere, mich zu warnen,
+Sobald dir nur der kleinste Zweifel kam!
+
+Titus.
+Mich hielt mein Wort zurueck und mehr, als das:
+Die unerbittliche Notwendigkeit.
+Waer' ich nur einen Schritt von ihr gewichen,
+So haette sie sich selbst den Tod gegeben,
+Ich sah den Dolch auf ihrer Brust versteckt,
+Und mehr als einmal zuckte ihre Hand.
+        (Pause.)
+Sie wollte sterben, und sie musste auch!
+Sie hat so viel gelitten und verziehn,
+Als sie zu leiden, zu verzeihn vermochte:
+Ich habe in ihr Innerstes geschaut.
+Wer mehr verlangt, der hadre nicht mit ihr,
+Er hadre einzig mit den Elementen,
+Die sich nun einmal so in ihr gemischt,
+Dass sie nicht weiter konnte. Doch er zeige
+Mir auch das Weib, das weiter kam, als sie!
+        (Herodes macht eine Bewegung.)
+Sie wollte ihren Tod von dir und rief
+Das wueste Traumbild deiner Eifersucht,
+Selbstmoerdrisch gaukelnd und uns alle taeuschend,
+Auf ihrem Feste in ein truegrisch Sein.
+Das fand ich streng, nicht ungerecht. Sie trat
+Als Larve vor dich hin, die Larve sollte
+Dich reizen, mit dem Schwert nach ihr zu stossen,
+        (Er zeigt auf Joab.)
+Das tatest du, und toetetest sie selbst!
+
+Herodes.
+So sprach sie. Doch sie sprach aus Rache so!
+
+Titus.
+So war's. Ich habe gegen sie gezeugt,
+Wie gerne moecht' ich zweifeln!
+
+Herodes.
+                              Und Soemus?
+
+Titus.
+Ich bin ihm auf dem Todesweg begegnet,
+Er trat den seinen an, als sie den ihren
+Vollendet hatte, und ihm schien's ein Trost,
+Dass sich sein Blut mit ihrem mischen wuerde,
+Wenn auch nur auf dem Block durch Henkers Hand.
+
+Herodes.
+Ha! Siehst du?
+
+Titus.
+               Was?
+Vielleicht hat er im stillen
+Fuer sie geglueht. Doch, wenn das Suende war,
+So war's die seinige, die ihre nicht.
+Er rief mir zu: jetzt sterb ich, weil ich sprach,
+Sonst muesst' ich sterben, weil ich sprechen koennte,
+Denn das war Josephs Los! Der schwur mir noch
+Im Tode, dass er schuldlos sei, wie ich!
+Das merkt' ich mir!
+
+Herodes (ausbrechend). Joseph! Raecht der sich auch?
+Tut sich die Erde auf? Gehn alle Toten
+Hervor?
+
+Alexandra (tritt vor ihn hin).
+       Das tun sie!--Nein doch! Fuerchte nichts!
+Es gibt schon eine, welche drunten bleibt!
+
+Herodes.
+Verfluchte! (Er bezwingt sich.) Sei's so! Wenn denn auch Soemus
+Nur ein Verbrechen gegen mich beging--
+        (Er kehrt sich gegen Salome.)
+Joseph, der ihn mit diesem schnoeden Argwohn
+Erfuellte, Joseph hat ihn noch im Tode
+Belogen, nicht? Joseph--Was schweigst du jetzt?
+
+Salome.
+Auf Schritt und Tritt verfolgt' er sie--
+
+Alexandra (zu Herodes).
+                                        Jawohl!
+Doch sicher nur, um die Gelegenheit
+Zu finden, deinen Auftrag zu vollziehn
+Um sie und mich zu toeten--
+
+Herodes.
+                          Ist das wahr?
+        (Zu Salome.)
+Und du? Du?--
+
+Alexandra.
+             In derselben Stunde fast
+Wo er die Maske voellig fallen liess,
+Hat Mariamne einen Schwur getan,
+Sich selbst, wenn du nicht wiederkehren solltest,
+Den Tod zu geben. Ich verhehl es nicht,
+Dass ich sie darum hasste!
+
+Herodes.
+                        Fuerchterlich!
+Und das--das sagst du jetzt erst?
+
+Alexandra.
+                                 Ja!
+
+Titus.
+                                    Ich weiss
+Es auch, es war ihr letztes Wort zu mir,
+Doch tausend Jahre haett' ich's dir verschwiegen,
+Ich wollte sie nur rein'gen, dich nicht martern!
+
+Herodes.
+Dann--(Die Stimme versagt ihm.)
+
+Titus.
+      Fasse dich! Es trifft mich mit!
+
+Herodes.
+                                     Jawohl!
+Dich--die (gegen Salome)--und jeden, welcher hier, wie ich,
+Des tueck'schen Schicksals blindes Werkzeug war,
+Doch ich allein verlor, was man auf Erden
+In Ewigkeit nicht wiedersehen wird!
+Verlor? Oh! Oh!
+
+Alexandra.
+               Ha, Aristobolus!
+Du bist geraecht, mein Sohn, und ich in dir!
+
+Herodes.
+Du triumphierst? Du glaubst, ich werde jetzt
+Zusammenbrechen? Nein, das werd' ich nicht!
+Ich bin ein Koenig, und ich will's die Welt
+      (Er macht eine Bewegung, als ob er etwas zerbraeche)
+Empfinden lassen!--Auf jetzt, Pharisaeer,
+Empoert euch gegen mich! (Zu Salome.) Und du, was weichst du
+Schon jetzt vor mir? Noch hab ich wohl kein andres
+Gesicht, allein schon morgen kann's geschehn,
+Dass meine eigne Mutter schwoeren muss,
+Ich sei ihr Sohn nicht!--(Nach einer Pause, dumpf.)
+
+                         Waere meine Krone
+Mit allen Sternen, die am Himmel flammen,
+Besetzt: fuer Mariamne gaebe ich
+Sie hin und, haett' ich ihn, den Erdball mit.
+Ja, koennte ich sie dadurch, dass ich selbst,
+Lebendig, wie ich bin, ins Grab mich legte,
+Erloesen aus dem ihrigen: ich taet's,
+Ich gruebe mich mit eignen Haenden ein!
+Allein ich kann's nicht! Darum bleib ich noch
+Und halte fest, was ich noch hab! Das ist
+Nicht viel, doch eine Krone ist darunter,
+Die jetzt an Weibes Statt mir gelten soll,
+Und wer nach der mir greift--Das tut man ja,
+Ein Knabe tut das ja, der Wunderknabe,
+Den die Propheten laengst verkuendet haben,
+Und dem jetzt gar ein Stern ins Leben leuchtet.
+Doch, Schicksal, du verrechnetest dich sehr,
+Wenn du, indem du mich mit eh'rnem Fuss
+Zertratest, ihm die Bahn zu ebnen glaubtest,
+Ich bin Soldat, ich kaempfe selbst mit dir,
+Und beiss dich noch im Liegen in die Ferse!
+(Rasch.) Joab!
+        (Joab tritt heran. Herodes verhalten.)
+              Du ziehst nach Bethlehem hinab
+Und sagst dem Hauptmann, welcher dort befiehlt,
+Er soll den Wunderknaben--Doch, er findet
+Ihn nicht heraus, nicht jeder sieht den Stern,
+Und diese Koen'ge sind so falsch, als fromm--
+Er soll die Kinder, die im letzten Jahr
+Geboren wurden, auf der Stelle toeten,
+Es darf nicht eins am Leben bleiben!
+
+Joab (tritt zurueck).
+                                    Wohl!
+(Fuer sich.) Ich weiss warum! Doch Moses ward gerettet,
+Trotz Pharao!
+
+Herodes (noch laut und stark).
+             Ich sehe morgen nach!--
+Heut muss ich Mariamne--(Er bricht zusammen.) Titus!
+
+(Titus faengt ihn auf.)
+
+
+
+
+
+Ende dieses Etextes von Projekt tamilbookshelf Herodes und Mariamne
+von Friedrich Hebbel.
+
