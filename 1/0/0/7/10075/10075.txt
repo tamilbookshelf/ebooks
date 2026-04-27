@@ -3,10 +3,7 @@ Venture, a Native of Africa, But Resident above Sixty Years in the United
 States of America, Related by Himself, by Venture Smith
 
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 
 
@@ -949,7 +946,7 @@ IN THE UNITED STATES OF AMERICA, RELATED BY HIMSELF***
 
 
 This and all associated files of various formats will be found in:
-http://www.gutenberg.net/1/0/0/7/10075
+http://www.tamilbookshelf.in/1/0/0/7/10075
 
 
 Updated editions will replace the previous one--the old editions
@@ -984,7 +981,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://tamilbookshelf.in/license).
 
 
 Section 1.  General Terms of Use and Redistributing Tamil Bookshelf-tm
@@ -1046,10 +1043,7 @@ phrase "Tamil Bookshelf" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 1.E.2.  If an individual Tamil Bookshelf-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -1084,7 +1078,7 @@ compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Tamil Bookshelf-tm work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
-posted on the official Tamil Bookshelf-tm web site (www.gutenberg.net),
+posted on the official Tamil Bookshelf-tm web site (www.tamilbookshelf.in),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
@@ -1303,7 +1297,7 @@ new filenames and etext numbers.
 
 Most people start at our Web site which has the main PG search facility:
 
-http://www.gutenberg.net
+http://www.tamilbookshelf.in
 
 This Web site includes information about Tamil Bookshelf-tm,
 including how to make donations to the Tamil Bookshelf Literary
@@ -1328,12 +1322,12 @@ identical to the filename).  The path to the file is made up of single
 digits corresponding to all but the last digit in the filename.  For
 example an eBook of filename 10234 would be found at:
 
-http://www.gutenberg.net/1/0/2/3/10234
+http://www.tamilbookshelf.in/1/0/2/3/10234
 
 or filename 24689 would be found at:
-http://www.gutenberg.net/2/4/6/8/24689
+http://www.tamilbookshelf.in/2/4/6/8/24689
 
 An alternative method of locating eBooks:
-http://www.gutenberg.net/GUTINDEX.ALL
+http://www.tamilbookshelf.in/GUTINDEX.ALL
 
 *** END: FULL LICENSE ***

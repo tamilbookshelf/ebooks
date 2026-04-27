@@ -37,9 +37,9 @@ Online Distributed Proofreading Team (http://www.pgdp.net/)
 Note: Tamil Bookshelf also has an HTML version of this
       file which includes the original illustrations.
       See 17563-h.htm or 17563-h.zip:
-      (http://www.gutenberg.net/dirs/1/7/5/6/17563/17563-h/17563-h.htm)
+      (http://www.tamilbookshelf.in/dirs/1/7/5/6/17563/17563-h/17563-h.htm)
       or
-      (http://www.gutenberg.net/dirs/1/7/5/6/17563/17563-h.zip)
+      (http://www.tamilbookshelf.in/dirs/1/7/5/6/17563/17563-h.zip)
 
       Two obvious typographical errors were corrected in transcribing
       this text. For a complete list, please see the Transcriber's

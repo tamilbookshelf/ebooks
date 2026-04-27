@@ -1,10 +1,7 @@
 The Tamil Bookshelf EBook of Act, Declaration, & Testimony for the Whole
 of our Covenanted Reformation, as Attained to, and Established in Britain and Ireland; Particularly Betwixt the Years 1638 and 1649, Inclusive, by The Reformed Presbytery
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 
 Title: Act, Declaration, & Testimony for the Whole of our Covenanted Reformation, as Attained to, and Established in Britain and Ireland; Particularly Betwixt the Years 1638 and 1649, Inclusive
@@ -9174,7 +9171,7 @@ Whole of our Covenanted Reformation, as Attained to, and Established in Britain 
 
 ***** This file should be named 13200-8.txt or 13200-8.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.net/1/3/2/0/13200/
+        http://www.tamilbookshelf.in/1/3/2/0/13200/
 
 Produced by Jordan Dohms and PG Distributed Proofreaders
 
@@ -9210,7 +9207,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://tamilbookshelf.in/license).
 
 
 Section 1.  General Terms of Use and Redistributing Tamil Bookshelf-tm
@@ -9272,10 +9269,7 @@ phrase "Tamil Bookshelf" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 1.E.2.  If an individual Tamil Bookshelf-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -9310,7 +9304,7 @@ compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Tamil Bookshelf-tm work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
-posted on the official Tamil Bookshelf-tm web site (www.gutenberg.net),
+posted on the official Tamil Bookshelf-tm web site (www.tamilbookshelf.in),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
@@ -9520,7 +9514,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+     http://www.tamilbookshelf.in
 
 This Web site includes information about Tamil Bookshelf-tm,
 including how to make donations to the Tamil Bookshelf Literary

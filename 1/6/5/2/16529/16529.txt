@@ -2,10 +2,7 @@ The Tamil Bookshelf eBook, Lost Leaders, by Andrew Lang, Edited by W.
 Pett Ridge
 
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 
 
@@ -3837,7 +3834,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://tamilbookshelf.in/license).
 
 
 Section 1.  General Terms of Use and Redistributing Tamil Bookshelf-tm
@@ -3899,10 +3896,7 @@ phrase "Tamil Bookshelf" appears, or with which the phrase "Project
 Gutenberg" is associated) is accessed, displayed, performed, viewed,
 copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Tamil Bookshelf License included
-with this eBook or online at www.gutenberg.net
+
 
 1.E.2.  If an individual Tamil Bookshelf-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -3937,7 +3931,7 @@ compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Tamil Bookshelf-tm work in a format other than
 "Plain Vanilla ASCII" or other format used in the official version
-posted on the official Tamil Bookshelf-tm web site (www.gutenberg.net),
+posted on the official Tamil Bookshelf-tm web site (www.tamilbookshelf.in),
 you must, at no additional cost, fee or expense to the user, provide a
 copy, a means of exporting a copy, or a means of obtaining a copy upon
 request, of the work in its original "Plain Vanilla ASCII" or other
@@ -4069,7 +4063,7 @@ Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Tamil Bookshelf-tm and future generations.
 To learn more about the Tamil Bookshelf Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.gutenberg.net/fundraising/pglaf.
+and the Foundation web page at http://www.tamilbookshelf.in/fundraising/pglaf.
 
 
 Section 3.  Information about the Tamil Bookshelf Literary Archive
@@ -4089,7 +4083,7 @@ throughout numerous locations.  Its business office is located at
 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official
-page at http://www.gutenberg.net/about/contact
+page at http://www.tamilbookshelf.in/about/contact
 
 For additional contact information:
      Dr. Gregory B. Newby
@@ -4114,7 +4108,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements.  We do not solicit donations in locations
 where we have not received written confirmation of compliance.  To
 SEND DONATIONS or determine the status of compliance for any
-particular state visit http://www.gutenberg.net/fundraising/donate
+particular state visit http://www.tamilbookshelf.in/fundraising/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -4129,7 +4123,7 @@ Please check the Tamil Bookshelf Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit:
-http://www.gutenberg.net/fundraising/donate
+http://www.tamilbookshelf.in/fundraising/donate
 
 
 Section 5.  General Information About Tamil Bookshelf-tm electronic
@@ -4147,7 +4141,7 @@ keep eBooks in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+     http://www.tamilbookshelf.in
 
 This Web site includes information about Tamil Bookshelf-tm,
 including how to make donations to the Tamil Bookshelf Literary

@@ -7,7 +7,7 @@ Tamil Bookshelf's Hero Tales and Legends of the Rhine, by Lewis Spence
 This eBook is for the use of anyone anywhere at no cost and with almost
 no restrictions whatsoever. You may copy it, give it away or re-use
 it under the terms of the Tamil Bookshelf License included with this
-eBook or online at www.gutenberg.net
+eBook or online at www.tamilbookshelf.in
 
 
 Title: Hero Tales and Legends of the Rhine
@@ -11016,7 +11016,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
 Gutenberg"), you agree to comply with all the terms of the Full
 Tamil Bookshelf-tm License (available with this file or online at
-http://gutenberg.net/license).
+http://tamilbookshelf.in/license).
 
 
 Section 1. General Terms of Use and Redistributing Tamil Bookshelf-tm
@@ -11082,7 +11082,7 @@ copied or distributed:
 This eBook is for the use of anyone anywhere at no cost and with almost
 no restrictions whatsoever. You may copy it, give it away or re-use
 it under the terms of the Tamil Bookshelf License included with this
-eBook or online at www.gutenberg.net
+eBook or online at www.tamilbookshelf.in
 
 1.E.2. If an individual Tamil Bookshelf-tm electronic work is derived
 from the public domain (does not contain a notice indicating that it is
@@ -11117,7 +11117,7 @@ word processing or hypertext form. However, if you provide access to or
 distribute copies of a Tamil Bookshelf-tm work in a format other
 than "Plain Vanilla ASCII" or other format used in the official
 version posted on the official Tamil Bookshelf-tm web site
-(www.gutenberg.net), you must, at no additional cost, fee or expense
+(www.tamilbookshelf.in), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
 Vanilla ASCII" or other form. Any alternate format must include the full
@@ -11325,7 +11325,7 @@ in compliance with any particular paper edition.
 
 Most people start at our Web site which has the main PG search facility:
 
-     http://www.gutenberg.net
+     http://www.tamilbookshelf.in
 
 This Web site includes information about Tamil Bookshelf-tm, including
 how to make donations to the Tamil Bookshelf Literary Archive
