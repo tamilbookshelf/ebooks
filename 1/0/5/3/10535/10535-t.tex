@@ -1,0 +1,36 @@
+\documentclass[oneside]{book}
+\usepackage{fullpage}
+\usepackage[dvips]{graphicx}
+
+\input titledefs.tex
+\def\preLilyPondExample{\def\mustmakelilypondtitle{}}
+
+\begin{document}
+
+\setlength{\textheight}{700pt}
+
+\begin{center}
+\includegraphics{frontis.eps}
+
+\newpage
+
+\lilypondfile[noindent,noquote]{jinglebells.ly}
+
+\large{
+\begin{tabular}{l l}
+\textbf{3.} & \textbf{4.} \\
+A day or two ago, & Now the ground is white \\
+The story I must tell & Go it while you're young, \\
+I went out on the snow & Take the girls to night \\
+And on my back I fell; & And sing this sleighing song; \\
+A gent was riding by & Just get a bob tailed bay \\
+In a one horse open sleigh, & Two forty as his speed \\
+He laughed as there I sprawling lie, & Hitch him to an open sleigh \\
+But quickly drove away. & And crack, you'll take the lead. \\
+
+\end{tabular}
+}
+
+\end{center}
+
+\end{document}

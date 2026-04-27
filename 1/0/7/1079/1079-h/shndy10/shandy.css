@@ -1,0 +1,145 @@
+
+
+body { color: black;
+       font-size: 11pt;
+       line-height: 13pt;
+       font-family: Garamond, "Times New Roman", serif;
+     } 
+ 
+p { text-align: justify; 
+    color: black; 
+    font-size: 11pt;
+    line-height: 13pt;
+    font-family: Garamond, "Times New Roman", serif;
+    text-indent: 5%; margin-top: 0pt; margin-bottom: 0%;
+  }
+
+#textr { text-align: right; }
+p.intro { font-size: 12pt;
+          line-height: 15pt;
+          text-indent: 0%;
+        }
+p.two { text-align: justify; 
+        color: black; 
+        font-size: 11pt;
+        line-height: 13pt;
+        font-family: Garamond, "Times New Roman", serif;
+        text-indent: 10%; margin-top: 0pt; margin-bottom: 0%;
+      }
+p.three { text-align: justify; 
+          color: black; 
+          font-size: 11pt;
+          line-height: 13pt;
+          font-family: Garamond, "Times New Roman", serif;
+          text-indent: 27%; margin-top: 0pt; margin-bottom: 0%;
+        }
+
+p.one { text-align: justify; 
+        color: black; 
+        font-size: 11pt;
+        line-height: 13pt;
+        font-family: Garamond, "Times New Roman", serif;
+        text-indent: 0%; margin-top: 0pt; margin-bottom: 0%;
+      }
+
+p.center { text-align: center; 
+           color: black; 
+           font-size: 11pt;
+           line-height: 13pt;
+           font-family: Garamond, "Times New Roman", serif;
+           text-indent: 0%; margin-top: 0pt; margin-bottom: 0%;
+         }
+
+hr { width: 100%;
+     color: red;
+     align: left;
+   }
+hr.one { width: 100%;
+         color: black;
+         size: 1px;
+       }
+hr.ft { width: 35%;
+        color: black;
+      }
+p.left { text-align: left;
+         text-indent: 0%;
+         color: black; 
+         font-size: 11pt;
+         line-height: 13pt;
+         font-family: Garamond, "Times New Roman", serif;
+         text-indent: 0%; margin-top: 0pt; margin-bottom: 0%;
+       }
+p.half { text-align: left;
+         text-indent: 0%;
+         color: black; 
+         font-size: 11pt;
+         line-height: 6pt;
+         font-family: Garamond, "Times New Roman", serif;
+         text-indent: 15%; margin-top: 0pt; margin-bottom: 0%;
+       }
+
+p.right { text-align: right;
+          text-indent: 0%;
+          color: black; 
+          font-size: 11pt;
+          line-height: 13pt;
+          font-family: Garamond, "Times New Roman", serif;
+          text-indent: 0%; margin-top: 0pt; margin-bottom: 0%;
+        }
+p.title { font-size: 9pt;
+          text-align: right;
+        }
+p.fnote { text-align: justify;
+          font-size: 9pt;
+          line-height: 10pt;
+          text-indent: 0%;
+          margin-top: 3pt;
+        } 
+p.fnote1 { text-align: justify;
+           font-size: 9pt;
+           line-height: 13pt;
+           text-indent: 0%;
+           margin-top: 0pt;
+         } 
+
+small  { font-size: 9pt; 
+         letter-spacing: .1em;
+         line-height: 13pt;
+       }
+==============
+table { summary: "The Life and Opinions of Tristram Shandy";
+        border: 0;
+        cellspacing: 0; cellpadding: 0;
+        font-size: 11pt;
+        line-height: 13pt;
+        font-family: Garamond, "Times New Roman", serif;
+      } 
+td.one { width: 36%;
+         background-color: ivory;
+         vertical-align: top;
+       }
+td.onea { width: 36%; height: 500px;
+          background-color: ivory;
+          vertical-align: top;
+       }
+
+td.two { width: 6%;
+         background-color: white;
+       }
+
+td.three { width: 36%;
+           background-color: ivory;
+           vertical-align: top;
+         }      
+td.threea { width: 36%;
+            background-color: white;
+            vertical-align: top;
+          }
+       
+a:link { font-size: 8pt;
+         text-decoration: none;
+         color: purple;
+         background: lightyellow;
+       }
+a:visited {text-decoration: none; }
+
